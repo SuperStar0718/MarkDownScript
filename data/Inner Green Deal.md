@@ -22,22 +22,25 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "The Inner Green Deal gGmbH (IGD) is a non-profit leadership development organisation based in Brussels and Cologne with a growing community around the world. Its mission is to accelerate the green transformation through inner development, reconnection to nature and collaboration. The Inner Green Deal works with large systemic organisations such as the EU and the UN as well as with community leaders and facilitators." 
 
 https://innergreendeal.com/wp-content/uploads/Inner_Green_Deal_-_The_Human_Dimension_of_the_Green_Deal.pdf
 
+## key People
 
-##key People
 undefined
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 https://innergreendeal.com/wp-content/uploads/Inner_Green_Deal_-_The_Human_Dimension_of_the_Green_Deal.pdf
 
-##Connections
+## Connections
+
 undefined
 

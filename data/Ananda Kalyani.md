@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "Ananda Kalyani is a pioneering Integrated Rural Development (IRD) project of Ananda Marga dedicated to spirituality, local development and holistic regeneration, encompassing environmental, economic, and social aspects. Our aim is to serve as a model and educational hub for sustainable and regenerative living in the 21st century.
 
@@ -34,16 +34,19 @@ In 2010, we set out to find land in Serra da Estrela to build and establish an A
 
 https://anandakalyani.org/about/ 
 
+## key People
 
-##key People
 
 
-##Theory of change
+## Theory of change
+
 They take a Neohumanistic approach, see https://neohumanisteducation.org/resources/articles/what-is-neohumanism/ which is linked from their website. They seek "regeneration on multiple fronts: spiritual, cultural, environmental, political, social, and economic".
 
-##key learning resources
+## key learning resources
 
 
-##Connections
+
+## Connections
+
 
 

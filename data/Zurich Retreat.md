@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "A competence centre of social innovation and future sense-making.
 
@@ -32,17 +32,20 @@ ZurichRetreat is prototyping solutions and providing inspiring education for wha
 
 https://www.zurichretreat.com/project-en
 
+## key People
 
-##key People
 MARTIN HOHN | Founder
 
-##Theory of change
+## Theory of change
+
 social innovation and future sense-making
 
-##key learning resources
+## key learning resources
 
 
-##Connections
+
+## Connections
+
 Collaboratio Helvetica
 x27
 Sens Suisse

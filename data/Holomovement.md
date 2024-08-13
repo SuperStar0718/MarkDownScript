@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 The Holomovement is a social movement that awakens us to our interconnectedness, igniting a critical mass of collaborative action serving the good of the whole. 
 
@@ -32,8 +32,8 @@ While there are stewards supporting the movement, there are no boards or governi
 
 The Holomovement is an experiment in joyful collaboration--a named space for coalition and shared collective wisdom--rather than a non-profit or organizational entity. 
 
+## key People
 
-##key People
 Fundación por el Futuro
 Purpose Earth
 The Source of Synergy Foundation
@@ -43,16 +43,19 @@ Green Heart Music,
 Light on Light, 
 NewStories,
 
-##Theory of change
+## Theory of change
+
 Meditation or Interspiritual Prayer Circles.
 Community park, beach or trail hike clean-ups.
 Regenerative farming or permaculture projects.
 Mentorship programs or other nonprofit organizational work.
 Educational programs for children or vulnerable communities.
 
-##key learning resources
+## key learning resources
+
 https://www.holomovement.net/media
 
-##Connections
+## Connections
+
 
 

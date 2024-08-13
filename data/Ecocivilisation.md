@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "Ecocivilisation is a movement
 
@@ -36,17 +36,20 @@ Ecocivilization is based on a model of a possible new social structure that focu
 
 https://www.ecocivilisation.earth/
 
+## key People
 
-##key People
 
 
-##Theory of change
+## Theory of change
+
 Framework: https://drive.google.com/file/d/1UKESV1NZTi1vIJnZqcW6cDXLZRhbWeAd/view?usp=drive_link 
 See https://www.ecocivilisation.earth/ecocivilisation.  
 
-##key learning resources
+## key learning resources
 
 
-##Connections
+
+## Connections
+
 
 

@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "We immerse leaders in the forces shaping the future – so they can shape the future of their organizations. We help companies align strategy, culture, and skills by creating purposeful change that sticks across three levels:
 
@@ -37,16 +37,19 @@ Enabling collaboration across sectors to reimagine the future and accelerate sol
 
 https://leadersquest.org/
 
+## key People
 
-##key People
 undefined
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 https://leadersquest.org/insights/
 
-##Connections
+## Connections
+
 undefined
 

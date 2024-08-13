@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "The World Academy of Art & Science (WAAS) was founded in 1960 by eminent intellectuals including Albert Einstein; Robert Oppenheimer, Father of Manhattan Project; Bertrand Russell, Joseph Needham, co-Founder of UNESCO; Lord Boyd Orr, first Director General of FAO; Brock Chisholm, first Director General of WHO and many others. The Academy serves as a forum for reflective scientists, artists, and scholars dedicated to addressing the pressing challenges confronting humanity today independent of political boundaries or limits, whether spiritual or physical — a forum where these problems can be discussed objectively, scientifically, globally, and free from vested interests or regional attachments to arrive at solutions that affirm universal human rights and serve the common good of all humanity. WAAS is founded on faith in the power of original and creative ideas — Real Ideas with effective power — to change the world.
 
@@ -32,17 +32,20 @@ WAAS Fellows come from diverse cultures, nationalities, intellectual disciplines
 
 https://worldacademy.org/about-us/
 
+## key People
 
-##key People
 Albert Einstein; Robert Oppenheimer, Father of Manhattan Project; Bertrand Russell, Joseph Needham, co-Founder of UNESCO; Lord Boyd Orr, first Director General of FAO; Brock Chisholm, first Director General of WHO and many others
 
-##Theory of change
+## Theory of change
+
 See their 2021 Retrospective and Reflections: https://drive.google.com/file/d/19g3nudJh9FqTBIyIsghepqjSxfmAxoiz/view?usp=drive_link
 
-##key learning resources
+## key learning resources
+
 - 11 Essays on Societal Transformation: The Most Important Challenge Facing Humanity by WAAS Working Group (2021): https://cadmusjournal.org/article/volume-4/issue-5/societal-transformation 
 
-##Connections
+## Connections
+
 1. ECOSOC
 2. UNESCO
 3. World University Consortium

@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "Through a living systems approach, nRhythm is on a mission to transform workplaces and create conditions where health and abundance are the natural outcomes.
 
@@ -35,17 +35,20 @@ Organizations are complex living systems. And living systems require a very diff
 nRhythm helps organizations make the necessary shifts in their design and operations to align with a living systems approach. We call organizations who embrace this approach Regenerative Organizations." 
 https://www.nrhythm.co/ 
 
+## key People
 
-##key People
 undefined
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 - Various resources related to Regeneration and Living Systems which inspire their work: https://www.nrhythm.co/learn 
 - Free mini workbooks on topics related to Regenerative Leadership: https://www.nrhythm.co/mini-workbook 
 
-##Connections
+## Connections
+
 undefined
 

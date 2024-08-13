@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "The Nova Institute for Health is a heart-centered think tank that takes action for the good of people, places, and the planet. We look at the whole picture, the entire lived experience that influences health.   
 
@@ -34,16 +34,19 @@ https://novainstituteforhealth.org/about/
 Bold new approaches are urgently needed to overcome this mounting crisis. It’s time to fundamentally shift how we think about health and well-being at all scales, from the individual to the local to the global."
 https://novainstituteforhealth.org/about/what-we-do/ 
 
-
-##key People
-
-
-##Theory of change
+## key People
 
 
-##key learning resources
+
+## Theory of change
+
+
+
+## key learning resources
+
 Research and publications: https://novainstituteforhealth.org/news-and-resources/research-and-publications/ 
 
-##Connections
+## Connections
+
 
 

@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "In order to create meaningful impact, businesses, organisations and groups of all sizes must be able to navigate historically unprecedented levels of complexity and uncertainty. Collective Transitions offers a grounded set of transformational approaches and practices for groups and facilitators to better navigate these shifts. We are an action-learning and research hub working with a wide range of clients, especially social change and multi-stakeholder initiatives."
 https://www.collectivetransitions.com/
@@ -36,16 +36,19 @@ Mission
 Our mission is to activate the dormant capacities that are required for navigating complexity. We provide awareness-based tools that amplify collective knowledge,  and practice spaces where people can deepen and align their ways of working together."
 https://www.collectivetransitions.com/what-is-ct 
 
+## key People
 
-##key People
 undefined
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 Articles on Systems Sensing: https://www.collectivetransitions.com/publications
 
-##Connections
+## Connections
+
 undefined
 

@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 La Bolina is an ecological, regenerative and intercultural association based in El Valle, near Granada, Spain.
 
@@ -41,16 +41,19 @@ La Bolina is becoming integrated locally and regionally and our team members are
 La Bolina’s projects and actions adapt (like a living ecosystem) responding to changes in the local context – such as connections with people, new collaborators, local politics, the trends in migration and the realities of the Spanish asylum system, availability of land and learning new farming techniques."
 https://labolina.org/en/home/the-bolina/ 
 
+## key People
 
-##key People
 undefined
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
 
 
-##Connections
+
+## Connections
+
 Re-Alliance and ULEX are listed as collaborators: https://labolina.org/en/home/collaborators/
 

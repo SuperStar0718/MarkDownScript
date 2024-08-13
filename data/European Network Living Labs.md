@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "Living Labs (LLs) are open innovation ecosystems in real-life environments using iterative feedback processes throughout a lifecycle approach of an innovation to create sustainable impact.
 
@@ -33,16 +33,19 @@ Within a wide variety of living labs, they all have common characteristics, but 
 
 https://enoll.org/about-us/
 
+## key People
 
-##key People
 undefined
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 undefined
 
-##Connections
+## Connections
+
 undefined
 

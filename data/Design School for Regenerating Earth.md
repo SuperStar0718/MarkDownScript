@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 A Mighty Network community.
 
@@ -37,16 +37,19 @@ The challenges humanity and the Earth are facing now are extremely complex and u
 https://design-school-for-regenerating-earth.mn.co/ 
 
 
+## key People
 
-##key People
 Joe Brewer
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
 
 
-##Connections
+
+## Connections
+
 
 

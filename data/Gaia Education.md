@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "As an award-winning provider of holistic Education for Sustainable Development, Gaia Education empowers students across the globe to see the interconnectedness of life. We teach the knowledge & skills needed to design truly regenerative communities which thrive within planetary boundaries.
 
@@ -32,16 +32,19 @@ We believe that education is the biggest tool in the urgent transition to a more
 
 https://www.gaiaeducation.org/
 
+## key People
 
-##key People
 undefined
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 undefined
 
-##Connections
+## Connections
+
 undefined
 

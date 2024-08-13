@@ -22,24 +22,27 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 The Ecological Law and Governance Association (ELGA) seeks to provide a forum and a platform for diverse groups to work together and amplify their voices to transform our current human-centered, growth-focused legal paradigm, to an Earth-centered, ‘ecological law and governance’ paradigm to better protect the foundations of life. Our vision is a just, flourishing world where state and global governance systems protect the foundations of life.
 
+## key People
 
-##key People
 Klaus Bosselmann (Chair)
 Massimiliano Montini (Vice-Chair)
 
-##Theory of change
+## Theory of change
+
 religious anthropocentrism, Cartesian dualism, philosophical individualism and ethical utilitarianism. In our ecological age,
 
-##key learning resources
+## key learning resources
+
 https://elgaworld.org/oslo-manifesto
 https://elgaworld.org/siena-declaration
 https://elgaworld.org/covid
 
-##Connections
+## Connections
+
 University of Santa Catarina, Florianópolis, Brazil
 Australian Earth Laws Alliance
 

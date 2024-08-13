@@ -22,22 +22,25 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 Regenerators is a collaborative-based collective with a bold mission of growing a superorganism of Regenerators – people, projects and partner initiatives that catalyse the shift towards life-affirming regenerative futures. Working like life for life – practicing what we teach in terms of building thriving eco-systems that work with life-affirming principles, dynamics and values, such as:
 
+## key People
 
-##key People
 LAURA STORM, 
 GILES HUTCHINS, 
 LEEN GORISSEN,
 
-##Theory of change
+## Theory of change
+
 REGENERATION
 
-##key learning resources
+## key learning resources
+
 https://www.regenerators.co/what-we-do
 
-##Connections
+## Connections
+
 
 

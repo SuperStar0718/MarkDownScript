@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "Gaianet is a global organization which hosts a network of professionals, project leaders, experts, elders and investors in co-creation of a New Earth.
 
@@ -32,11 +32,12 @@ The network currently consists of 2000+ mission-aligned projects and 540+ truste
 
 https://www.gaianet.earth/
 
+## key People
 
-##key People
 Daan Gorter, co-founder and vision keeper; Giulia May, co-founder; Bart Hoorweg, co-founder; Alexander Keehnen; Floris Moerkamp
 
-##Theory of change
+## Theory of change
+
 Connect aligned contributors (project initiators and professionals) around the process of co-creation
 
 Grounding aligned creation through field-building and solidarity
@@ -50,11 +51,13 @@ Themes:
 * Holocracy
 * Earth wisdom
 
-##key learning resources
+## key learning resources
+
 Broad view of Gaianet's mission, who it serves, what it's creating, financial model, roadmap
 Gaianet SEP pdf for distribution v202205.pdf
 
-##Connections
+## Connections
+
 Hard to pin down core partners, affiliations at first glance
 
 Ecosystem gallery:

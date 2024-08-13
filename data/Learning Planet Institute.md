@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "Since 2006, the Learning Planet Institute has been dedicated to reinventing learning for all ages (lifelong learning) through collective intelligence in order to build sustainable & inclusive learning societies able to rise to the complex challenges we face. 
 
@@ -31,16 +31,19 @@ The Institute’s mission is to explore, research and share new ways of learning
 To achieve its goals, the Learning Planet Institute creates research and educational programmes based on interdisciplinarity, diversity and initiative."
 https://www.learningplanetinstitute.org/en/who-are-we/ 
 
+## key People
 
-##key People
 undefined
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 undefined
 
-##Connections
+## Connections
+
 undefined
 

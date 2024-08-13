@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "The Art Monastery is dedicated to cultivating personal awakening and cultural transformation through artmaking, spiritual practice, and reciprocity with the earth.
 
@@ -38,18 +38,21 @@ https://www.artmonastery.org/about
 
 
 
+## key People
 
-##key People
 undefined
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 - Innertopia: Self-empowerment Workbook (available in English, Croatian, Dutch, French, German, Hungarian, Italian, Portuguese, Spanish, Swedish and Ukrainian): https://www.artmonastery.org/innertopia-workbook 
 - Live Your Dream: A Workbook to Change your Life: https://www.artmonastery.org/live-your-dream-workbook 
 - Empowerment: A Guide for Facilitators: https://www.artmonastery.org/hosting-empowerment-the-book 
 
-##Connections
+## Connections
+
 undefined
 

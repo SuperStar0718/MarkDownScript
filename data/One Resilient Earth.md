@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "Our mission is to grow the resilience of individuals and communities to the impacts of climate change, so that we can enhance our agency despite climate instability, and are equipped to respond to the crisis through transformation and regeneration.
 
@@ -31,16 +31,19 @@ We support innovative cultural, scientific, educational, and community-led proje
 Our four main areas of work focus on: new questions & inspiration through Tero magazine; local action & global connection through the Tapestry programme for resilient local communities; open dialogues, responsible experimentation & life-long learning through our Resilience Nests; and collaboration for cultural & organizational transformation through our Waves of change programme." 
 https://oneresilientearth.org/about/ 
 
+## key People
 
-##key People
 undefined
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 undefined
 
-##Connections
+## Connections
+
 undefined
 

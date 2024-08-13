@@ -22,22 +22,25 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "The Fintry Trust teaches ideal philosophy, art, science, religion and spirituality, guiding us to unfold our personal and collective potential. It aims to make this universal and perennial wisdom widely available by offering a range of educational programmes and retreats."
 
 https://thefintrytrust.org.uk/
 
+## key People
 
-##key People
 undefined
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 undefined
 
-##Connections
+## Connections
+
 undefined
 

@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "'Ecocide' is a word to describe what is happening to our planet; the mass damage and destruction of the natural living world.  It literally means “killing one’s home”.   And right now, in most of the world, no-one is held responsible.  
 
@@ -32,16 +32,19 @@ We are working, together with a growing global network of lawyers, diplomats, an
 
 https://www.stopecocide.earth/
 
-
-##key People
-
-
-##Theory of change
+## key People
 
 
-##key learning resources
+
+## Theory of change
 
 
-##Connections
+
+## key learning resources
+
+
+
+## Connections
+
 
 

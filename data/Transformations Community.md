@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "We are a global community of action-oriented researchers and reflective practitioners who support transformations to a sustainable and regenerative future. We do more than theorize change — we are developing new leadership practices, institutional arrangements and participatory techniques to bring desirable transformations to life."
 
@@ -34,16 +34,19 @@ To increase people’s capacity to transform social-ecological systems to achiev
 
 https://www.transformationscommunity.org/our-mission
 
-
-##key People
-
-
-##Theory of change
+## key People
 
 
-##key learning resources
+
+## Theory of change
 
 
-##Connections
+
+## key learning resources
+
+
+
+## Connections
+
 
 

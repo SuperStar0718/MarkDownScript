@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "Beautiful Trouble is… 
 A book, strategy card deck, online toolbox and creative campaign incubator.
@@ -35,16 +35,19 @@ We are a global network of organizers, artists, trainers, and writers who form t
 We equip social movements with an ever-growing suite of strategic tools and training to help grassroots movements be more creative, effective, and irresistible."
 https://beautifultrouble.org/about 
 
+## key People
 
-##key People
 undefined
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 Online Toolbox of Stories, Tactics, Principles, Theories and Methodologies for activism and social movements: https://beautifultrouble.org/toolbox/ 
 
-##Connections
+## Connections
+
 undefined
 

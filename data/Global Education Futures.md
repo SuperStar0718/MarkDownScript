@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "Global Education Futures is a path breaking and paradigm forming initiative that takes on the challenge of exploring, experimenting, emerging, and engaging systemic innovation for lifelong and lifewide learning.
 
@@ -33,16 +33,19 @@ What We Do: The way we work is by cooperating with our partners to co-create pro
 Our focal areas of interest include skills of the future, learning ecosystems, empowering learners of all ages and creating prototypes for educational change."
 https://globaledufutures.org/ 
 
+## key People
 
-##key People
 Pavel Luksha, Founder; Alexander Laszlo, Co-founder
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 See here for their research publications on topics such as Educational Ecosystems for Societal Transformation and Skills of the Future: https://globaledufutures.org/vision_creation 
 
-##Connections
+## Connections
+
 Amongst those listed as partners are: Earthwise, Ecocivilisation, The Weaving Lab, Ashoka, Campus Co-Evolve, School of International Futures, the Laszlo Institute. https://globaledufutures.org/about_us 
 

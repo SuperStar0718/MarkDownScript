@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 “Blivande as a platform is co-designed and stewarded by its members. We develop into the direction those involved put energy in. Participatory culture, events, art and design, urban placemaking and civic action-based initiatives are paths that have crystallised so far. Our intention is to remain open to future unknowns and establish a place in Stockholm that supports nascent ideas by sharing risks and providing the budding crews with an ecosystem of kind and talented professionals to realise their dreams. We want to create a playground for ideas and dialogue countering polarisation and invite national and international actors to establish collaborative relationships devoid of a competition mindset.
 
@@ -39,16 +39,19 @@ It is our outermost priority to stay an institution with heart and minimal burea
 https://www.blivande.com/vision/vision
 
 
+## key People
 
-##key People
 undefined
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 undefined
 
-##Connections
+## Connections
+
 undefined
 

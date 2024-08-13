@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "Coasys offers a contribution to the public’s capacity to sense-make as a collective by providing the infrastructure for an open, interoperable web, a collaboratively curated knowledge graph, as well as the tools to improve our ability to find and share reliable information and coordinate effectively at any scale or complexity.  By doing so, it tries to approach the meta-crisis with pragmatic technological upgrades to our society's digital communication infrastructure."
 
@@ -32,16 +32,19 @@ https://coasys.org/Coasys_whitepaper.pdf
 
 https://coasys.org/
 
+## key People
 
-##key People
 undefined
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
 
 
-##Connections
+
+## Connections
+
 Symphonics is a partner
 

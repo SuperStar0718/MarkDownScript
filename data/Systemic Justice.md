@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "Systemic Justice is a new NGO that partners with organisations working on racial, social, and economic justice to bring about change through strategic litigation.
 
@@ -34,16 +34,19 @@ We are the first organisation in Europe that works with community partners on st
 Systemic Justice was founded by human rights lawyer Nani Jansen Reventlow who is specialised in strategic litigation at the intersection of human rights, social justice, and technology."
 https://systemicjustice.ngo/about/ 
 
+## key People
 
-##key People
 undefined
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 Reframing climate justice: A BIPOC-led climate justice speaker series: https://systemicjustice.ngo/climatejustice/bipocclimatejustice/reframing-climate-justice-speaker-series/ 
 
-##Connections
+## Connections
+
 undefined
 

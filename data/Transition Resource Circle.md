@@ -22,24 +22,27 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "We have called this project the Transition Resource Circle because we are focused on the broader transition from our current meta-crisis to adjacent possible futures. We work with resources and resource holders to alchemize and liberate capital to be in service to Life. We work through circle ways (e.g. non-hierarchical, embodied cognition approaches, psycho-spiritual practices) to move from a culture of entitlement to ways which honor the multiple entanglements of historical precedents, our respective lineages & karmic storylines, and what future beings (including ourselves) require for reconciliation and healing."
 
 https://www.transitionresourcecircle.org/ 
 
+## key People
 
-##key People
 Lynn Murphy, Co-director; Alnoor Ladha, Co-director
 
-##Theory of change
+## Theory of change
+
 See: https://www.transitionresourcecircle.org/about-1 
 
-##key learning resources
+## key learning resources
+
 - Post Capitalist Philanthropy: Healing Wealth in the Time of Collapse (book): https://www.postcapitalistphilanthropy.org/ 
 
 - Articles, podcasts, and webinars on changing philanthropy: https://www.transitionresourcecircle.org/ideation
 
-##Connections
+## Connections
+
 
 

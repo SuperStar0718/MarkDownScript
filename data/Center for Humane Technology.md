@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "Together with our partners, the Center for Humane Technology (CHT) is dedicated to radically reimagining our digital infrastructure. Our mission is to drive a comprehensive shift toward humane technology that supports our well-being, democracy, and shared information environment.
 
@@ -30,16 +30,19 @@ From the dinner table to the corner office to the halls of government, our work 
 
 https://www.linkedin.com/company/the-center-for-humane-technology
 
+## key People
 
-##key People
 Tristan Harris; Aza Raskin
 
-##Theory of change
+## Theory of change
 
 
-##key learning resources
+
+## key learning resources
+
 -"The Social Dilemma" documentary
 
-##Connections
+## Connections
+
 
 

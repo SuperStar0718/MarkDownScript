@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "The objective of the Foundation is to help people and organisations in a world of rapidly increasing complexity through strategic and transformative innovation, with the aim to promote environmental protection and the well being of mankind in the broad sense by achieving socio-economic impact in the field of the United Nations Sustainable Development Goals.
 
@@ -34,16 +34,19 @@ CHÔRA Foundation is the parent entity of CHÔRA Design B.V.
 
 https://www.linkedin.com/company/ch%C3%B4ra-foundation
 
+## key People
 
-##key People
 undefined
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 undefined
 
-##Connections
+## Connections
+
 undefined
 

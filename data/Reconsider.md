@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "We are a pioneering non-profit organization dedicated to shifting human consciousness and promoting transformation.
 
@@ -35,16 +35,19 @@ Our Vision
 A world in which we live in deeper connection to ourselves, each other, the natural world, and life itself."
 https://www.reconsider.org/about-us 
 
+## key People
 
-##key People
 undefined
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 Stories of Transformation Youtube Playlist: https://www.youtube.com/playlist?list=PLLOa5l_UwvwrmGD7XZP0dtQvufL3B6UYD 
 
-##Connections
+## Connections
+
 undefined
 

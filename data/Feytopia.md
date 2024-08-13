@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "An extitutional community prototyping the world of tomorrow. 
 
@@ -31,16 +31,19 @@ Feÿtopia is a collective of artists, entrepreneurs, activists, academics and te
 Our home is Château du Feÿ, in Burgundy, France."
 https://feytopia.com/ 
 
+## key People
 
-##key People
 undefined
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 undefined
 
-##Connections
+## Connections
+
 undefined
 

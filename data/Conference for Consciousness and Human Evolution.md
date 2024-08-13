@@ -22,23 +22,26 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "We create unique events and transformational online training programs from internationally renowned speakers, best-selling authors and mystics to allow you to thrive!
 
 Our unique events blend science and spirituality, giving our students stimulating and inspirational productions that enrich their lives."
 https://tcche.org/about-us/ 
 
+## key People
 
-##key People
 undefined
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 Online courses related to mind, soul, and spirituality: https://tcche.org/online-courses/ 
 
-##Connections
+## Connections
+
 undefined
 

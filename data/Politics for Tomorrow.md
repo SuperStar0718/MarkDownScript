@@ -22,28 +22,31 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 The focus of our work is on collaborations with public innovation labs and educational institutions, ministries, federal and state offices, political foundations, as well as civil society initiatives and umbrella organizations.
 
 Together, we create space for transformative innovation in decision-making processes, governance structures, and the establishment of cross-sector and cross-theme alliances, routines, and protocols, such as sustainability transformations, urban development, smart cities, critical or crisis infrastructures, data strategies, and more.
 
+## key People
 
-##key People
 Caroline Paulick-Thiel
 Strategic Design & Mission Holding 
 
 Philip Hector
 Design and transformation research 
 
-##Theory of change
+## Theory of change
+
 personal development & organisational learning
 socio-ecological transformation 
 
-##key learning resources
+## key learning resources
+
 https://www.politicsfortomorrow.eu/what
 
-##Connections
+## Connections
+
 1. CityLab Berlin
 2. Innovate Austria
 3. Staatslabor Schweiz

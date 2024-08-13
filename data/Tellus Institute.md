@@ -22,22 +22,25 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "Tellus Institute strives to advance a planetary civilization rooted in justice, well-being, and sustainability. Our work addresses key dimensions of a transformative global praxis—understanding, vision, and action—by fostering scholarship, developing scenarios, and mobilizing networks for change. At this perilous juncture in human affairs, Tellus now more than ever joins engaged thinkers and thinking activists the world over in shaping a global transition, the great challenge of our time."
 
 https://tellus.org//
 
-
-##key People
-
-
-##Theory of change
+## key People
 
 
-##key learning resources
+
+## Theory of change
 
 
-##Connections
+
+## key learning resources
+
+
+
+## Connections
+
 
 

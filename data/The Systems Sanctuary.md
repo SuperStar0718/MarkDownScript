@@ -24,7 +24,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "Refuge for Systems Leaders.
 We teach and train leaders on systems change. We work with individuals, teams and ecosystems to support learning and inform wise action.
@@ -43,16 +43,19 @@ We teach a mixture of systems practice tools and frameworks and facilitate peer 
 We can create a bespoke Cohort or series of Cohorts for your Team, Cohort, Network, Ecosystem or Grantees."
 https://systemsanctuary.com/courses-training-organisations   
 
+## key People
 
-##key People
 Rachel Sinha & Tatiana Fraser
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 https://systemsanctuary.com/research
 
-##Connections
+## Connections
+
 
 

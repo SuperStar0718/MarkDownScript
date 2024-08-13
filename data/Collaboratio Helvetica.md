@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "The challenges of our time require new forms of collaboration and a holistic way of thinking. Switzerland has a long tradition of collaboration and dialogue across language barriers and religious divides. Collaboratio helvetica therefore believes in Switzerland's unique potential to leverage participatory approaches and collaboration to contribute to a change towards more ecological responsibility, humanity and the common good. 
 
@@ -31,11 +31,12 @@ The organisation catalyses the societal transformation of Switzerland by cultiva
 https://collaboratiohelvetica.ch/en/about-us
 
 
+## key People
 
-##key People
 
 
-##Theory of change
+## Theory of change
+
 "The impact of human activity on the planet's ecosystem is apparent, and many ways are being sought to find solutions to remedy the climate crisis. Yet, attaining the Sustainable Development Goals (SDGs) by 2030 seems more and more unrealistic, and no overarching solutions seem to be taking form.
 
 WHAT IF WE COULD IDENTIFY LEVERAGE POINTS – SMALL ACTIONS WITH THE POWER TO TRANSFORM ENTIRE SYSTEMS?
@@ -43,9 +44,11 @@ With the Catalyst Lab, we do exactly that: We empower dedicated changemakers (Ca
 
 https://collaboratiohelvetica.ch/en/catalyst-lab
 
-##key learning resources
+## key learning resources
 
 
-##Connections
+
+## Connections
+
 
 

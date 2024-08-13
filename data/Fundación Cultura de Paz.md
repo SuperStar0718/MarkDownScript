@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 In 2000, the Culture of Peace Foundation was established with the aim of strengthening and promoting the culture of peace, implementing and putting into action the Declaration and Program of Action, approved in 1999 by the General Assembly of the United Nations.
 
@@ -32,16 +32,19 @@ Its activity is mainly based on the support and development of initiatives and e
 
 https://fund-culturadepaz.org/nuestra-historia/ 
 
+## key People
 
-##key People
 undefined
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 undefined
 
-##Connections
+## Connections
+
 undefined
 

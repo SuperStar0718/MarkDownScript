@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "The Ridhwan Foundation is the nonprofit spiritual organization (incorporated as a church) established to support and preserve the integrity of the Diamond Approach teaching."
 
@@ -34,16 +34,19 @@ The teachings, practices, and community are a path for self-exploration that sup
 
 https://www.diamondapproach.org/
 
+## key People
 
-##key People
 undefined
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 undefined
 
-##Connections
+## Connections
+
 undefined
 

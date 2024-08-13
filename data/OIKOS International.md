@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "At oikos, we have been coming together as a global community of student change agents for over 30 years. Spread in over 20 countires and 40 cities worldwide, we organize on campus to raise awareness for sustainability and transform our own education.
 
@@ -33,20 +33,23 @@ Our Mission: To transform economics and management education by empowering stude
 Our Purpose: To create spaces and support for human development on different, interlinked scales, so that humanity can thrive in alignment with nature."
 https://oikos-international.org/who-we-are/ 
 
+## key People
 
-##key People
 
 
-##Theory of change
+## Theory of change
+
 They see themselves as working for change on multiple levels: "individual development", "institutional development", "international development" and "planetary sustainable development" 
 https://oikos-international.org/who-we-are/ 
 
 Their own team structure is "inspired by theories of self-organizing such as Holacracy, Sociocracy and Reinventing Organizations" 
 https://oikos-international.org/who-we-are/oikos-international-team/ 
 
-##key learning resources
+## key learning resources
 
 
-##Connections
+
+## Connections
+
 
 

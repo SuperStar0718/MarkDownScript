@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "Founded in 1993, the Club of Budapest is an informal international association dedicated to developing a new way of thinking and a new ethics that will help resolve the social, political, economic, and ecological challenges of the 21st century. With its roster of internationally renowned members, the Club initiates a dialogue between different belief systems and worldviews in order to co-create and develop effective strategies for responsible and sustainable action with a global focus."
 
@@ -31,16 +31,19 @@ metadata_version: 1
 The Club perceives itself as a builder of bridges between science and art, ethics and economy, between old and young, as well as between the different cultures of the world. One of the prime objectives of the work of the Club is the initiative "You can Change the World"."
 https://www.clubofbudapest.com/our-mission
 
+## key People
 
-##key People
 Ervin Laszlo, Founder
 
-##Theory of change
+## Theory of change
+
 See their 'Manifesto on Planetary Consciousness': https://drive.google.com/file/d/1FVg7yMUeuqDxnw68BUbRfo6Gp1dvR6OI/view?usp=drive_link 
 
-##key learning resources
+## key learning resources
 
 
-##Connections
+
+## Connections
+
 
 

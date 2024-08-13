@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "Enlivening Edge is an international community of collaborators and Partners drawn together to nourish the growing ecosystem of Next-Stage organizations, including Teal organizations. We are interwoven in a global vanguard of people and organizations transforming workplaces for the benefit of all. [...]
 
@@ -32,16 +32,19 @@ Catalyzing relationships among innovators who are accelerating the evolution of 
 
 https://enliveningedge.org/about/
 
+## key People
 
-##key People
 undefined
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 undefined
 
-##Connections
+## Connections
+
 undefined
 

@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "Founded in 2024, Naia Trust is a steward of capital committed to serving economic, cultural and spiritual renewal during a time of great transformation.
 
@@ -40,16 +40,19 @@ It pains us to bear witness to the widening fault lines and rifts in our society
 Yet amidst times of great upheaval rests extraordinary potential. The world is pregnant with narratives waiting to be written. Our hope is rooted in an active engagement with the world, despite unknowable outcomes. We believe that what is ours to do is to help foster islands of coherence, tangible and embodied existence proofs that sow the seeds of cultures to come."
 https://www.naiatrust.com/#hero 
 
+## key People
 
-##key People
 Alexa Firmenich, Founder and Principal
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 Podcasts and articles: https://www.naiatrust.com/thoughts#hero 
 
-##Connections
+## Connections
+
 
 

@@ -22,20 +22,23 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 body
 
+## key People
 
-##key People
 body - H2
 
-##Theory of change
+## Theory of change
+
 body - H2
 
-##key learning resources
+## key learning resources
+
 body - H2
 
-##Connections
+## Connections
+
 body - H2
 

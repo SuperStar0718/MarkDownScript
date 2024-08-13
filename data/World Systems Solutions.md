@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "Our Vision is that through conscious collaboration, we will unite, organize, mobilize and align humanity in common purpose to find a solution to the climate crisis. Together as a global collaborative community, we will generate a global sustainable future via intelligent application of technology and resources. 
 
@@ -36,16 +36,19 @@ Drawing upon all the capabilities of humanity effectively and efficiently in a p
 
 https://wssnow.org/about/conscious-collaboration/ 
 
-
-##key People
-
-
-##Theory of change
+## key People
 
 
-##key learning resources
+
+## Theory of change
+
+
+
+## key learning resources
+
 Resources to learn more about the climate crisis and potential actions (articles, books, videos, organisations, and infographics): https://wssnow.org/wss-forums/external-resources/
 
-##Connections
+## Connections
+
 
 

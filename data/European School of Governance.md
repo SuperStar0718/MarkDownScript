@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "WE NEED NEW THINKING AND NEW ACTION
 Governing the Anthropocene is the ultimate challenge of the 21st century. We are concerned with the ecological meltdown as well as with the digital transformation. We build on Anthropocene Thinking and explore Metamodernity. Systems Change lies at the very heart of the European School of Governance as a true thought and practice leader a European New School realising the necessary Mind Shift in the tradition of the legendary Bauhaus. Being a community of inquiry and transformation, we research and teach. We engage and intervene. We believe in dialogue, provoking and facilitating public discourse. [...]
@@ -33,16 +33,19 @@ The EUSG is a school of governance in the broadest sense of governing the Anthro
 
 https://eusg.org/
 
+## key People
 
-##key People
 undefined
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 undefined
 
-##Connections
+## Connections
+
 undefined
 

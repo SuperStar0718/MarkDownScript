@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 A Mighty Network community.
 
@@ -42,16 +42,19 @@ Values | With reverence for the dignity and interdependence of all beings, we se
 
 https://deeptransformation.network/posts/new-member-guidelines-please-read-this-first
 
+## key People
 
-##key People
 Jeremy Lent
 
-##Theory of change
+## Theory of change
+
 Jeremy Lent, 'What does an Ecological Civilization look like?': https://www.yesmagazine.org/issue/ecological-civilization/2021/02/16/what-does-ecological-civilization-look-like 
 
-##key learning resources
+## key learning resources
 
 
-##Connections
+
+## Connections
+
 
 

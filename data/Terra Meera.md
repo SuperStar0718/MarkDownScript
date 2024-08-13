@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "Terra Meera is a newly founded Center for Regeneration and Human Potential, born in Croatia. Located in an abandoned valley, Terra Meera pioneers are laying the foundations for a community project dedicated to local and regenerative agriculture in the area.
 
@@ -30,16 +30,19 @@ This campaign will plant a biodiverse and native fruit forest, revitalise the Te
 
 https://www.terrameera.com/
 
+## key People
 
-##key People
 Irena Ateljevic-Foundress
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 https://www.terrameera.com/food-for-thought
 
-##Connections
+## Connections
+
 https://www.terrameera.com/collabs-network
 

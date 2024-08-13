@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "The Work That Reconnects is meant for anyone who longs to serve the healing of our world in a more powerful and effective way. This interactive group process was developed by Joanna Macy, in cooperation with many colleagues, over several decades. The Work That Reconnects draws on foundational teachings, including Systems Thinking, Deep Ecology and Deep Time, Spiritual Traditions and Undoing Oppression."
 
@@ -32,16 +32,19 @@ https://workthatreconnects.org/what-is-the-work-that-reconnects/
 
 https://workthatreconnects.org/
 
+## key People
 
-##key People
 Joanna Macy
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 https://workthatreconnects.org/directory-landing/
 
-##Connections
+## Connections
+
 
 

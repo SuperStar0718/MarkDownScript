@@ -22,21 +22,24 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 Visionautics is made up of vision and nautical science, the art of steering. Visionautics is the art of developing visions and navigating to them, i.e. making these visions a reality. Visionautics support takes the form of seminars, advice and coaching. It covers all areas that are relevant to the design and implementation of visionary projects, from questioning familiar patterns to developing and testing ideas, encouraging and strengthening personality, collaboration and co-creation skills, and concrete implementation skills such as entrepreneurial skills, project planning or funding acquisition.
 
+## key People
 
-##key People
 Boris Goldammer and Jutta Goldammer
 
-##Theory of change
+## Theory of change
+
 transformation processes 
 
-##key learning resources
+## key learning resources
+
 visionaut-basic
 https://visionaut.de/angebote/visionaut-basic/
 
-##Connections
+## Connections
+
 Legacy 17, Erasmus +, Copernicus, Traccskills
 

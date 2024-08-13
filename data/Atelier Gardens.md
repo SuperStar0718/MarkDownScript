@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "A home for societal transformation
 
@@ -33,16 +33,19 @@ Rekindling the site’s pioneering and creative spirit, we are opening up the sp
 The site’s motto “Celebrating Soul, Soil, Society” underlines the ambition for a holistic approach to regenerative life in the city, and the belief that human beings, in principle, are capable of making a helpful contribution to life on Earth."
 https://atelier-gardens.berlin/en/about/ 
 
+## key People
 
-##key People
 undefined
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 undefined
 
-##Connections
+## Connections
+
 undefined
 

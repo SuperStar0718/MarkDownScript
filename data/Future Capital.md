@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "Future Capital is a global initiative to establish a more evolved relationship between capital and consciousness — using investment capital as a creative force for supporting and accelerating the well-being of current and future generations. [...]
 
@@ -38,20 +38,23 @@ Building from a foundation of higher consciousness and radical kindness, Future 
 Future Capital is a formative assembly and a call to action for a momentous collective breakthrough. We are bringing together an extraordinary cross-disciplinary blend of global leaders carefully selected for their expertise and demonstrated actions. Our goal is to amplify, cross pollinate, and create a common platform and language that will resonate across cultures, demographics, and stakeholders."
 https://futureofcapital.org/ 
 
+## key People
 
-##key People
 Pavel Luksha is one of the founding members
 
-##Theory of change
+## Theory of change
+
 "Our consciousness determines our perspectives, our values, and how we engage in the world. We believe the power of a new perspective guided by higher consciousness will radically accelerate progress toward a new paradigm for human development." 
 
 "Sustainable development requires a spiritual transformation of ourselves and the organizations we are linked with that actively extends to the societal, global, and ecological levels."
 
 Quotations from their Founders' Report: https://futureofcapital.org/reports/
 
-##key learning resources
+## key learning resources
 
 
-##Connections
+
+## Connections
+
 World Academy of Art and Science is a partner organisation
 

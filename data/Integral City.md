@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "Integral City Meshworks is a global constellation of communities of practice that nurtures cities as human hives. Launched in 2005, and now in Canada, USA, UK, Netherlands, Spain, Russia, Mexico, Australia and South Africa, we connect the 4 Voices of the city to energize relationships, that unify visions and develop eco-regional resilience strategies for hive wellbeing. Through placecaring and placemaking we inspire a Planet of Integral Cities as living, integral, evolutionary human systems, to become Gaia’s Reflective Organs."
 
@@ -32,16 +32,19 @@ An Integral City integrates qualities that create optimal conditions for human i
 
 https://integralcity.com/about/
 
+## key People
 
-##key People
 Marilyn Hamilton
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 https://integralcity.com/resources/
 
-##Connections
+## Connections
+
 
 

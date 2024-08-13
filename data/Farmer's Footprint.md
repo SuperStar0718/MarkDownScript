@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "Our commitment is to inspire will and build capacity to collectively accelerate regenerative food systems as a means to restore human and planetary health. [...] 
 
@@ -30,18 +30,21 @@ The origin of every program is centered on listening to farmers and our communit
 
 https://farmersfootprint.us/about-us/ 
 
+## key People
 
-##key People
 Zach Bush, Board Chairman
 
-##Theory of change
+## Theory of change
+
 Their manifesto: FarmersFootprint_Manifesto_2023.pdf
 
 Values: Progress over Perfection; Relationship bridge builders; Fostering hope; Rematriation of knowledge
 
-##key learning resources
+## key learning resources
+
 https://farmersfootprint.us/resources/
 
-##Connections
+## Connections
+
 
 

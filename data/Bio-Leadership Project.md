@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 “Leadership defined by growth, winner-takes-all competition, consumption and separation is a root of many of the problems we see in the world.
 
@@ -53,16 +53,19 @@ We do this by working with nature to support three forms of knowledge:
 https://www.bio-leadership.org/about-us
 
 
+## key People
 
-##key People
 Andres Roberts (founder)
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 https://www.bio-leadership.org/resources-1
 
-##Connections
+## Connections
+
 
 

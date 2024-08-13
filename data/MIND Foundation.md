@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "The MIND Foundation envisions a healthier, more connected world through evidence-based, safe, and legal applications of the psychedelic experience.
 
@@ -42,16 +42,19 @@ Now, our goal is to cultivate human flourishing by connecting psychological well
 
 https://www.mind-foundation.org/about/who-we-are 
 
+## key People
 
-##key People
 undefined
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 undefined
 
-##Connections
+## Connections
+
 undefined
 

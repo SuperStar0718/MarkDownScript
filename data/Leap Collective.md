@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "We are activists, social entrepreneurs, foundation staff, and philanthropists working towards systemic change in philanthropy.
 
@@ -30,16 +30,19 @@ Our goal is to contribute to a philanthropic sector that shares power, to suppor
 
 https://leapcollective.org/   
 
+## key People
 
-##key People
 undefined
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 undefined
 
-##Connections
+## Connections
+
 undefined
 

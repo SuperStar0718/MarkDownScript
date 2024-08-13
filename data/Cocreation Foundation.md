@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "The Cocreation Foundation is a think and do tank to understand, forward and prototype cocreation as a cultural technique to tackle the global challenges of our time.
 
@@ -31,16 +31,19 @@ Moving through the great transformation, we strive to design new code for a cocr
 It is our conviction that we need this new governance code to face the challenge of cocreating a world for 10-12 billion people living in peace, freedom and ecological abundance on this earth."
 https://cocreation-foundation.org/ 
 
+## key People
 
-##key People
 
 
-##Theory of change
+## Theory of change
+
 See their Theory of Change: https://cocreation-foundation.org/allgemein/theory-of-change/ and Mission Statement: https://cocreation-foundation.org/mission-statement/ 
 
-##key learning resources
+## key learning resources
 
 
-##Connections
+
+## Connections
+
 
 

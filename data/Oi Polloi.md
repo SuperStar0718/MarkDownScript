@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "Oi Polloi, from the Greek for ‘the many’, is a development agency that engages leading edge thinkers, practitioners, and big hearts into reimagining how society operates in terms of emerging systems and technologies. Using Greece as a sandbox, we’re out to create a legacy that resonates through the ages: a renaissance of humanity.
 
@@ -36,16 +36,19 @@ Drawing on the evolutionary power of the imagination to redefine how society ope
 
 https://www.oipolloi.io/
 
+## key People
 
-##key People
 undefined
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 undefined
 
-##Connections
+## Connections
+
 undefined
 

@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "Regenesis is a world leader in the field of regenerative development—an approach to land use, community development, and the built environment that has defined the leading edge of sustainability practice for more than two decades.
 
@@ -32,16 +32,19 @@ Regenesis supports this work through client services—providing the foundationa
 
 https://regenesisgroup.com/team
 
+## key People
 
-##key People
 undefined
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 undefined
 
-##Connections
+## Connections
+
 undefined
 

@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "The Planetary Health Alliance is a growing consortium of over 420 universities, non-governmental organizations, research institutes, and government entities from 70+ countries around the world committed to understanding and addressing the impacts of global environmental change on human health and wellbeing. 
 
@@ -39,16 +39,19 @@ To accomplish our mission, we:
 https://www.planetaryhealthalliance.org/about-the-pha 
 
 
+## key People
 
-##key People
 
 
-##Theory of change
+## Theory of change
+
 See their introduction to the concept and field of Planetary Health: https://www.planetaryhealthalliance.org/planetary-health 
 
-##key learning resources
+## key learning resources
+
 Research Bibliography, categorised by key topics: https://planetaryhealthalliance.org/bibliography 
 
-##Connections
+## Connections
+
 
 

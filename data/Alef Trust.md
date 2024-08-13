@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "Alef Trust is a global leader in transformative education and training in consciousness, transpersonal and spiritual psychology.​"
 
@@ -38,16 +38,19 @@ The MSc operates through our partnership with Liverpool John Moores University (
 
 https://www.linkedin.com/school/alef-trust/about/
 
+## key People
 
-##key People
 undefined
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 Nurturing the Fields of Change report: https://www.aleftrust.org/publications/nurturing-the-fields-of-change-report/ 
 
-##Connections
+## Connections
+
 undefined
 

@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "In 2015, the UN Sustainable Development Goals (SDGs) provided a comprehensive plan for a sustainable world by 2030. However, progress is not happening fast enough, and we urgently need to increase our collective abilities to face and work effectively with complex challenges.
 
@@ -31,16 +31,19 @@ This is why we are co-creating the Inner Development Goals (IDG) – a non-profi
 
 https://innerdevelopmentgoals.org/
 
-
-##key People
-
-
-##Theory of change
+## key People
 
 
-##key learning resources
+
+## Theory of change
 
 
-##Connections
+
+## key learning resources
+
+
+
+## Connections
+
 
 

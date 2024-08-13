@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "True to our name, the Guerrilla Foundation resources activists & grassroots movements in building pockets of resistance while carrying out radical societal transformations needed to cultivate a living, circular economy with a deeply democratic society that prioritises social & ecological wellbeing."
 https://guerrillafoundation.org/
@@ -32,18 +32,21 @@ https://guerrillafoundation.org/
 Our values are a constant challenge and compass. They guide us in how we go about our mission as well as our day-to-day work whether that is making grants, changing philanthropy, writing & storytelling, and how we show up in relationship with people."
 https://guerrillafoundation.org/about/mission-values/ 
 
+## key People
 
-##key People
 undefined
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 Activist resources: https://guerrillafoundation.org/more-cool-stuff/activist-resources/
 Resources for radical funders: https://guerrillafoundation.org/donor-engagement/resources-for-radical-funders/
 List of recommended grantmakers in their network: https://docs.google.com/spreadsheets/d/12NQWW4ab4xSVtGH9kS0xmI1dpCnz5wayzL5g8KM9miA/edit#gid=1596073677
 
-##Connections
+## Connections
+
 undefined
 

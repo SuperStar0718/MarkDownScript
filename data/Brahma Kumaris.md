@@ -22,24 +22,27 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 “Brahma Kumaris is a worldwide spiritual movement dedicated to personal transformation and world renewal. Founded in India in 1937, Brahma  Kumaris has spread to over 110 countries on all continents and has had an extensive impact in many sectors as an international NGO. However, their real commitment is to helping individuals transform their perspective of the world from material to spiritual. It supports the cultivation of a deep collective consciousness of peace and of the individual dignity of each soul.”
 
 https://www.brahmakumaris.org/about-us/introduction
 
 
+## key People
 
-##key People
 undefined
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 https://www.brahmakumaris.org/discovery/articles-blog/articles
 https://www.brahmakumaris.org/discovery/ebooks
 
-##Connections
+## Connections
+
 undefined
 

@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "Our purpose is to empower our conscious evolution through the understanding, experiencing and embodying of unitive awareness. 
 
@@ -37,17 +37,20 @@ Converging with universal spiritual experiences and wisdom teachings and based o
 
 https://www.wholeworld-view.org/ 
 
+## key People
 
-##key People
 Jude Currivan, Co-founder; Gil Agnew, Co-founder
 
-##Theory of change
+## Theory of change
+
 See their "unitive narrative": https://www.wholeworld-view.org/unitive-narrative. And their "unifying framework": https://drive.google.com/file/d/1zqPrO0tW2K7c4ui9j4RZsG640PF0Ru1S/view?usp=drive_link 
 
-##key learning resources
+## key learning resources
+
 - Podcasts and talks on themes such as conscious evolution and worldview shift: https://www.wholeworld-view.org/podcasts-and-talks
 - Global Unity Thoughtstorm, a weekly online event for gaining insights into individual and collective consciousness while exploring fundamental questions: https://www.wholeworld-view.org/thoughtstorms 
 
-##Connections
+## Connections
+
 See here: https://www.wholeworld-view.org/partners. 
 

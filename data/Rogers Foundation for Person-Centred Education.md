@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "Based on Carl R. Rogers’s thoughts, we believe that a person can understand and fulfil him or herself through live, personal experiences and in relationships of positive regard and real acceptance.
 
@@ -31,16 +31,19 @@ Our mission is to make people conscious about the importance of acceptance by ex
 For this purpose, we organize and run educational, experiential activities, and research and development services."
 https://rogersalapitvany.hu/en/about-us/our-mission/ 
 
+## key People
 
-##key People
 Suhajda Etelka Orsolya, Executive Director
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 Extensive bibiliography of articles related to person-centred education: https://rogersalapitvany.hu/en/resources/  
 
-##Connections
+## Connections
+
 
 

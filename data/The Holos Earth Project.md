@@ -22,20 +22,23 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 Holos Earth is a gathering space for leading edge thinkers and practitioners building an international network, capable of and committed to, changing the discourse and practice of holistic leadership and governance in the face of the meta-crisis of global challenges humanity faces today.
 
+## key People
 
-##key People
 Claudius van Wyk (Convenor & Chair)
 
-##Theory of change
+## Theory of change
+
 Human Becoming,Holistic Wellbeing,Holistic Education,Holistic Economy,Holistic Governance,Planetary Resource Management,Whole Systems Security
 
-##key learning resources
+## key learning resources
+
 https://holos.earth/blog-posts/
 
-##Connections
+## Connections
+
 
 

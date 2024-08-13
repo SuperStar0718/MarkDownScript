@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "WELLBEING INSPIRES WELLDOING
 
@@ -38,19 +38,22 @@ We are a global network of over 1,200 organisations including grassroots network
 - Convening Summits to galvanise a wellbeing culture regionally and globally
 - Mainstreaming a wellbeing and social change narrative"
 
+## key People
 
-##key People
 
 
-##Theory of change
+## Theory of change
+
 See 'Declaration of Wellbeing: The Words Guiding our Movement': https://wellbeing-project.org/declaration-of-wellbeing/ 
 
-##key learning resources
+## key learning resources
+
 - Online resource for learning about Ecological Belonging: https://www.ecological-belonging.org/ 
 - Online resource for learning about Intergenerational Trauma: https://www.intergenerational-trauma.com/ 
 - Tips and Tools for Wellbeing and Welldoing: https://wellbeing-project.org/wellbeing-tips-welldoing-tools/ 
 
-##Connections
+## Connections
+
 Anchor Co-creators are: Ashoka, Georgetown University, Impact Hub, Porticus, Skoll Foundation, and Synergos.
 
 Tavistock Institute is a Research Partner

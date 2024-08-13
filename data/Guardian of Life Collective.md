@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "Guardian of Life collaborates through collective action of its networks, loosely interdependent and independent, united in diversity through Guardian of Life essence. It is not a process as most humans have understood it to be in this present time. It's an embodied / immersive / experiential living system process where the process is not in the system but in the being of the person (also a living system / nature). [...]
 
@@ -37,16 +37,19 @@ Through deep listening and nature-connection, we co-create a regenerative cultur
 
 https://www.guardianoflife.org/what-we-do 
 
+## key People
 
-##key People
 undefined
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
 
 
-##Connections
+
+## Connections
+
 Ekskaret Foundation is a partner and donor
 

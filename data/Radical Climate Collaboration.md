@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 Many more diverse people and organizations need to collaborate. And many more will be willing to, if they believe their efforts and the results they are producing, are fair — that justice is not being sacrificed for speed and scale.
 
@@ -32,16 +32,19 @@ It is radical in the sense that it is unusual and gets to the root of the challe
 
 https://radicalclimatecollaboration.reospartners.com/
 
+## key People
 
-##key People
 undefined
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 undefined
 
-##Connections
+## Connections
+
 undefined
 

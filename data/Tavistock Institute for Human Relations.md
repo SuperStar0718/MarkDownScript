@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 In our earliest history, just over a centenary ago, a group of medical professionals who called themselves the Tavistock group worked with the British Army to help soldiers who had been prisoners during World War II return to civilian life and – equally as importantly – to help their families and communities adjust to having them back.
 
@@ -32,17 +32,20 @@ From returning soldiers to rapid changes in business management, workplace demog
 
 What arises from the Tavistock Institute of Human Relations isn’t abstract, it’s applicable study making a difference in all of our lives.
 
+## key People
 
-##key People
 Dr. Eliat Aram, CEO
 
-##Theory of change
+## Theory of change
+
 Human relations
 
-##key learning resources
+## key learning resources
+
 https://www.tavinstitute.org/search/results?theme=Staff+publications
 
-##Connections
+## Connections
+
 - Arcola Research
 - Art of Management and Organisation (AoMO)
 - Aspex Portsmouth

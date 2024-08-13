@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "Our education needs a new story – just like our society, in which education plays a key role. With our current systems, we are failing people, nature, the planet. We live in a time in which we are searching for new answers together, in line with the knowledge, insights and awareness that we now have.
 
@@ -32,16 +32,19 @@ We are – Operation Education."
 
 https://operation.education/
 
+## key People
 
-##key People
 undefined
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 undefined
 
-##Connections
+## Connections
+
 undefined
 

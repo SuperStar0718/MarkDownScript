@@ -22,23 +22,26 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "A coalition of people on a mission to build a regenerative future, together.
 
 Our gatherings are designed to strengthen the relational tissue between common goods, climate action, artists, facilitators and care takers."
 https://www.regensunite.earth/about 
 
-
-##key People
-
-
-##Theory of change
+## key People
 
 
-##key learning resources
+
+## Theory of change
+
+
+
+## key learning resources
+
 Regens Unite Handbook: A Practical Guide for Regenerative Gatherings: https://opencollective.com/regensunite/projects/regensunite-handbook/donate?interval=oneTime&amount=20&name=&legalName=&email= 
 
-##Connections
+## Connections
+
 
 

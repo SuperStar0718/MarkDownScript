@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "Three decades ago, Sadhguru founded Isha Foundation, a non-profit human-service organization, with human wellbeing as its core commitment. 
 
@@ -30,16 +30,19 @@ The Foundation offers powerful yoga programs for human transformation and wellbe
 
 https://www.linkedin.com/in/sadhguruJV/?ppe=1
 
+## key People
 
-##key People
 undefined
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 undefined
 
-##Connections
+## Connections
+
 undefined
 

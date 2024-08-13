@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "Damanhur is a living laboratory for the Future, a Federation of spiritual communities, and a worldwide movement that inspires the lives of thousands of people committed to leaving a positive mark on the world.
 
@@ -32,16 +32,19 @@ It promotes the evolution into a world based on regenerative Communities and Peo
 
 https://damanhur.org/
 
+## key People
 
-##key People
 undefined
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 undefined
 
-##Connections
+## Connections
+
 undefined
 

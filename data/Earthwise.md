@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "EARTHwise is a visionary movement and ecosystem for a thrivable world and future. Founded in 2015 through EARTHwise Centre, it champions personal, collective, and systemic transformation to shift trajectories from collapse to collective thriving. Building the foundations and movement for a new and planetary civilization, in partnership with life.
 
@@ -37,16 +37,19 @@ With thrivability as our focus we go further than mere sustainability. Thrivabil
 
 https://www.earthwise.global/
 
+## key People
 
-##key People
 
 
-##Theory of change
+## Theory of change
+
 Earthwise Constitution: https://www.earthwise.global/constitution/
 
-##key learning resources
+## key learning resources
 
 
-##Connections
+
+## Connections
+
 See here for those who are part of the Earthwise alliance: https://www.earthwise.global/alliance/. Includes: The Hague Center, Ekskaret...
 

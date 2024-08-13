@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "Business Plan for Peace provides the skills and support to transform destructive conflict and build sustainable peace personally, locally, internationally.
 
@@ -30,20 +30,23 @@ We support people to develop the inner practices that make their work in the wor
 
 https://thebusinessplanforpeace.org/
 
+## key People
 
-##key People
 Dr. Scilla Elworthy, Founder
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 - The Mighty Heart in Action (a 10-week course): https://mightyheart.co.uk/ 
 
 - The Missing Peace: Business as the change for good (report): https://drive.google.com/file/d/1FSQJUUfsb5WX8IOs2S9wHVCNBN1b6bjs/view?usp=drive_link 
 
 - Their latest books and reports: https://thebusinessplanforpeace.org/resources/.  
 
-##Connections
+## Connections
+
 Founder Dr. Scilla Elworthy is also the Co-founder of FemmeQ
 

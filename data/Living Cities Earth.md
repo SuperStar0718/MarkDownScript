@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "Living Cities Earth is a global bottom-up movement based on integral approach and dedicated to creating conditions for people in 10.000 cities worldwide to live healthier happier lives in harmony with each other and with nature.
 
@@ -35,16 +35,19 @@ We aim at growing a global impact-community of 1 million change leaders from 10.
 To “human well” we nurture our cities and ecoregions as healthy, happy, caring homes in harmony with each other and nature, across four key dimensions: person, people, places, and planet. Our cities and bioregions survive and thrive honouring all life on our ONE planet."
 https://www.livingcities.earth/ 
 
+## key People
 
-##key People
 
 
-##Theory of change
+## Theory of change
+
 See their Manifesto: https://www.livingcities.earth/manifesto 
 
-##key learning resources
+## key learning resources
 
 
-##Connections
+
+## Connections
+
 
 

@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "FemmeQ: Feminine Intelligence is a global movement launched in 2016, when 140 people from 15 countries gathered in Berlin. 
 
@@ -47,20 +47,23 @@ Transformation catalysts are the Entrepreneurs, Pathfinders, Warriors, and Lover
 These catalysts have moved beyond the old beliefs that keep a dysfunctional system in place, they are actively creating and telling a new story, bringing about a deep cultural revolution."
 https://femmeq.org/
 
+## key People
 
-##key People
 Dr. Scilla Elworthy, Co-founder; Alexandra Feldner, Co-founder; Karen Downes, Co-founder 
 
-##Theory of change
+## Theory of change
+
 femmeq-Catalysing-Transformation.jpeg
 
 "To bring about the transformation needed we will need to acknowledge the mindset, beliefs and patterns of behaviour that have brought about our demise; whot we have adopted and how we have adapted. Then to create a shift in consciousness and bring about a deep respect for what have traditionally been seen as feminine qualities, this is not simply a shift in roles or positions of power.
 
 We must restore a balance between intellect and intuition, facts and feelings, reason and realism. A recognition of our untapped human qualities and potential that lies at the core of our being, must be activated and embodied in the way we live and lead." https://femmeq.org/what-is-femmeq/
 
-##key learning resources
+## key learning resources
 
 
-##Connections
+
+## Connections
+
 Co-founder Dr. Scilla Elworthy is also the Founder of Business Plan for Peace
 

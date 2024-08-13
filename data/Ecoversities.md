@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "ecoversities: learners and communities reclaiming diverse knowledges, relationships and imaginations to design new approaches to higher education. 
 
@@ -30,16 +30,19 @@ The Ecoversities Alliance is committed to radically re-imagining higher educatio
 
 https://ecoversities.org/
 
+## key People
 
-##key People
 undefined
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 undefined
 
-##Connections
+## Connections
+
 undefined
 

@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "The Institute for Integral Studies (IFIS) is an independent research institute, yet linked to numerous universities in Germany and other European and non-European countries through its members and advisory board members.
 
@@ -32,16 +32,19 @@ As a vessel of a community of integral researchers, the Institute carries out ba
 
 https://www.ifis-freiburg.de/en/organization/about-institute
 
+## key People
 
-##key People
 undefined
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 undefined
 
-##Connections
+## Connections
+
 undefined
 

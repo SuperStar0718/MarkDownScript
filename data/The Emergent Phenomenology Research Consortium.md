@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "The Emergent Phenomenology Research Consortium (EPRC) is a multidisciplinary, multinational alliance of researchers, clinicians, and patrons who share a vision of bringing scientific methods and clinical sensibilities to the rigorous, ethical, ontologically-agnostic study of emergent phenomena."
 https://theeprc.org/executive-summary/ 
@@ -34,16 +34,19 @@ As emergent practices continue to scale up in society, our aim is to give health
 By finding the skilfull overlap of the perspectives of science, spirituality, religion, clinical medicine, and mental health, we can generate outcomes that are as beneficial as possible for all concerned."
 https://theeprc.org/
 
+## key People
 
-##key People
 undefined
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 Emergence Research database (contains a selection of hundreds of scientific books and articles on Emergence from a variety of perspectives): https://www.zotero.org/ebresearch/collections/TAKNGM64/items/LDQSGSB2/item-list 
 
-##Connections
+## Connections
+
 undefined
 

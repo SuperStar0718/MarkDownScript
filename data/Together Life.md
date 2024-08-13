@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "The Together organization was established out of the understanding that there are millions of organizations and people around the world working to create a change for the better. However, we understand that in order to create a significant change, we need to unite and operate together, rather than each operate independently.
 
@@ -36,16 +36,19 @@ B. Systems – Creating new systems that work for the people in the main areas o
 
 https://togethermovement.world/en/about/
 
-
-##key People
-
-
-##Theory of change
+## key People
 
 
-##key learning resources
+
+## Theory of change
 
 
-##Connections
+
+## key learning resources
+
+
+
+## Connections
+
 
 

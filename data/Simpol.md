@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "What?
 
@@ -34,16 +34,19 @@ By joining Simpol, citizens in democratic countries give strong voting preferenc
 
 https://uk.simpol.org/
 
-
-##key People
-
-
-##Theory of change
+## key People
 
 
-##key learning resources
+
+## Theory of change
 
 
-##Connections
+
+## key learning resources
+
+
+
+## Connections
+
 
 

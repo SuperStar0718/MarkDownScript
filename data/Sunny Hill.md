@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "Sunny Hills of Istria is a project that aims for the sustainable revitalization of the rural area of Slovene Istra.
 
@@ -36,16 +36,19 @@ Luxurious simplicity is a concept of a simple lifestyle that doesn’t restrict 
 
 https://soncnigrici-istra.eu/about-us/
 
+## key People
 
-##key People
 undefined
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 undefined
 
-##Connections
+## Connections
+
 undefined
 

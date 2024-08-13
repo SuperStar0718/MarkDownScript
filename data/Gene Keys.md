@@ -22,22 +22,25 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "The Gene Keys are a living wisdom. These are teachings to imbibe, contemplate and apply in your daily life. As you allow them to percolate inside you, one by one your troubles will begin to fall away, and you will find yourself inhabiting a new and brighter life."
 
 https://genekeys.com/about/
 
+## key People
 
-##key People
 undefined
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 undefined
 
-##Connections
+## Connections
+
 undefined
 

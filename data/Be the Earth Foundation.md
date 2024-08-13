@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "Be The Earth is a UK based foundation that combines impact investing and philanthropy for a world that nurtures all beings. Committed to living in harmony with Earth, BTE entrusts all of its capital to people, programmes and places that are creating resilient solutions for our regenerative future, with a particular focus on food systems. 
 
@@ -32,16 +32,19 @@ Working with a system of trust-based relationships that moves away from colonial
 
 https://www.betheearth.foundation/ 
 
+## key People
 
-##key People
 
 
-##Theory of change
+## Theory of change
+
 See their 2022 Strategy here: https://www.betheearth.foundation/strategy 
 
-##key learning resources
+## key learning resources
 
 
-##Connections
+
+## Connections
+
 Advaya is in their portfolio of investments: https://www.betheearth.foundation/investments 
 

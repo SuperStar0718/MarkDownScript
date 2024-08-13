@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "We are a small emergent collective dedicated to supporting the inner-led change needed to challenge systemic injustice and support outer social and ecological change and deep cultural transformation. We do this by supporting people, groups and organisations to compost power-over culture from the inside-out.
 
@@ -30,16 +30,19 @@ It is palpable that the effectiveness of our outer actions depends on us engagin
 
 https://starterculture.net/what-is-starter-culture/
 
+## key People
 
-##key People
 
 
-##Theory of change
+## Theory of change
+
 https://starterculture.net/our-approach-to-change/
 
-##key learning resources
+## key learning resources
 
 
-##Connections
+
+## Connections
+
 
 

@@ -22,20 +22,23 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 1-3 paras (approx.) about who they are and what they do. Copy & paste from website + include link
 
+## key People
 
-##key People
 name, role
 
-##Theory of change
+## Theory of change
+
 notes on their theory of change
 
-##key learning resources
+## key learning resources
+
 links to interesting resources
 
-##Connections
+## Connections
+
 e.g. partners, funders, etc.
 

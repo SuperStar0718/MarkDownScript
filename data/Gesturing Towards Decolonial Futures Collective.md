@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 An international researchers and artists collective, largely based in Canada.
 
@@ -42,16 +42,19 @@ GTDF is also a practice that is multi-layered and rather difficult to explain, b
 10. It involves loosening our attachments to our self images and to what we think we want, so that we might instead step up, own up, clean up, grow up, wake up and show up to do what is really needed, whether or not it fits with our personal agendas."
 https://decolonialfutures.net/ 
 
+## key People
 
-##key People
 
 
-##Theory of change
+## Theory of change
+
 See their "compass questions": https://decolonialfutures.net/compass-questions/
 
-##key learning resources
+## key learning resources
+
 Many resources on their site e.g. https://decolonialfutures.net/experiments-2/ 
 
-##Connections
+## Connections
+
 
 

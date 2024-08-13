@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "Based in Japan, the Goi Peace Foundation is a public benefit organization supported by members around the world working together to create a culture of peace. Our mission is to foster a sustainable and harmonious global society by promoting consciousness, values and wisdom for creating peace, and building cooperation among individuals and organizations across diverse fields, including education, science, culture and the arts.
 
@@ -35,16 +35,19 @@ To achieve this mission, we engage mainly in the following activities:
 The Goi Peace Foundation embodies the spirit of Masahisa Goi (1916-1980), a Japanese spiritual teacher, philosopher, poet and author who dedicated his life to peace and humanity"
 https://www.goipeace.or.jp/en/about/ 
 
+## key People
 
-##key People
 
 
-##Theory of change
+## Theory of change
+
 See their "Declaration for All Life on Earth" for their guiding vision: https://www.goipeace.or.jp/en/about/vision/
 
-##key learning resources
+## key learning resources
+
 Publications which were produced, in whole or in part, by the Goi Peace Foundation to introduce the visionary work of individuals and organizations that are making a positive impact in the world: https://www.goipeace.or.jp/en/media/publication/
 
-##Connections
+## Connections
+
 
 

@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "The Spanish Society of General Systems is a non-profit society that was founded in 1980 to be a national benchmark for Systemics and a meeting point for the different sectors of society (Social, Political, Economic, Military, Educational, etc. .), to address the problems of the 21st century, through the design and application of new models.
 
@@ -33,16 +33,19 @@ Systemic Thinking based on General Systems Theory and the analysis of Complex Sy
 Since its foundation, the Spanish Society of General Systems has been a forum and tribune for Spanish systemists within the Spanish University. SESGE wants to add to its objectives the incorporation of students and scholars who wish to participate in the practical application of systemic thinking to social, economic and business problems that we must address without delay."
 https://sesge.org/en/sesge/presentation.html 
 
+## key People
 
-##key People
 undefined
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 undefined
 
-##Connections
+## Connections
+
 undefined
 

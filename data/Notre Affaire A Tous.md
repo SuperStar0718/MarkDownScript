@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "Notre Affaire à Tous is a non-profit organisation which uses law as a strategic lever in the fight against the triple environmental crisis – climate, biodiversity, pollution. It defends a vision of law in favour of social justice and the primary affected communities.
 
@@ -31,16 +31,19 @@ Notre Affaire à Tous was created to work towards the establishment of climate j
 Our challenge for this century is to envisage, invent and build an economic, societal and governance model that respects and protects life on Earth, in order to preserve human dignity and the planet on which we live."
 Translated from: https://notreaffaireatous.org/qui-sommes-nous/ 
 
+## key People
 
-##key People
 
 
-##Theory of change
+## Theory of change
+
 See their manifesto: https://notreaffaireatous.org/manifeste/ 
 
-##key learning resources
+## key learning resources
 
 
-##Connections
+
+## Connections
+
 
 

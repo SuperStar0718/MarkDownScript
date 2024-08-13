@@ -22,21 +22,24 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 We are an innovative, youth-driven NGO based in Switzerland with a community of volunt'heroes in over 20 countries across three continents. Combining non-formal education and transformative learning methods we empower people and organizations to embark on their own changemaking journey. Our key strength is to create safe spaces where people realize their own potential, find solutions and become transformational leaders.
 
+## key People
 
-##key People
 Nicoletta Lumaldo
 
-##Theory of change
+## Theory of change
+
 Non-formal education and transformative learning methods
 
-##key learning resources
+## key learning resources
+
 https://www.euforia.org/en/blog/category/tools+%26+resources
 
-##Connections
+## Connections
+
 -Radical Collaboration
 -WWF
 - UNITAR

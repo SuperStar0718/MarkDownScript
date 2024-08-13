@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "in.Seed is a multidisciplinary design and consulting workshop serving integrated projects. [...]
 
@@ -33,16 +33,19 @@ Group support and facilitation: We also offer support and facilitation for group
 Reflections, events and projects around the notion of place of emergence: Our projects such as L'Arbre qui Pousse, the Germoir des Fontaines and the Schumacher Sprouts have led us to reflections on the concept of place of emergence, which also becomes part of our mission within our activity. Thus, we organize meetings, conferences, events around the question of our environments and our habitat of tomorrow."
 Translated from: https://www.inseed.be/inseed 
 
+## key People
 
-##key People
 Pauline Steisel; Juan Thibaut de M.; Pierre-Alexandre Klein; Wauthier Lhoest; Maxime Despontin
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
 
 
-##Connections
+
+## Connections
+
 
 

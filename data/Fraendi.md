@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "Frændi is a group of consulting professionals, thinkers, educators, doers, and optimists who are committed to the practice of unlocking potential—in people, teams, systems, and organizations.
 
@@ -38,16 +38,19 @@ Through a combination of cognitive and worldview profiles, consulting, coaching 
 
 https://fraendi.org/
 
+## key People
 
-##key People
 undefined
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 undefined
 
-##Connections
+## Connections
+
 undefined
 

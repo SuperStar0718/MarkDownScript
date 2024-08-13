@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "Technically…
 … the Transformation Hosts International (THI) is a community of practice for Transformative Learning and for hosting the socio-ecological transition. THI articulates this new paradigm of learning, develops and implements new tools for addressing this paradigm, and brings together the practitioners who have the power and skills to host this transformation. We do not have a legal body – yet.
@@ -32,18 +32,21 @@ Not so technically…
 As they are all experienced communicators conflicts seldom arise and are solved quickly. Not everybody knows everybody but knowing each other very often leads to dear and long lasting friendships. As it is an international community of practice they travel a lot to keep the connections strong and healthy, but certainly video conferencing is important, too. They are passionate about their work and the world, so they come up with project ideas that enable them to do what they are best at: Hosting Transformation. They choose with whom and where they want to work and what the topic is – and they can make a living out of this. They write funding proposals together, win and lose together, and celebrate a lot. They share their findings and wisdom with the world and get lots of gratitude back."
 https://hostingtransformation.eu/community-of-practice/ 
 
+## key People
 
-##key People
 undefined
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 Free online toolbox of methods for Hosting Transformation: 
 https://hostingtransformation.eu/methods-toolbox/ 
 
-##Connections
+## Connections
+
 1. Art Monastery
 2. Neurodiversity Foundation
 3. Rogers Foundation

@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "Global Action Plan is an environmental charity focused on issues where the connection between the health of people and our planet is most tangible.
 
@@ -36,16 +36,19 @@ Our cycle of change involves three connected steps that influence systems change
 
 https://www.globalactionplan.org.uk/about-us 
 
+## key People
 
-##key People
 
 
-##Theory of change
+## Theory of change
+
 https://drive.google.com/file/d/1_QlmPVa0cBJtf41pGGL3N4xSqLnTvVK_/view?usp=drive_link
 
-##key learning resources
+## key learning resources
 
 
-##Connections
+
+## Connections
+
 
 

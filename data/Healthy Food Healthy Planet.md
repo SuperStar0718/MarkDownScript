@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "A Pan-European movement uniting civil society and funders in the transition to healthy, just & sustainable food environments. [...]
 
@@ -37,16 +37,19 @@ Overall our first and foremost priority  is to decrease the consumption of harmf
 HFHP aims to be a movement of movements by lifting up and building bridges between campaigns and networks within and between European countries, connecting and catalysing civil society to break down silos, and driving systemic change."
 https://www.healthyfoodhealthyplanet.eu/about/who-we-are 
 
+## key People
 
-##key People
 undefined
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 undefined
 
-##Connections
+## Connections
+
 undefined
 

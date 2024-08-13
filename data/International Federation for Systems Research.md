@@ -22,23 +22,26 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "The IFSR is representing 30+ organizations with 30,000+ systems scientists and practicioners."
 
 "The International Federation for Systems Research (IFSR) is the peak body of the systems community. It is a virtual platform that convenes and facilitates the rich academic tradition not only but primarily of system sciences, cybernetics and complexity theory as a basis and the many vivid practices and applications set out to meet the challenges of the Anthropocene in the 21st century."
 https://ifsr.org/ 
 
+## key People
 
-##key People
 undefined
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 undefined
 
-##Connections
+## Connections
+
 undefined
 

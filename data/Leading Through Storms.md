@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "Leading Through Storms supports people to discover their best adaptive responses to the climate, ecological and related crises, building a more consciously interconnected society in community with others."
 
@@ -42,16 +42,19 @@ Our work takes place in person, in nature and online.
 Combining regular online gatherings and community programmes with immersive in-person retreats, we also work with organisations to tailor programmes suited to their unique circumstances."
 https://www.leadingthroughstorms.org/   
 
+## key People
 
-##key People
 undefined
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 Recommended books and articles: https://www.leadingthroughstorms.org/resources 
 
-##Connections
+## Connections
+
 undefined
 

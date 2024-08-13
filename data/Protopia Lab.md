@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 Our public conversation has become highly dysfunctional. More and more people are afraid to speak out publicly on certain issues because they don't have the 'right' opinion. 
 
@@ -30,16 +30,19 @@ The shutdown of pluralistic conversation stifles the creativity needed to tackle
 
 Our mission is to sow the seeds of a new conversation to rebuild our sensemaking mechanisms. We bring together open-minded people who are willing to engage in deep and challenging conversations about the causes of our cultural crisis, and how we can use the crisis creatively to plant the seeds of genuine human flourishing.
 
+## key People
 
-##key People
 Micha Narberhaus Founder and strategic lead
 
-##Theory of change
+## Theory of change
+
 think tank and social innovation
 
-##key learning resources
+## key learning resources
+
 https://www.protopialab.org/blog
 
-##Connections
+## Connections
+
 
 

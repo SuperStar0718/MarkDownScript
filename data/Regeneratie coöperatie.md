@@ -22,23 +22,26 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "The Regeneration Cooperative is a collective of entrepreneurs and scientists, coaches and artists who actively work for a regenerative society in which all people see and behave as part of nature. Because we believe that by removing the imaginary boundary between man and nature, all life on this earth can flourish again.
 
 To achieve this, we want to develop, inspire and grow and flourish regenerative leaders, organizations and communities. We do this by building the regenerative movement through events, action days, workshops and lectures, providing personal coaching programs and training to organizations."
 Translated by Google Translate from: https://regeneratie.org/en/over-ons/ 
 
+## key People
 
-##key People
 undefined
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 undefined
 
-##Connections
+## Connections
+
 undefined
 

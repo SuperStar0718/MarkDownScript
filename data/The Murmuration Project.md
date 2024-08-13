@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "The Murmuration Project is a research initiative that is helping organisations and networks understand how they can develop more effective leadership skills and strategies and work collaboratively to inspire and influence greater change.  
 
@@ -30,16 +30,19 @@ The project is mapping the field through a creative inquiry with hundreds of lea
 
 https://www.murmurationproject.com/
 
+## key People
 
-##key People
 Liz Murphy and Jennifer Morgan - Co-founders
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 https://static1.squarespace.com/static/5d5fd21b5af49b0001034e05/t/61ee7aa5e05d8d4b38e9b136/1643018945637/Murmuration+Project+Synthesis+Report+%28Print%29+.pdf
 
-##Connections
+## Connections
+
 
 

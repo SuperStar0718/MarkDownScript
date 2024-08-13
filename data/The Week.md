@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "The environment is breaking down and the climate is changing rapidly. The Week is a group experience to help us see what’s coming and what we can do about it."
 https://www.theweek.ooo/ 
@@ -36,16 +36,19 @@ https://www.theweek.ooo/about-us
 You get together 3 times, during a week (hence “The Week”). Every time you watch a 1 hour documentary film episode. And then the heart of the experience:  a guided conversation for 30 minutes (or more if you want) to make sense of it all."
 https://www.theweek.ooo/  
 
+## key People
 
-##key People
 Hélène Gérin, Co-founder; Frédéric Laloux, Co-founder
 
-##Theory of change
+## Theory of change
+
 See their principles and values here: https://www.theweek.ooo/what-we-believe
 
-##key learning resources
+## key learning resources
 
 
-##Connections
+
+## Connections
+
 
 

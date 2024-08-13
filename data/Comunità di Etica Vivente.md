@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 The Community of Living Ethics is a cultural, aconfessional and apolitical non-profit association founded in 1981 by Sergio Bartoli and a group of 11 friends, all psychosynthesisers. The intent was the creation of a Psychosynthesis Community in the farmhouse of Poggio del Fuoco, which soon began hosting courses related to psychosynthetic personal development and creative meditation. The community is based on study, meditation, service and group life.
 
@@ -32,16 +32,19 @@ With time and thanks to the contribution of many, seven farmhouses and two villa
 
 (Translated from: https://www.comunitadieticavivente.org/chi-siamo/)
 
+## key People
 
-##key People
 undefined
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 undefined
 
-##Connections
+## Connections
+
 undefined
 

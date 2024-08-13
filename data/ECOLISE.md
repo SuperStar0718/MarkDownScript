@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "ECOLISE, the European network for community-led initiatives on climate change and sustainability, recognises the unprecedented ecological, social, economic and political threats to dignified life on planet earth. These threats have been provoked by centuries of ongoing extractive and exploitative institutional systems and practices, a structural dependence on unconstrained economic growth, and the unfettered spread of unsustainable lifestyles.
 
@@ -37,16 +37,19 @@ ECOLISE was founded in 2014 and is registered as an international non-profit ass
 Members include international networks of community-based initiatives such as the Transition Network (representing over 1200 Transition initiatives), the Global Ecovillage Network (15,000 ecovillages), the Permaculture movement (3 million practitioners globally) and ICLEI, the association of local governments for sustainability; national and regional networks; and other specialist bodies engaged in European-level research, training and communications to support community-led action on climate change and sustainability."
 https://www.ecolise.eu/about-ecolise/
 
+## key People
 
-##key People
 undefined
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 - Communities for Future wiki for community-led initiatives on climate change and sustainability primarily in Europe but also globally: https://wiki.communitiesforfuture.org/wiki/Main_Page 
 
-##Connections
+## Connections
+
 undefined
 

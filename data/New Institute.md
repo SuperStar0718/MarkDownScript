@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "On the basis of humanistic and social-scientific reflection, THE NEW INSTITUTE aims to develop visions of progressive socio-economic and political futures.  All of our activities are clustered around three Research Areas: The Human Condition in the 21st Century, The Future of Democracy, and Socio-Economic Transformation. An annual theme provides focus across these areas, and structures our research activities, fellowship programs, lectures, and workshops.
 
@@ -32,16 +32,19 @@ We live and work in the Warburg Ensemble, a series of 19th century townhouses th
 
 https://thenew.institute/en/about/our-mission 
 
+## key People
 
-##key People
 undefined
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 undefined
 
-##Connections
+## Connections
+
 undefined
 

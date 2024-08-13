@@ -22,22 +22,25 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "H3Uni, an educational charity, offers purposeful people and groups powerful methods to access, activate and enliven their innate collaborative wisdom, that will help us to navigate the deepening uncertainties of the 21st century."
 
 https://www.h3uni.org/about/
 
-
-##key People
-
-
-##Theory of change
+## key People
 
 
-##key learning resources
+
+## Theory of change
+
+
+
+## key learning resources
+
 https://www.h3uni.org/resource-library/
 
-##Connections
+## Connections
+
 
 

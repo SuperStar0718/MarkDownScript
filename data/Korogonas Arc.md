@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "Korogonas Ark is a multi-faceted, multi-coloured, long-term project, a contemporary ark for the preservation and dissemination of traditional values, information, old and contemporary knowledge as well as elements and methods among which seeds’ banks, natural, organic and sustainable farming, protection of various plants’ varieties,  especially wild varieties, water and Mother Nature’s elements. [...]
 
@@ -30,16 +30,19 @@ The Ark identifies itself as a core entity both for personal growth and empowerm
 
 https://korogonasarkcommunity.wordpress.com/2017/07/31/first-blog-post/
 
+## key People
 
-##key People
 undefined
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 undefined
 
-##Connections
+## Connections
+
 undefined
 

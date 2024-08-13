@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "One Humanity Institute is a social incubator. A global nexus where one can experience both the micro and macro potential of a united humanity.
 
@@ -30,16 +30,19 @@ The One Humanity Institute (OHI) is a global institute without walls represented
 
 https://onehumanity.institute/ 
 
+## key People
 
-##key People
 Dr. Nina Meyerhof
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
 
 
-##Connections
+
+## Connections
+
 
 

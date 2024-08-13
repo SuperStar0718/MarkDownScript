@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "A resource of film-based courses and tools grounded in mindfulness, lucid dreaming, shadow integration, compassion, mindful activism, sustainability and all things that help wake up the mind.
 
@@ -33,18 +33,21 @@ We believe that global change can only begin through a change in our own minds. 
 We welcome the shift from the old paradigm of competition to a new one of cooperation, therefore we invite other organizations, individuals and communities to join us on the Awake Academy journey!"
 https://www.awakeacademy.org/about/ 
 
+## key People
 
-##key People
 undefined
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 Some of their free resources include: 
 - Kindfulness 7-day Online Course: https://www.awakeacademy.org/course/free-kindfulness/https://www.awakeacademy.org/course/free-kindfulness/ 
 - 'Dropping the Mask of Shame' shadow integration exercise: https://www.awakeacademy.org/dropping-the-mask-of-shame-exercise/ 
 
-##Connections
+## Connections
+
 undefined
 

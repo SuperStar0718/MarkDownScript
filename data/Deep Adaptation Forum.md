@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "DAF is dedicated “to embodying and enabling loving responses to our predicament”. Our “predicament” is societal collapse arising from our climate emergency, global economic and environmental crises, species extinction, soil degradation, extreme weather events, forced migration, historical and systemic planet and people abuse, and much more. 
 
@@ -47,17 +47,20 @@ To promote global interweaving, DAF hosts many weekly and monthly events. DA For
 Individual events welcome grief, relational work, compassionate listening, self-awareness, connection to Earth, spirituality and decolonization. There are also a variety of events inviting artistic expression as well as those exploring pragmatic areas such as education and permaculture."
 https://www.deepadaptation.info/about/ 
 
+## key People
 
-##key People
 Jem Bendell
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 - Deep Adaptation paper by Prof Jem Bendell: https://jembendell.com/2019/05/15/deep-adaptation-versions/ 
 - Regular free online community events: https://teamup.com/ksgwdbu1oxnhu8npdi 
 
-##Connections
+## Connections
+
 
 

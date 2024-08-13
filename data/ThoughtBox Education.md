@@ -22,22 +22,25 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "ThoughtBox is a community of educators and systems-thinkers, helping us learn how to care for ourselves, each other and the planet. We are leading thinkers in education regeneration, working with schools to support a healthier culture of learning through leadership training, curriculum and practitioner-programmes - all centred around a Triple WellBeing approach."
 
 https://www.linkedin.com/company/thoughtbox-education
 
+## key People
 
-##key People
 undefined
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 undefined
 
-##Connections
+## Connections
+
 undefined
 

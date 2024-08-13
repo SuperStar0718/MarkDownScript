@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "The Global Center for Indigenous Leadership and Lifeways (GCILL) is an informal umbrella created to support long-term and short-term projects that educate and inform people about Indigenous ways to raise human consciousness and  co-create a harmonious relationship with Mother Earth.
 
@@ -31,17 +31,20 @@ The initial focus of GCILL is to advance the capacity to share the messages of w
 
 https://www.gcill.world/our-purpose
 
+## key People
 
-##key People
 Ilarion "Kuuyux" Merculieff, Founder
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 https://www.gcill.world/videos
 https://www.gcill.world/books
 
-##Connections
+## Connections
+
 https://www.gcill.world/our-partners
 

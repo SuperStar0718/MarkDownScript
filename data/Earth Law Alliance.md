@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "The term ‘Earth law’ describes inherently ecocentric laws that have been emerging around the world over the last few decades. Broadly speaking, the aim of Earth Law is to protect and/or regenerate various forms of life on Earth. Either as a specific aim or as a secondary outcome, Earth Law seeks to maintain the biogeochemical cycles on which life on Earth depends.[...]
 
@@ -30,16 +30,19 @@ Earth Law (sometimes also referred to as Wild Law, Earth Laws or Ecological Law)
 
 https://earthlawyers.org/earth-law
 
+## key People
 
-##key People
 undefined
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 https://earthlawyers.org/resources
 
-##Connections
+## Connections
+
 undefined
 

@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "We bring people and organizations together to create integrated and long-term system change. 
 
@@ -34,16 +34,19 @@ https://systemschangealliance.org/
 
 https://systemschangealliance.org/what-we-do/
 
+## key People
 
-##key People
 undefined
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 undefined
 
-##Connections
+## Connections
+
 undefined
 

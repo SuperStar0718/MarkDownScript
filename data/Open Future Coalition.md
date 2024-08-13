@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "We are designers, developers, social systems architects, economists, storytellers, and movement builders innovating social, technological, and financial tools that support our ability to collectively innovate on, resource, and apply solutions to the world’s most pressing issues. 
 
@@ -33,16 +33,19 @@ We are honored to be growing alongside a rich impact ecosystem who are stewardin
 By continuing to gather, apply, and advance collective community intelligence through distributed technology, capital innovation, social architecture, educational and community programming, and participatory design, we believe that together, we can write a new story for humanity that values our community and planetary thriving above speculation and extraction."
 https://www.openfuturecoalition.org/team 
 
+## key People
 
-##key People
 undefined
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 undefined
 
-##Connections
+## Connections
+
 undefined
 

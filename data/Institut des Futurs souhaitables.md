@@ -22,23 +22,26 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "In this period of metamorphosis, the Institute of Desirable Futures wishes to seize this opportunity to invent a more desirable world.
 
 We do this through training courses, tailor-made support and public activities, providing you with keys to understanding the present, as well as creative fuel to help build the new world on the horizon with kindness and goodwill."
 Translated from: https://www.futurs-souhaitables.org/ 
 
+## key People
 
-##key People
 undefined
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 undefined
 
-##Connections
+## Connections
+
 undefined
 

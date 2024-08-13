@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "Trans4m is a passionate enabler of individual and collective transformation processes. We address the burning issues of our time, releasing individual and collective genius. 
 
@@ -32,16 +32,19 @@ Trans4m sees itself as an integral response to a “world on fire” – a world
 
 https://www.trans-4-m.com/whyweexist/
 
+## key People
 
-##key People
 undefined
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 undefined
 
-##Connections
+## Connections
+
 undefined
 

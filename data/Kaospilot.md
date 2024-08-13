@@ -22,21 +22,24 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 Kaospilot is more than just an educational institution. It’s a movement. A community of dreamers, thinkers, and doers of this generation, all united by a common goal: to create world-changing ideas. At Kaospilot, education transcends traditional boundaries, blending creative leadership with meaningful entrepreneurship, all designed to empower you to make a difference in the world. In more than 30 years, Kaospilot has been educating leaders of tomorrow for what’s next.
 
+## key People
 
-##key People
 Christian Kirkegaard Bay (Chairperson of the Board)
 Uffe Elbæk (Founder)
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 https://www.kaospilot.dk/blog/
 
-##Connections
+## Connections
+
 
 

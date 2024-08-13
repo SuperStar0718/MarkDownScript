@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "For fifty years, the Scientific and Medical Network has been bringing together individuals – including professionals with a background in science, medicine, engineering, psychology, philosophy and complementary practices – who accept the existence of a fundamental, unifying and transcendent reality.
 
@@ -36,16 +36,19 @@ In a spirit of open and critical enquiry, we seek to integrate ‘heart’ and �
 
 https://scientificandmedical.net/
 
+## key People
 
-##key People
 undefined
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 undefined
 
-##Connections
+## Connections
+
 undefined
 

@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "Emergence Foundation is a non-profit organisation focused on fostering personal, societal, and global transformation through highlighting unique expressions of the nexus of inner and outer change, something we call the X Factor. Our mission is to help create a more compassionate, equitable and sustainable world by supporting these innovative projects and change-makers in areas such as education, community building, arts, ecology and spiritual growth. We believe that transformative change begins with individuals and communities, and our work emphasises the importance of collaboration, creativity and consciousness in regenerating global culture.
 
@@ -36,16 +36,19 @@ https://emergencefoundation.org/about/emergence-foundation/
 "The charitable objects of Emergence Foundation are to advance moral or spiritual welfare or improvement for the benefit of the public by promoting education concerning spiritual enlightenment and self-realisation."
 https://emergencefoundation.org/about/the-purpose-of-the-charity/ 
 
+## key People
 
-##key People
 undefined
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 undefined
 
-##Connections
+## Connections
+
 undefined
 

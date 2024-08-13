@@ -22,20 +22,23 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 Rooted is a communal space dedicated to personal and collective transformation and new culture creation. We are tending to our roots, inspiring embodied other ways of knowing and being in relationship. We're shifting our lens from trauma to liberation - devoted to what liberates life energy, what sparks creativity, what lights imagination, and what renews and nourishes our connection and belonging in an inherently interconnected world.
 
+## key People
 
-##key People
 Karina Bell
 
-##Theory of change
+## Theory of change
+
 anti-racism and Somatic Abolitionism
 
-##key learning resources
+## key learning resources
+
 https://www.rootedglobalvillage.com/resources/resources
 
-##Connections
+## Connections
+
 
 

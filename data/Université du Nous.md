@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "The University of Us is a world to discover, to meet. It is a unique journey of pioneers of doing things together, of sensitivity, of the common. It is a handful of committed, fiery utopians, convinced of a possible "other tomorrow".
 
@@ -32,16 +32,19 @@ A civic organization, it is also a place for research, experimentation, creation
 
 https://universite-du-nous.org/l-udn
 
+## key People
 
-##key People
 undefined
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 undefined
 
-##Connections
+## Connections
+
 undefined
 

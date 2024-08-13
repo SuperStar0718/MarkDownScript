@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "UNITY EARTH is a global network on a mission to accelerate the realization of unity and peace on Earth.
 
@@ -32,16 +32,19 @@ UNITY EARTH’s programs and activities focus at the intersection of spiritualit
 
 https://unity.earth/about/ 
 
+## key People
 
-##key People
 
 
-##Theory of change
+## Theory of change
+
 Not much detail on website
 
-##key learning resources
+## key learning resources
+
 - Unity Earth TV, video content e.g. recordings of their global events: https://unity.earth/tv/ 
 
-##Connections
+## Connections
+
 
 

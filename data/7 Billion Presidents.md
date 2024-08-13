@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "The idea for 7 Billion Presidents started with a question – How would a society where there is well-being for all look like? The answer to this was followed by a plan for an alternative economic model. We like to call it 7 Billion Presidents Regenerative economy. In this model companies give 100% of profit back to society to build a better life for you and me, and everyone else.
 
@@ -33,11 +33,12 @@ As civilians, we are already generating billions of profit. We aim to change the
 We believe the best way to make this happen is to start Building this World ourselves, in confidence and hope that others continue to join in Building the New together."
 https://www.7billionpresidents.org/buildingourfuturetogether/ 
 
+## key People
 
-##key People
 
 
-##Theory of change
+## Theory of change
+
 See their vision and values here: https://www.7billionpresidents.org/vision/
 They seek a shift from:
 - Competition to Collaboration
@@ -47,9 +48,11 @@ They seek a shift from:
 - Consuming to Giving
 - Radical Love
 
-##key learning resources
+## key learning resources
 
 
-##Connections
+
+## Connections
+
 
 

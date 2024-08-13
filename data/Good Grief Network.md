@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "Good Grief Network (GGN) is a nonprofit organization based in the United States that brings people together to metabolize collective grief, eco-distress, and other heavy emotions that arise in response to daunting planetary crises.
 
@@ -32,11 +32,12 @@ Good Grief Network creates spaces to gather in community, process the painful fe
 
 https://www.goodgriefnetwork.org/about/
 
+## key People
 
-##key People
 LaUra Schmidt -FOUNDING DIRECTOR, Aimee Lewis Reau -COFOUNDER, Sarah JS -EXECUTIVE DIRECTOR
 
-##Theory of change
+## Theory of change
+
 runs peer-to-peer support groups that help folks recognize, feel, and process their heavy emotions, so that these feelings may be transformed into meaningful action.
 
 Themes, 
@@ -50,13 +51,15 @@ peer-to-peer support groups,
 mindful conversations and practice active listening and forgiveness,
 INTERSECTIONALITY
 
-##key learning resources
+## key learning resources
+
 https://www.goodgriefnetwork.org/book/
 https://www.goodgriefnetwork.org/podcastandresources/#why
 https://www.goodgriefnetwork.org/parents/
 https://www.goodgriefnetwork.org/podcastandresources/#foryourmind
 https://www.goodgriefnetwork.org/podcastandresources/#foryourmind
 
-##Connections
+## Connections
+
 
 

@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "We are a Network of Individuals and Collectives weaving Systemic Change and supporting each other in this Journey. Weaving entails raising awareness of our interdependence with each other and the rest of nature; fostering purposeful and synergistic collaborations; as well as developing learning cultures for teams and communities. We see weaving as an essential process for systemic change." https://weavinglab.org/ 
 
@@ -30,16 +30,19 @@ metadata_version: 1
 
 "We focus on co-creating thriving networks and communities that enhance the wellbeing of self, society and nature. We cultivate spaces and projects for learning, connection and innovation that develop meaningful relationships between people, ideas, teams, projects, organizations, networks, places and nature." https://weavinglab.org/what-is-weaving/ 
 
+## key People
 
-##key People
 undefined
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 undefined
 
-##Connections
+## Connections
+
 undefined
 

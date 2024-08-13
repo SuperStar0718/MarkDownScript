@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "The Empowerment Institute, founded in 1981 by David Gershon and Gail Straub, has been a global leader for four decades in applying behavior change, community empowerment and transformative social change methodologies to address humanity’s greatest challenges and opportunities. 
 
@@ -32,16 +32,19 @@ Its empowerment methodology has been applied to achieve measurable and sustainab
 
 https://empowermentinstitute.net/about/
 
+## key People
 
-##key People
 undefined
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 undefined
 
-##Connections
+## Connections
+
 undefined
 

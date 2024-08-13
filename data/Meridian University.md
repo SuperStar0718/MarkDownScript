@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "Founded over 30 years ago in the San Francisco Bay Area, Meridian University enrolls students globally in its unique hybrid and 100% online graduate degree, professional certificate, and public programs. The University offers master's and doctoral programs in Business, Education, Leadership, and Psychology with diverse concentrations available within each of these programs. Meridian’s integrated, innovative curriculum is designed to be experiential and transformative.
 
@@ -41,16 +41,19 @@ Meridian’s commitment to public and professional engagement is developed throu
 
 https://meridianuniversity.edu/
 
+## key People
 
-##key People
 undefined
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 undefined
 
-##Connections
+## Connections
+
 undefined
 

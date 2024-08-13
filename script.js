@@ -29,16 +29,15 @@ cohere: true
 metadata_version: 1
 ---
 \n
-##Body\n
+## Body\n
 ${data["description"]}\n
-
-##key People
+## key People\n
 ${data["key people"]}\n
-##Theory of change
+## Theory of change\n
 ${data["theory of change"]}\n
-##key learning resources
+## key learning resources\n
 ${data["learning resources"]}\n
-##Connections
+## Connections\n
 ${data["connections"]}\n
 `;
 

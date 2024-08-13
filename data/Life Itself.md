@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "We are pragmatic utopians, committed to practical action for a radically wiser, weller world. We create coliving hubs, start businesses, do research and engage in activism to pioneer a wiser culture. We are ordinary people who choose an extra-ordinary path, treading the middle way between Plum Village and Silicon Valley. [...]
 
@@ -34,16 +34,19 @@ Our team consists of artists, researchers, technologists and community builders.
 
 https://lifeitself.org/about
 
+## key People
 
-##key People
 undefined
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 undefined
 
-##Connections
+## Connections
+
 undefined
 

@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "A way to find your way
 
@@ -43,16 +43,19 @@ As educators, our highest role is as liberators: seeing, revealing, and inspirin
 As a community, our commitment is to the pursuit and practice of meaning and wisdom. We hold these pursuits to be collective; fundamentally relational, social. In various ways, we’ve experienced living within systems that foster alienation, isolation, and the amputation of parts of life and self. We see a different way."
 https://liminal-learning.com/ 
 
+## key People
 
-##key People
 undefined
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 undefined
 
-##Connections
+## Connections
+
 undefined
 

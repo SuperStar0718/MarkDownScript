@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "AR+ supports a global community, online and face to face, so that  action-oriented scholar practitioners find community and developmental support in responding to the call of our times. 
 
@@ -30,16 +30,19 @@ We believe that our global social-ecological challenges (crises) demand a new co
 
 AR+ is unusual for our emphasis on practice. For example, all our co-lab efforts are designed to encourage new experiments for re-weaving activist, artistic and scientific dimensions of knowledge creation. The value of participating in this loosely knit global community is that we learn, cross-pollinate and amplify innovative efforts."
 
+## key People
 
-##key People
 
 
-##Theory of change
+## Theory of change
+
 In their own organisation, they attempt to cultivate a transformative relational space and practise sociocracy
 
-##key learning resources
+## key learning resources
+
 https://actionresearchplus.com/ar-resources/
 
-##Connections
+## Connections
+
 Founding organisations include: IFIS and World Ethic Forum
 

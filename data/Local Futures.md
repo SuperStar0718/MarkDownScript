@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "Local Futures is an international non-profit organization dedicated to renewing ecological and social well-being by strengthening communities and local economies. Together we’re building a worldwide localization movement.
 
@@ -36,16 +36,19 @@ What we do
 - Show a path forward: We promote economic localization—shifting our economies towards place-based, human-scale activity—as a strategy for change that simultaneously addresses our many crises."
 https://www.localfutures.org/about-local-futures/ 
 
+## key People
 
-##key People
 Helena Norberg-Hodge, Founder & Director
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 Many good resources for both grassroots and policy action, e.g. Localization Action Guide; Maps of Alternatives; Recommended Readings and much more: https://www.localfutures.org/learn-take-action/ 
 
-##Connections
+## Connections
+
 
 

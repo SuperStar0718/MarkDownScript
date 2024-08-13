@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "We are an organ’isation and a co-creative collective, serving the emergence of a conscious, harmonic humanity. We innovate for heart-centered, planetary governance with all domains of life, visible and invisible. We listen to spirit, lead from the heart and activate the mind for the purpose of co-creating a new world.[...]
 
@@ -30,16 +30,19 @@ We consult, coach and partner with individuals and organizations who want to lea
 
 https://www.thehaguecenter.org/
 
+## key People
 
-##key People
 undefined
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 undefined
 
-##Connections
+## Connections
+
 undefined
 

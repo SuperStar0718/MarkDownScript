@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "Our philosophy is quite simple: To provide a space where people can gather together, to learn from one another, to discuss, to reflect, to work on a project and, most importantly, to meet and talk with others at the human and personal level.
 
@@ -33,17 +33,20 @@ We promote an open and continuing dialogue on the role of science and technology
 We have no ‘mission statement’ as we are not on a mission. David Peat saw Pari as an ‘alchemical vessel’; a place where people could meet and express themselves freely within the safe atmosphere of this vessel; a place of transformation. When we get together, we throw everything into the alchemical pot and then wait to see what happens; what extraordinary things might emerge."
 https://paricenter.com/philosophy/ 
 
+## key People
 
-##key People
 
 
-##Theory of change
+## Theory of change
+
 "an interdisciplinary approach linking science, the arts, ethics, community, the role of Indigenous knowledge and the place of the sacred."
 https://paricenter.com/what-we-do/ 
 
-##key learning resources
+## key learning resources
+
 Articles on Gentle Action: https://paricenter.com/library-new/gentle-action/ 
 
-##Connections
+## Connections
+
 
 

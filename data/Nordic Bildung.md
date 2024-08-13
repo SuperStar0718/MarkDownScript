@@ -22,23 +22,26 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "Nordic Bildung is a thinking lab and a bildung lab; that is what we mean by future systems studies and humanistic futurism. We want to grasp the world in new ways that match its constantly rising complexity, and we want people to engage with new knowledge, with the world, and with their own life-situation in new and meaningful ways that match the 21st century.
 
 The world is changing so rapidly that we can no longer rely solely on what we learned in school. We need to see and grasp dimensions of the world that were not available just 10 years ago, e.g. what goes on in cyber space. We also need to understand the underlying structures in human interaction, in history, and how eco-systems thrive."
 https://www.nordicbildung.org/about/ 
 
+## key People
 
-##key People
 undefined
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
 
 
-##Connections
+
+## Connections
+
 Learning Planet Institute
 

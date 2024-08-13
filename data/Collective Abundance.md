@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "Collective Abundance is a new collaborative initiative, working to change the way philanthropy redistributes wealth to climate justice organisers in Europe and building collective organised power amongst those working on the frontlines of the climate crisis.
 
@@ -31,17 +31,20 @@ We want to support a just and reparative redistribution of philanthropic wealth 
 
 https://www.collectiveabundance.org/
 
+## key People
 
-##key People
 undefined
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
 
 
-##Connections
+
+## Connections
+
 A pilot project that grew out of Leap Collective.
 Initial funding from the Robert Bosch Foundation.
 

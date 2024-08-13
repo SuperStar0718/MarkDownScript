@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "Reinventing Society is a non-profit and independent think tank founded in late 2020. Our mission is to accompany people into a regenerative society. To do this, we develop positive visions of the future , accompany change processes and impart future skills. We see our organization itself as a real-world laboratory in which new empirical knowledge is created.
 
@@ -35,16 +35,19 @@ We are in a phase of great upheaval. Various crises lead to the end of old struc
 https://www.realutopien.de/ueber-uns/
 
 
+## key People
 
-##key People
 undefined
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 Information Library for Real Utopias: https://realutopien.info/ . An engaging online resource containing a toolbox of concepts, methods, and inspiring visions related to imagining, designing, and realising utopias. 
 
-##Connections
+## Connections
+
 undefined
 

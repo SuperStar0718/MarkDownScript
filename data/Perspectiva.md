@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "Perspectiva is a community of expert generalists working on an urgent one hundred year project to improve the relationships between systems, souls and society in theory and practice.
 
@@ -34,16 +34,19 @@ We believe the world’s major challenges stem from a crisis of perception and i
 
 https://systems-souls-society.com/
 
+## key People
 
-##key People
 Jonathan Rowson; Tomas Bjorkman; Pippa Evans; Ivo Mensh
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
 
 
-##Connections
+
+## Connections
+
 
 

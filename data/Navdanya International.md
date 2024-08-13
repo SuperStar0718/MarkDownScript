@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 Navdanya and the Navdanya movement was created by Dr. Vandana Shiva 30 years ago in India to defend Seed and Food sovereignty and small farmers around the world. Navdanya pioneered the movement of seed saving and seed freedom, which began in response to the crisis of erosion of agricultural biodiversity and introduction of GMOs and patents on seeds through intellectual property rights (IPRs) and so-called ‘free trade’ agreements. It has long fought against biopiracy, the patenting of indigenous knowledge by self-interested multinational corporations and won cases related to Neem, basmati rice and wheat in India.
 
@@ -30,19 +30,22 @@ Navdanya promotes a new agricultural and economic paradigm, a culture of food fo
 
 https://navdanyainternational.org/about-us-navdanya-international/
 
+## key People
 
-##key People
 Ruchi Shroff (Executive Director)
  Dr. Vandana Shiva (Founder)
 
-##Theory of change
+## Theory of change
+
 sustainable agriculture, biodiversity, food sovereignty
 
-##key learning resources
+## key learning resources
+
 Briefing Papers
 https://navdanyainternational.org/publications-category/briefing-papers/
 
-##Connections
+## Connections
+
 Brot für die Welt;
 Unione Buddhista Italiana;
 8xMille Chiesa Valdese;

@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "The Collective Leadership Institute is a cutting-edge organization with deep expertise in bringing emerging paradigm leadership concepts to multi-stakeholder processes and projects in support of achieving the Sustainable Development Goals. [...]
 
@@ -42,17 +42,20 @@ We empower people globally to use our methodology of dialogic change and collect
 
 https://www.collectiveleadership.de/blog/article/about-cli/ 
 
+## key People
 
-##key People
 undefined
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 - http://www.stakeholderdialogues.net/: a learning space that is directed towards practitioners from the private sector, the public sector, and civil society organizations who are working on sustainable development issues with multiple stakeholders. Includes an online textbook and toolbox for their dialogic change and collective leadership methodology. 
 - Publications related to collective leadership: https://www.collectiveleadership.de/blog/article/books/ 
 
-##Connections
+## Connections
+
 undefined
 

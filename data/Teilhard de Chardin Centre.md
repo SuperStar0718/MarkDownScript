@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "The Teilhard de Chardin Centre, opened in June 2023 in the heart of the technological and scientific center of Saclay, is a unique and innovative project carried out jointly by the Society of Jesus and the dioceses of Evry Corbeil-Essonnes, Paris, Nanterre and Versailles. It offers a space for meeting and dialogue to reflect on scientific and technological developments from a philosophical, ethical and spiritual point of view.
 
@@ -33,16 +33,19 @@ The Centre is also a place of spiritual life, welcoming the activities of studen
 Its activities take the form of conferences, debate evenings, trainings, workshops, discussion meetings, etc. and are open to all: teachers and researchers, business professionals, students, the general public who are interested in scientific innovations, etc., whatever their religious and spiritual beliefs."
 https://centreteilharddechardin.fr/qui-sommes-nous/#section-wyswyg-3 
 
+## key People
 
-##key People
 undefined
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 undefined
 
-##Connections
+## Connections
+
 undefined
 

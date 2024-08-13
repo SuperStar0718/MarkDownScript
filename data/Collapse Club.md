@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "How are we to live in the time of collapse?
 
@@ -40,16 +40,19 @@ An Online Community: Providing continuing connection and ongoing dialogue among 
 An Expanding Collection of Wisdom: Exploring beneficial ways to live in the time of collapse. We share these ideas in our Member Stories."
 https://www.collapseclub.com/about 
 
+## key People
 
-##key People
 undefined
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 Their main offering is weekly free online meetings for emotional support and social connection arounf the topic of systems collapse
 
-##Connections
+## Connections
+
 undefined
 

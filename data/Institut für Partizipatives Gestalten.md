@@ -22,20 +22,23 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "The Institute for Participatory Design is the leading institute for co-creative approaches to participation. From urban and regional development, architecture and planning to transformative development work with municipalities, companies and organizations to national democracy projects, the IPG has proven that co-creative processes lead to more engagement, greater innovation and better, future-oriented results than comparable classic approaches."
 
+## key People
 
-##key People
 undefined
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 Cocreators University offers training programmes for co-creation: https://cocreators.university/de/
 
-##Connections
+## Connections
+
 undefined
 

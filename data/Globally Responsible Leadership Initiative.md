@@ -22,24 +22,27 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 The Globally Responsible Leadership Initiative is a deeply engaged international, multi-sector community focused on catalysing the development of globally responsible leadership and practice.
 
 
 
+## key People
 
-##key People
 Peter Møllgaard (Chair)
 
-##Theory of change
+## Theory of change
+
 visible advocacy, thought-and-action leadership, and hands-on prototyping and experimentation
 
-##key learning resources
+## key learning resources
+
 https://grli.org/impact/resources/
 https://blog.grli.org/
 
-##Connections
+## Connections
+
 
 AACSB International
 EFMD

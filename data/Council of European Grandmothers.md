@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "We are Elder Women who have decided to form a Council of nurturing power, natural wisdom and willingness to do our part to support, achieve and maintain a healthy living environment – in our time, for the children, grandchildren and future generations.
 
@@ -34,16 +34,19 @@ We call ourselves The Council of European Grandmothers."
 
 https://councileugrandmothers.eu/ 
 
+## key People
 
-##key People
 undefined
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 undefined
 
-##Connections
+## Connections
+
 undefined
 

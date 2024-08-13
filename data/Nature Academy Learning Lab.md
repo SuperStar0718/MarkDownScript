@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "We want to inspire, strengthen and educate people to be a positive force for societal change and contribute to a more sustainable global community. Therefore, we assist leaders, individuals, and organisations to develop their skills and capacities for transformative learning.
 The Nature Academy also provides methods and tools for inner development, abilities that are increasingly necessary to reach and live up to global sustainability goals."
@@ -33,16 +33,19 @@ https://www.gorangennvi.eu/vart-bidrag/
 
 https://www.gorangennvi.eu/goran-gennvi-advisor/
 
+## key People
 
-##key People
 undefined
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 undefined
 
-##Connections
+## Connections
+
 undefined
 

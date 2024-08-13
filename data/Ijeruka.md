@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "Ijeruka is a vibrant virtual education platform uniting the global African diaspora through collective learning and exploration. Through Ijeruka, we honor, amplify and advance our boundless creative capacity and unique insights and perspectives as people of African descent, by engaging in transformative conversations that span culture, consciousness, social and systems change.
 
@@ -30,16 +30,19 @@ Explore timeless traditional knowledge and paradigm-shifting perspectives on the
 
 https://www.ijeruka.com/about 
 
+## key People
 
-##key People
 Anwulika Okonjo, Founder
 
-##Theory of change
+## Theory of change
+
 their theory of change is centered around afro-centrism
 
-##key learning resources
+## key learning resources
+
 https://www.ijeruka.com/library
 
-##Connections
+## Connections
+
 
 

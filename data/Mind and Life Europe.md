@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "MLE is a home for unconventional interdisciplinary encounters, where researchers and practitioners enrich one another in their understanding of mind and life, through the rigour of scientific inquiry, the openness of philosophical investigation, the edginess of artistic exploration, and the depth of contemplative wisdom traditions. We believe that holding an open-hearted and interdisciplinary space of dialogue is in itself a radical, ethical mode of being-in-the-world, which generates new pathways of research and collective sense-making with transformative potential.
 
@@ -32,16 +32,19 @@ MLE provides a meeting ground for contemplative scientists who undertake the sci
 
 https://mindandlife-europe.org/about-us/
 
+## key People
 
-##key People
 Francisco Varela; Amy Cohen Varela
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
 
 
-##Connections
+
+## Connections
+
 
 

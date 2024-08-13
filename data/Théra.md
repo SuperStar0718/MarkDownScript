@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "The Applied Research Center for the Regeneration of Living Systems responds to the global metacrisis by fostering a holistic approach to revitalization. Nestled within the biodiverse and culturally rich Tarn-et-Garonne, we strive to empower civil society through research and co-development, integrating local and global stakeholders and knowledge, and bringing all of that together into real projects.
 
@@ -37,16 +37,19 @@ Our Center operates as a multi-site living laboratory for sustainability, focuse
 - Unique Accommodations: Welcoming eco-tourists to immersive experiences, showcasing the Center's commitment to sustainable living and tourism."
 https://thera.earth/en/ 
 
+## key People
 
-##key People
 undefined
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 undefined
 
-##Connections
+## Connections
+
 undefined
 

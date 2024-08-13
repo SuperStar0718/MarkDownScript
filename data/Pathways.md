@@ -22,23 +22,26 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 Our vision is an alive planet, where people are embedded in healthy local communities and ecosystems. Inspired by community Process Work, Deep Ecology and Permaculture, we want to bring together people from different countries and backgrounds to research and experience regenerative culture in all its different forms.
 
 https://pathways-courses.org/
 
 
+## key People
 
-##key People
 Teodora Radulescu,Annabelle Schapals,Roos Derks (co-founders)
 
-##Theory of change
+## Theory of change
+
 Permaculture Design, Authentic Vocation, Sociocracy, Ecovillage Design, Facilitation, Conflict Resolution, Yoga, Deep Ecology, Dragon Dreaming, Collaboration methods 
 
-##key learning resources
+## key learning resources
+
 https://pathways-courses.org/resources/
 
-##Connections
+## Connections
+
   Erasmus+ Movetia, Creating + Transformative Culture
 

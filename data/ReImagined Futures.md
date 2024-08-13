@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "We help organisations make sense of complexity and collaborate towards systems change.
 
@@ -31,16 +31,19 @@ We are a collective of experienced systems change practitioners who can support 
 Our team is composed of systems mappers, designers and facilitators from across the globe, who work together to help you better understand the complex system you aim to have an impact on and identify leverage points for systems change. We employ a variety of systems thinking tools for reflection, analysis, design and learning, as well as a participatory approach which underpins all of our work."
 https://www.reimaginedfutures.org/ 
 
+## key People
 
-##key People
 undefined
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 undefined
 
-##Connections
+## Connections
+
 undefined
 

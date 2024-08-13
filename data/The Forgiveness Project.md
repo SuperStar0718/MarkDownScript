@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "The Forgiveness Project collects and shares stories from both victims/survivors and perpetrators of crime and conflict who have rebuilt their lives following hurt and trauma.
 
@@ -30,16 +30,19 @@ At the heart of The Forgiveness Project is an understanding that restorative nar
 
 https://www.theforgivenessproject.com/our-purpose/
 
+## key People
 
-##key People
 undefined
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 undefined
 
-##Connections
+## Connections
+
 undefined
 

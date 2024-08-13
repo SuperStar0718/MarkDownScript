@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "We create new narratives. This happens through two business areas: the publishing house (here you can find works on new narratives) and the experience spaces (here we playfully engage with existing and new narratives).
 
@@ -30,16 +30,19 @@ We open up spaces for thought and dialogue to research new narratives. We develo
 
 https://www.ima-adama.earth/
 
-
-##key People
-
-
-##Theory of change
+## key People
 
 
-##key learning resources
+
+## Theory of change
 
 
-##Connections
+
+## key learning resources
+
+
+
+## Connections
+
 
 

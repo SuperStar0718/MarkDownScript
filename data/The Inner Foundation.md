@@ -22,23 +22,26 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 We created The Inner Foundation as a significant force for good – equal parts impact investor, grant giver, and thought leader. We witnessed a big gap between academic insight, best practice, and street-level action in the field of mental health and DEI and found it impossible to sit by and watch the hurt expand. We instead made it our job to turn insight into action, step by active step, and then accelerate healing of the world to the next level: one of thriving. We consider ourselves part empowerers, part activists. We recognize the complexity and still, we aim for solutions that are simple, doable, and powerful. We set out to build an ecosystem of positive change agents with people and organizations that share our philosophy and theory of change. There are thousands of innovative solutions out there that carry the potential for counteracting the problems of loneliness, loss of direction, exclusion, and lack of diversity. Debilitating issues that are not getting addressed for real. We are here to change that.
 
+## key People
 
-##key People
 -Annika Sten Pärson Founding Partner and Executive Chair 
 -Pär-Jörgen Pärson Co-Founder and Non-Executive Board member
 
-##Theory of change
+## Theory of change
+
 -inner health
 -Well-being of individuals and societies, safeguarded and sustained by connection – to oneself, others, and the entire world. 
 
-##key learning resources
+## key learning resources
 
 
-##Connections
+
+## Connections
+
 1. 1825
 2. First Close Partners
 3. Unconventional Ventures

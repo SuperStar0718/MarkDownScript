@@ -22,7 +22,7 @@ metadata_version: 1
 ---
 
 
-##Body
+## Body
 
 "Based in London, The Barrett Academy is an international think-tank which seeks to provide evidence-based practical advice on the evolution of human consciousness.
 
@@ -42,16 +42,19 @@ The Barrett Academy offers the following services:
 
 https://www.barrettacademy.com/about-2020/barrett-academy 
 
+## key People
 
-##key People
 undefined
 
-##Theory of change
+## Theory of change
+
 undefined
 
-##key learning resources
+## key learning resources
+
 Resource hub: https://www.barrettacademy.com/article-pages/articles 
 
-##Connections
+## Connections
+
 undefined
 
