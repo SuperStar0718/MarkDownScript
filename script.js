@@ -2,7 +2,7 @@ const fs = require("fs");
 const readline = require("readline");
 const csv = require("csv-parser");
 const { google } = require("googleapis");
-const { exec } = require('child_process');
+const { exec } = require("child_process");
 
 const results = [];
 
@@ -63,9 +63,6 @@ ${data["connections"]}\n
       // console.log("Markdown file is generated");
     }
   });
-
-  // Call the function to upload changes
-  uploadToGit();
 };
 
 // // Read the CSV file
@@ -168,6 +165,8 @@ function listMajors(auth) {
             writeProfile(data);
           }
         });
+        // Call the function to upload changes
+        uploadToGit();
       } else {
         console.log("No data found.");
       }
