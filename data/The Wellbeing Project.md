@@ -1,23 +1,30 @@
-### id: 
-  the-wellbeing-project
-### title: 
-  The Wellbeing Project
-### url: 
-  https://wellbeing-project.org/
-### Map territory: 
-  Metacrisis
-### Close to: 
-  
-### curator: 
-  Catherine
-### Notes/comments/questions: 
-  2. Quite focused on the link between inner wellbeing and outer action for social change, with a rigorous approach
-### logo image url: 
-  https://drive.google.com/file/d/1-tWxNTMml-YCA7lfZUOt4Va3k3bkAL_z/view?usp=drive_link
-### homepage image url: 
-  https://drive.google.com/file/d/1DbadlNkZgx2ttH4q92WTyXm_dksLyse2/view?usp=drive_link
-### description: 
-  "WELLBEING INSPIRES WELLDOING
+---
+created:
+contributors: Catherine
+title: The Wellbeing Project
+url: https://wellbeing-project.org/
+locations: Paris, France
+start: 2014
+end: present
+size: 21-50
+image: https://drive.google.com/file/d/1DbadlNkZgx2ttH4q92WTyXm_dksLyse2/view?usp=drive_link
+logo: https://drive.google.com/file/d/1-tWxNTMml-YCA7lfZUOt4Va3k3bkAL_z/view?usp=drive_link
+sectors:
+  main sector: Health & Wellbeing
+  sector 2: 
+  sector 3: undefined
+activities: 
+  main activity: Research
+  activity 2: undefined
+  activity 3: undefined
+cohere: true
+metadata_version: 1
+---
+
+
+##Body
+
+"WELLBEING INSPIRES WELLDOING
 
 We are catalysing a culture where changemakers are well and their work is thriving.
 
@@ -30,43 +37,21 @@ We are a global network of over 1,200 organisations including grassroots network
 - Learning and acting together to support changemakers and their organisations
 - Convening Summits to galvanise a wellbeing culture regionally and globally
 - Mainstreaming a wellbeing and social change narrative"
-### key concepts: 
-  intergenerational trauma; ecological belonging
-### methods: 
-  
-### locations: 
-  Paris, France
-### start: 
-  2014
-### end: 
-  present
-### main sector: 
-  Health & Wellbeing
-### sector 2: 
-  
-### sector 3 : 
-  
-### main activity: 
-  Research
-### activity 2 : 
-  Advocacy & Activism
-### activity 3 : 
-  Convening & Coordination
-### size: 
-  21-50
-### learning resources: 
-  - Online resource for learning about Ecological Belonging: https://www.ecological-belonging.org/ 
+
+
+##key People
+
+
+##Theory of change
+See 'Declaration of Wellbeing: The Words Guiding our Movement': https://wellbeing-project.org/declaration-of-wellbeing/ 
+
+##key learning resources
+- Online resource for learning about Ecological Belonging: https://www.ecological-belonging.org/ 
 - Online resource for learning about Intergenerational Trauma: https://www.intergenerational-trauma.com/ 
 - Tips and Tools for Wellbeing and Welldoing: https://wellbeing-project.org/wellbeing-tips-welldoing-tools/ 
-### connections: 
-  Anchor Co-creators are: Ashoka, Georgetown University, Impact Hub, Porticus, Skoll Foundation, and Synergos.
+
+##Connections
+Anchor Co-creators are: Ashoka, Georgetown University, Impact Hub, Porticus, Skoll Foundation, and Synergos.
 
 Tavistock Institute is a Research Partner
-### key people: 
-  
-### theory of change: 
-  See 'Declaration of Wellbeing: The Words Guiding our Movement': https://wellbeing-project.org/declaration-of-wellbeing/ 
-### : 
-  
-### status: 
-  ✅
+

@@ -1,27 +1,32 @@
-### id: 
-  the-systems-sanctuary
-### title: 
-  The Systems Sanctuary
-### url: 
-  https://systemsanctuary.com/
-### Map territory: 
-  
-### Close to: 
-  
-### curator: 
-  Lauren
-### Notes/comments/questions: 
-  2 founders and 3 associates listed on website. Female led, and women focused/feminist perspective. 6x Reports available here - https://systemsanctuary.com/research
+---
+created:
+contributors: Lauren
+title: The Systems Sanctuary
+url: https://systemsanctuary.com/
+locations: Offices in St Louis, USA and Montreal, Canada. 
 
-Website lists a Sangha (paid membership group), courses, field building and research.
+With ties to the UK, USA and Canada, work internationally.
+start: 2017
+end: present
+size: 1-3
+image: https://drive.google.com/file/d/12WXmfVdYm8tGPGkEMf62qnUW_sI4He8R/view?usp=drive_link 
+logo: https://drive.google.com/file/d/12NvErDsxG1YEVJIBmNCarfpjdtMUnsup/view?usp=drive_link 
+sectors:
+  main sector: Education & Learning
+  sector 2: Governance & Community
+  sector 3: undefined
+activities: 
+  main activity: Education & Training
+  activity 2: undefined
+  activity 3: undefined
+cohere: true
+metadata_version: 1
+---
 
-Not certain on start date
-### logo image url: 
-  https://drive.google.com/file/d/12NvErDsxG1YEVJIBmNCarfpjdtMUnsup/view?usp=drive_link 
-### homepage image url: 
-  https://drive.google.com/file/d/12WXmfVdYm8tGPGkEMf62qnUW_sI4He8R/view?usp=drive_link 
-### description: 
-  "Refuge for Systems Leaders.
+
+##Body
+
+"Refuge for Systems Leaders.
 We teach and train leaders on systems change. We work with individuals, teams and ecosystems to support learning and inform wise action.
 
 We are a support system for leaders working to transform unhealthy systems.
@@ -37,41 +42,17 @@ We teach a mixture of systems practice tools and frameworks and facilitate peer 
 
 We can create a bespoke Cohort or series of Cohorts for your Team, Cohort, Network, Ecosystem or Grantees."
 https://systemsanctuary.com/courses-training-organisations   
-### key concepts: 
-  
-### methods: 
-  
-### locations: 
-  Offices in St Louis, USA and Montreal, Canada. 
 
-With ties to the UK, USA and Canada, work internationally.
-### start: 
-  2017
-### end: 
-  present
-### main sector: 
-  Education & Learning
-### sector 2: 
-  Governance & Community
-### sector 3 : 
-  
-### main activity: 
-  Education & Training
-### activity 2 : 
-  Research
-### activity 3 : 
-  
-### size: 
-  1-3
-### learning resources: 
-  https://systemsanctuary.com/research
-### connections: 
-  
-### key people: 
-  Rachel Sinha & Tatiana Fraser
-### theory of change: 
-  
-### : 
-  
-### status: 
-  ✅
+
+##key People
+Rachel Sinha & Tatiana Fraser
+
+##Theory of change
+undefined
+
+##key learning resources
+https://systemsanctuary.com/research
+
+##Connections
+
+

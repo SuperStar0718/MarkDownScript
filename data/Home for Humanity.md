@@ -1,23 +1,30 @@
-### id: 
-  home-for-humanity
-### title: 
-  Home for Humanity
-### url: 
-  https://www.homeforhumanity.earth/ 
-### Map territory: 
-  
-### Close to: 
-  
-### curator: 
-  Catherine
-### Notes/comments/questions: 
-  4. Strong emphasis on multidimensional integration. Strongly informed by integral theory, e.g. see theory of change
-### logo image url: 
-  https://drive.google.com/file/d/1s0vZAZHqiqkIPK8v8RUvO15n6N0qy4UP/view?usp=drive_link
-### homepage image url: 
-  https://drive.google.com/file/d/1I2gIntoQDrzIVJmVs60vn_kwjBZfYfAE/view?usp=drive_link
-### description: 
-  "Home for Humanity is an inclusive movement for planetary regeneration.
+---
+created:
+contributors: Catherine
+title: Home for Humanity
+url: https://www.homeforhumanity.earth/ 
+locations: France; Zimbabwe; Egypt; Brazil; India; Nigeria; Sri Lanka; Jordan; Morocco; Jerusalem 
+start: 2019
+end: present
+size: 4-10
+image: https://drive.google.com/file/d/1I2gIntoQDrzIVJmVs60vn_kwjBZfYfAE/view?usp=drive_link
+logo: https://drive.google.com/file/d/1s0vZAZHqiqkIPK8v8RUvO15n6N0qy4UP/view?usp=drive_link
+sectors:
+  main sector: Arts & Culture
+  sector 2: Education & Learning
+  sector 3: undefined
+activities: 
+  main activity: Convening & Coordination
+  activity 2: undefined
+  activity 3: undefined
+cohere: true
+metadata_version: 1
+---
+
+
+##Body
+
+"Home for Humanity is an inclusive movement for planetary regeneration.
 
 We activate the power of our homes to pioneer regenerative futures.
 
@@ -32,39 +39,17 @@ We catalyse the power of Home:
 
 ​This is the transformative work of the Home for Humanity Movement for Planetary Regeneration, active locally and globally, on all continents."
 https://www.homeforhumanity.earth/ 
-### key concepts: 
-  
-### methods: 
-  
-### locations: 
-  France; Zimbabwe; Egypt; Brazil; India; Nigeria; Sri Lanka; Jordan; Morocco; Jerusalem 
-### start: 
-  2019
-### end: 
-  present
-### main sector: 
-  Arts & Culture
-### sector 2: 
-  Education & Learning
-### sector 3 : 
-  Relations & Peace
-### main activity: 
-  Convening & Coordination
-### activity 2 : 
-  Education & Training
-### activity 3 : 
-  Art Production & Curation
-### size: 
-  4-10
-### learning resources: 
-  
-### connections: 
-  Global partner organisations include: Holomovement, Wholeworld-View,Charter for Compassion, Learning Planet Institute, Wellbeing Economy Alliance, Source of Synergy Foundation, YouthxYouth, Kosmos https://www.homeforhumanity.earth/partnerorganisations 
-### key people: 
-  
-### theory of change: 
-  https://drive.google.com/file/d/1vws8dabCPjQh-6uRCr0AmazR0crUXXq8/view?usp=drive_link
-### : 
-  
-### status: 
-  ✅
+
+
+##key People
+
+
+##Theory of change
+https://drive.google.com/file/d/1vws8dabCPjQh-6uRCr0AmazR0crUXXq8/view?usp=drive_link
+
+##key learning resources
+
+
+##Connections
+Global partner organisations include: Holomovement, Wholeworld-View,Charter for Compassion, Learning Planet Institute, Wellbeing Economy Alliance, Source of Synergy Foundation, YouthxYouth, Kosmos https://www.homeforhumanity.earth/partnerorganisations 
+

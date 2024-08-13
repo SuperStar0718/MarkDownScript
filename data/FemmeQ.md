@@ -1,23 +1,30 @@
-### id: 
-  femmeq
-### title: 
-  FemmeQ
-### url: 
-  https://femmeq.org/what-is-femmeq/ 
-### Map territory: 
-  Wisdom
-### Close to: 
-  
-### curator: 
-  Catherine
-### Notes/comments/questions: 
-  Approach to catalysing transformation includes inner work and shift in consciousness. Framed through focus on cultivating deep feminine wisdom +intelligence. 4 in terms of closeness to centre.
-### logo image url: 
-  https://drive.google.com/file/d/1RevDvpyl51sKqPrqrlGqmYWmrXMeb6N1/view?usp=drive_link 
-### homepage image url: 
-  https://drive.google.com/file/d/1Q-_p1H63V8mwCNeyzE8wrn1ExKs0pg6V/view?usp=drive_link 
-### description: 
-  "FemmeQ: Feminine Intelligence is a global movement launched in 2016, when 140 people from 15 countries gathered in Berlin. 
+---
+created:
+contributors: Catherine
+title: FemmeQ
+url: https://femmeq.org/what-is-femmeq/ 
+locations: Berlin, Germany
+start: 2016
+end: present
+size: 4-10
+image: https://drive.google.com/file/d/1Q-_p1H63V8mwCNeyzE8wrn1ExKs0pg6V/view?usp=drive_link 
+logo: https://drive.google.com/file/d/1RevDvpyl51sKqPrqrlGqmYWmrXMeb6N1/view?usp=drive_link 
+sectors:
+  main sector: Relations & Peace
+  sector 2: Governance & Community
+  sector 3: undefined
+activities: 
+  main activity: Events & Retreats
+  activity 2: undefined
+  activity 3: undefined
+cohere: true
+metadata_version: 1
+---
+
+
+##Body
+
+"FemmeQ: Feminine Intelligence is a global movement launched in 2016, when 140 people from 15 countries gathered in Berlin. 
 
 The FemmeQ concept was founded by Dr Scilla Elworthy, Alexandra Feldner and Karen Downes, together have distilled the wisdom from heart centred business leaders, spiritual teachers and activists to offer you the direct way to integrate this deep feminine wisdom. 
 
@@ -39,43 +46,21 @@ Transformation catalysts are the Entrepreneurs, Pathfinders, Warriors, and Lover
 
 These catalysts have moved beyond the old beliefs that keep a dysfunctional system in place, they are actively creating and telling a new story, bringing about a deep cultural revolution."
 https://femmeq.org/
-### key concepts: 
-  feminine intelligence; shift in consciousness; cultural revolution; systemic shift; new story; heart-centred; feminine wisdom
-### methods: 
-  
-### locations: 
-  Berlin, Germany
-### start: 
-  2016
-### end: 
-  present
-### main sector: 
-  Relations & Peace
-### sector 2: 
-  Governance & Community
-### sector 3 : 
-  Spirituality & Religion
-### main activity: 
-  Events & Retreats
-### activity 2 : 
-  Convening & Coordination
-### activity 3 : 
-  Advocacy & Activism
-### size: 
-  4-10
-### learning resources: 
-  
-### connections: 
-  Co-founder Dr. Scilla Elworthy is also the Founder of Business Plan for Peace
-### key people: 
-  Dr. Scilla Elworthy, Co-founder; Alexandra Feldner, Co-founder; Karen Downes, Co-founder 
-### theory of change: 
-  femmeq-Catalysing-Transformation.jpeg
+
+
+##key People
+Dr. Scilla Elworthy, Co-founder; Alexandra Feldner, Co-founder; Karen Downes, Co-founder 
+
+##Theory of change
+femmeq-Catalysing-Transformation.jpeg
 
 "To bring about the transformation needed we will need to acknowledge the mindset, beliefs and patterns of behaviour that have brought about our demise; whot we have adopted and how we have adapted. Then to create a shift in consciousness and bring about a deep respect for what have traditionally been seen as feminine qualities, this is not simply a shift in roles or positions of power.
 
 We must restore a balance between intellect and intuition, facts and feelings, reason and realism. A recognition of our untapped human qualities and potential that lies at the core of our being, must be activated and embodied in the way we live and lead." https://femmeq.org/what-is-femmeq/
-### : 
-  
-### status: 
-  ✅
+
+##key learning resources
+
+
+##Connections
+Co-founder Dr. Scilla Elworthy is also the Founder of Business Plan for Peace
+

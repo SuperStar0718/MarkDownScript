@@ -1,25 +1,30 @@
-### id: 
-  school-of-system-change
-### title: 
-  School of System Change
-### url: 
-  https://schoolofsystemchange.org/ 
-### Map territory: 
-  
-### Close to: 
-  
-### curator: 
-  Trip
-### Notes/comments/questions: 
-  I want to know their lineages of thought. Not super clear to me what practices they are borrowing from, and where they are innovating. This might be partially because I'm not deeply familiar with the nuanced lineages within "systems thinking".
+---
+created:
+contributors: Trip
+title: School of System Change
+url: https://schoolofsystemchange.org/ 
+locations: UK; France; Germany; USA; New Zealand
+start: 2016
+end: present 
+size: 4-10
+image: https://drive.google.com/file/d/1ceLzjG3JEe4F3lDYmxCBLgF52mf1Y82k/view?usp=drive_link
+logo: https://drive.google.com/file/d/1NnZcZRonsARZBn3UspBOiVsM2rB2RbM8/view?usp=drive_link
+sectors:
+  main sector: Education & Learning
+  sector 2: 
+  sector 3: undefined
+activities: 
+  main activity: Education & Training
+  activity 2: undefined
+  activity 3: undefined
+cohere: true
+metadata_version: 1
+---
 
-I also don't immediately understand who their audience is. Is it social change activists? Corporate bodies aspiring for something new?
-### logo image url: 
-  https://drive.google.com/file/d/1NnZcZRonsARZBn3UspBOiVsM2rB2RbM8/view?usp=drive_link
-### homepage image url: 
-  https://drive.google.com/file/d/1ceLzjG3JEe4F3lDYmxCBLgF52mf1Y82k/view?usp=drive_link
-### description: 
-  In a world on the brink of collapse, changing so fast and yet in many ways not fast enough, we need broad and deep systems change. The School of System Change exists to nurture the work of leaders and changemakers who are embracing complexity and bringing about hopeful futures.
+
+##Body
+
+In a world on the brink of collapse, changing so fast and yet in many ways not fast enough, we need broad and deep systems change. The School of System Change exists to nurture the work of leaders and changemakers who are embracing complexity and bringing about hopeful futures.
 
 We create pathways from overwhelm to agency.
 
@@ -30,42 +35,13 @@ Discernment is a key capacity for our times.
 Our inspiring contributors and talented facilitators from across the field of systems change share a passion for supporting people to navigate different ways of thinking, acting and being as we develop our collective capacity for transformation. Together, we contribute to evolving the field and practices of systems change.
 
 https://schoolofsystemchange.org/the-school/who-we-are
-### key concepts: 
-  
-### methods: 
-  
-### locations: 
-  UK; France; Germany; USA; New Zealand
-### start: 
-  2016
-### end: 
-  present 
-### main sector: 
-  Education & Learning
-### sector 2: 
-  
-### sector 3 : 
-  
-### main activity: 
-  Education & Training
-### activity 2 : 
-  Consulting & Advisory
-### activity 3 : 
-  
-### size: 
-  4-10
-### learning resources: 
-  "What is systems change? An outcome and process" by Anna Birney, CEO
-https://medium.com/school-of-system-change/what-is-systems-change-an-outcome-and-process-f86126c8cb65#.pw1o42x3n
 
-"Systems practices — what might these be?" by Anna Birney, CEO
-https://medium.com/school-of-system-change/systems-practices-what-might-these-be-ff998d6b15a3
-### connections: 
-  Partners: On Purpose, drosos, idh, WWF, Greenpeace; Funding Partners: Forum for the Future, Lankelly Chase, GF, Johnson+Johnson Foundation, Cisco Foundation; Partner Networks: Illuminate, BMW Foundation, Bosch Alumni Netowrk, Catalyst 2030, The Hum
-### key people: 
-  Anna Birney, CEO
-### theory of change: 
-  "Learning is change."
+
+##key People
+Anna Birney, CEO
+
+##Theory of change
+"Learning is change."
 
 The ongoing process of learning through adapting to constantly evolving conditions inherently dismantles the domainant paradigm of imperialist, white-surpremacist, capitalist patriarchy.
 
@@ -74,7 +50,14 @@ This work is difficult and requires sustained cultures and structures for collec
 We train people to build those cultures and structures.
 
 https://schoolofsystemchange.org/the-school/our-approach-to-change
-### : 
-  
-### status: 
-  ✅
+
+##key learning resources
+"What is systems change? An outcome and process" by Anna Birney, CEO
+https://medium.com/school-of-system-change/what-is-systems-change-an-outcome-and-process-f86126c8cb65#.pw1o42x3n
+
+"Systems practices — what might these be?" by Anna Birney, CEO
+https://medium.com/school-of-system-change/systems-practices-what-might-these-be-ff998d6b15a3
+
+##Connections
+Partners: On Purpose, drosos, idh, WWF, Greenpeace; Funding Partners: Forum for the Future, Lankelly Chase, GF, Johnson+Johnson Foundation, Cisco Foundation; Partner Networks: Illuminate, BMW Foundation, Bosch Alumni Netowrk, Catalyst 2030, The Hum
+

@@ -1,23 +1,30 @@
-### id: 
-  meridian-university
-### title: 
-  Meridian University
-### url: 
-  https://meridianuniversity.edu/
-### Map territory: 
-  Alternative Education
-### Close to: 
-  
-### curator: 
-  Danielle
-### Notes/comments/questions: 
-  
-### logo image url: 
-  https://drive.google.com/file/d/1Qktq-EHnfGPOfQWdLewCYvdrCc0yqYxg/view?usp=sharing
-### homepage image url: 
-  https://drive.google.com/file/d/1iMfgbo0C37s5UXKywMYrHT3iOequr9nY/view?usp=sharing
-### description: 
-  "Founded over 30 years ago in the San Francisco Bay Area, Meridian University enrolls students globally in its unique hybrid and 100% online graduate degree, professional certificate, and public programs. The University offers master's and doctoral programs in Business, Education, Leadership, and Psychology with diverse concentrations available within each of these programs. Meridian’s integrated, innovative curriculum is designed to be experiential and transformative.
+---
+created:
+contributors: Danielle
+title: Meridian University
+url: https://meridianuniversity.edu/
+locations: San Francisco, USA (main campus); Athens, Greece; Los Angeles, USA; Berlin, Germany; Johannesburg, South Africa; Istanbul, Turkey
+start: 1993
+end: present
+size: 21-50
+image: https://drive.google.com/file/d/1iMfgbo0C37s5UXKywMYrHT3iOequr9nY/view?usp=sharing
+logo: https://drive.google.com/file/d/1Qktq-EHnfGPOfQWdLewCYvdrCc0yqYxg/view?usp=sharing
+sectors:
+  main sector: Education & Learning
+  sector 2: 
+  sector 3: undefined
+activities: 
+  main activity: Education & Training
+  activity 2: undefined
+  activity 3: undefined
+cohere: true
+metadata_version: 1
+---
+
+
+##Body
+
+"Founded over 30 years ago in the San Francisco Bay Area, Meridian University enrolls students globally in its unique hybrid and 100% online graduate degree, professional certificate, and public programs. The University offers master's and doctoral programs in Business, Education, Leadership, and Psychology with diverse concentrations available within each of these programs. Meridian’s integrated, innovative curriculum is designed to be experiential and transformative.
 
 Meridian graduates are engaged in varied professional contexts that include coaching, psychotherapy, organizational development, facilitation, social healing, social entrepreneurship, and transformative leadership.
 
@@ -33,39 +40,17 @@ Guided by an Integral Vision, Meridian University seeks to educate leaders with 
 Meridian’s commitment to public and professional engagement is developed through the Center for Transformative Learning."
 
 https://meridianuniversity.edu/
-### key concepts: 
-  
-### methods: 
-  
-### locations: 
-  San Francisco, USA (main campus); Athens, Greece; Los Angeles, USA; Berlin, Germany; Johannesburg, South Africa; Istanbul, Turkey
-### start: 
-  1993
-### end: 
-  present
-### main sector: 
-  Education & Learning
-### sector 2: 
-  
-### sector 3 : 
-  
-### main activity: 
-  Education & Training
-### activity 2 : 
-  
-### activity 3 : 
-  
-### size: 
-  21-50
-### learning resources: 
-  
-### connections: 
-  
-### key people: 
-  
-### theory of change: 
-  
-### : 
-  
-### status: 
-  ✅
+
+
+##key People
+undefined
+
+##Theory of change
+undefined
+
+##key learning resources
+undefined
+
+##Connections
+undefined
+

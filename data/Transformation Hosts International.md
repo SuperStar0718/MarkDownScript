@@ -1,58 +1,50 @@
-### id: 
-  transformation-hosts-international
-### title: 
-  Transformation Hosts International
-### url: 
-  https://hostingtransformation.eu/
-### Map territory: 
-  Inner Development
-### Close to: 
-  
-### curator: 
-  Ola
-### Notes/comments/questions: 
-  Website is hosted on wordpress and a lot of Lorem ipsum litter the website. makes me ask if they are still functional or maybe a lot of attention isn't paid to the website. Last blog update was 2 years ago.
-### logo image url: 
-  https://drive.google.com/file/d/14DqzRnYh3qyC846JmOnmUeisoFlNBovo/view?usp=drive_link
-### homepage image url: 
-  https://drive.google.com/file/d/1GhRze00BC5-Of-Z32L943s_3yj3L_Tlw/view?usp=drive_link
-### description: 
-  "Technically…
+---
+created:
+contributors: Ola
+title: Transformation Hosts International
+url: https://hostingtransformation.eu/
+locations: Europe
+start: 2012
+end: present
+size: 21-50
+image: https://drive.google.com/file/d/1GhRze00BC5-Of-Z32L943s_3yj3L_Tlw/view?usp=drive_link
+logo: https://drive.google.com/file/d/14DqzRnYh3qyC846JmOnmUeisoFlNBovo/view?usp=drive_link
+sectors:
+  main sector: Education & Learning
+  sector 2: 
+  sector 3: undefined
+activities: 
+  main activity: Education & Training
+  activity 2: undefined
+  activity 3: undefined
+cohere: true
+metadata_version: 1
+---
+
+
+##Body
+
+"Technically…
 … the Transformation Hosts International (THI) is a community of practice for Transformative Learning and for hosting the socio-ecological transition. THI articulates this new paradigm of learning, develops and implements new tools for addressing this paradigm, and brings together the practitioners who have the power and skills to host this transformation. We do not have a legal body – yet.
 
 Not so technically…
 … just imagine a bunch of facilitators, hosts, teachers and coaches. They spend enough meaningful time together, that this community changes their work, their practice. Hence by definition they are one: A community of practice.
 As they are all experienced communicators conflicts seldom arise and are solved quickly. Not everybody knows everybody but knowing each other very often leads to dear and long lasting friendships. As it is an international community of practice they travel a lot to keep the connections strong and healthy, but certainly video conferencing is important, too. They are passionate about their work and the world, so they come up with project ideas that enable them to do what they are best at: Hosting Transformation. They choose with whom and where they want to work and what the topic is – and they can make a living out of this. They write funding proposals together, win and lose together, and celebrate a lot. They share their findings and wisdom with the world and get lots of gratitude back."
 https://hostingtransformation.eu/community-of-practice/ 
-### key concepts: 
-  
-### methods: 
-  
-### locations: 
-  Europe
-### start: 
-  2012
-### end: 
-  present
-### main sector: 
-  Education & Learning
-### sector 2: 
-  
-### sector 3 : 
-  
-### main activity: 
-  Education & Training
-### activity 2 : 
-  Convening & Coordination
-### activity 3 : 
-  
-### size: 
-  21-50
-### learning resources: 
-  Free online toolbox of methods for Hosting Transformation: 
+
+
+##key People
+undefined
+
+##Theory of change
+undefined
+
+##key learning resources
+Free online toolbox of methods for Hosting Transformation: 
 https://hostingtransformation.eu/methods-toolbox/ 
-### connections: 
-  1. Art Monastery
+
+##Connections
+1. Art Monastery
 2. Neurodiversity Foundation
 3. Rogers Foundation
 4. Biovilla
@@ -81,11 +73,4 @@ https://hostingtransformation.eu/methods-toolbox/
 27. Cultivate - sustainable Ireland
 28. Permaculture Association UK
 29. COPERNICUS Alliance
-### key people: 
-  
-### theory of change: 
-  
-### : 
-  
-### status: 
-  ✅
+

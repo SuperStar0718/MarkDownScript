@@ -1,23 +1,30 @@
-### id: 
-  gesturing-towards-decolonial-futures-collective
-### title: 
-  Gesturing Towards Decolonial Futures Collective
-### url: 
-  https://decolonialfutures.net/
-### Map territory: 
-  Wisdom
-### Close to: 
-  
-### curator: 
-  Catherine
-### Notes/comments/questions: 
-  3. Vanessa Andreotti (author of Hospicing Modernity) is part of this collective - close relation between the material of that book and the work of this collective
-### logo image url: 
-  https://drive.google.com/file/d/1uU2iAsEYkNzsTlPme3Ko1TW3KbeW-gnv/view?usp=drive_link
-### homepage image url: 
-  https://drive.google.com/file/d/1fIsEI3PzZ3fITHKNpYWbZzcbaQEnSvY1/view?usp=drive_link
-### description: 
-  An international researchers and artists collective, largely based in Canada.
+---
+created:
+contributors: Catherine
+title: Gesturing Towards Decolonial Futures Collective
+url: https://decolonialfutures.net/
+locations: Canada; Brazil
+start: not found
+end: present
+size: 21-50
+image: https://drive.google.com/file/d/1fIsEI3PzZ3fITHKNpYWbZzcbaQEnSvY1/view?usp=drive_link
+logo: https://drive.google.com/file/d/1uU2iAsEYkNzsTlPme3Ko1TW3KbeW-gnv/view?usp=drive_link
+sectors:
+  main sector: Education & Learning
+  sector 2: Arts & Culture
+  sector 3: undefined
+activities: 
+  main activity: Education & Training
+  activity 2: undefined
+  activity 3: undefined
+cohere: true
+metadata_version: 1
+---
+
+
+##Body
+
+An international researchers and artists collective, largely based in Canada.
 
 "Gesturing Towards Decolonial Futures (GTDF) is an arts/research collective that uses this website as a workspace for collaborations around different kinds of artistic, pedagogical, cartographic, and relational experiments that aim to identify and de-activate colonial habits of being, and to gesture towards the possibility of decolonial futures.
 
@@ -34,39 +41,17 @@ GTDF is also a practice that is multi-layered and rather difficult to explain, b
 9. It involves learning and unlearning, disarming and de-centering, dethroning and de-arrogantizing, detoxifying and decluttering, mourning, grieving and healing, digesting and metabolizing, seeing ourselves as cute and pathetic, so that the wider metabolism can breathe and move more easily within and around us;
 10. It involves loosening our attachments to our self images and to what we think we want, so that we might instead step up, own up, clean up, grow up, wake up and show up to do what is really needed, whether or not it fits with our personal agendas."
 https://decolonialfutures.net/ 
-### key concepts: 
-  decolonisation; relational work; spiritual practice; artistic practice; embodied practice
-### methods: 
-  
-### locations: 
-  Canada; Brazil
-### start: 
-  not found
-### end: 
-  present
-### main sector: 
-  Education & Learning
-### sector 2: 
-  Arts & Culture
-### sector 3 : 
-  Justice & Restoration
-### main activity: 
-  Education & Training
-### activity 2 : 
-  Art Production & Curation
-### activity 3 : 
-  Research
-### size: 
-  21-50
-### learning resources: 
-  Many resources on their site e.g. https://decolonialfutures.net/experiments-2/ 
-### connections: 
-  
-### key people: 
-  
-### theory of change: 
-  See their "compass questions": https://decolonialfutures.net/compass-questions/
-### : 
-  
-### status: 
-  ✅
+
+
+##key People
+
+
+##Theory of change
+See their "compass questions": https://decolonialfutures.net/compass-questions/
+
+##key learning resources
+Many resources on their site e.g. https://decolonialfutures.net/experiments-2/ 
+
+##Connections
+
+

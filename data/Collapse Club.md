@@ -1,23 +1,30 @@
-### id: 
-  collapse-club
-### title: 
-  Collapse Club
-### url: 
-  https://www.collapseclub.com/
-### Map territory: 
-  Deep Adaptation
-### Close to: 
-  
-### curator: 
-  Catherine
-### Notes/comments/questions: 
-  4. regular free online meetings "Bringing people together to share their experience of collapse and to cultivate communal wisdom." Deep Adaptation online meetings 
-### logo image url: 
-  https://drive.google.com/file/d/19atqw_hpeSQUHu3FsQO8KpY04VjIgHec/view?usp=drive_link
-### homepage image url: 
-  https://drive.google.com/file/d/1LJoiZzVMLxVce__B-PQ1YZ5-b8oZBKN-/view?usp=drive_link
-### description: 
-  "How are we to live in the time of collapse?
+---
+created:
+contributors: Catherine
+title: Collapse Club
+url: https://www.collapseclub.com/
+locations: Seattle, USA; Global/Online
+start: not found
+end: present
+size: 4-10
+image: https://drive.google.com/file/d/1LJoiZzVMLxVce__B-PQ1YZ5-b8oZBKN-/view?usp=drive_link
+logo: https://drive.google.com/file/d/19atqw_hpeSQUHu3FsQO8KpY04VjIgHec/view?usp=drive_link
+sectors:
+  main sector: Health & Wellbeing
+  sector 2: Relations & Peace
+  sector 3: undefined
+activities: 
+  main activity: Community Spaces
+  activity 2: undefined
+  activity 3: undefined
+cohere: true
+metadata_version: 1
+---
+
+
+##Body
+
+"How are we to live in the time of collapse?
 
 Do you feel alone and isolated with your knowledge of collapse? Do your family and friends not understand what you're seeing and feeling? In a Collapse Club meeting, you will join like-minded people in a safe, structured space to discuss your concerns about our world’s converging crises. [...]
 
@@ -32,39 +39,17 @@ An Online Community: Providing continuing connection and ongoing dialogue among 
 
 An Expanding Collection of Wisdom: Exploring beneficial ways to live in the time of collapse. We share these ideas in our Member Stories."
 https://www.collapseclub.com/about 
-### key concepts: 
-  
-### methods: 
-  
-### locations: 
-  Seattle, USA; Global/Online
-### start: 
-  not found
-### end: 
-  present
-### main sector: 
-  Health & Wellbeing
-### sector 2: 
-  Relations & Peace
-### sector 3 : 
-  
-### main activity: 
-  Community Spaces
-### activity 2 : 
-  Events & Retreats
-### activity 3 : 
-  
-### size: 
-  4-10
-### learning resources: 
-  Their main offering is weekly free online meetings for emotional support and social connection arounf the topic of systems collapse
-### connections: 
-  
-### key people: 
-  
-### theory of change: 
-  
-### : 
-  
-### status: 
-  ✅
+
+
+##key People
+undefined
+
+##Theory of change
+undefined
+
+##key learning resources
+Their main offering is weekly free online meetings for emotional support and social connection arounf the topic of systems collapse
+
+##Connections
+undefined
+

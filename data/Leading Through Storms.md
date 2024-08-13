@@ -1,23 +1,30 @@
-### id: 
-  leading-through-storms
-### title: 
-  Leading Through Storms
-### url: 
-  https://www.leadingthroughstorms.org/ 
-### Map territory: 
-  Metacrisis
-### Close to: 
-  
-### curator: 
-  Catherine
-### Notes/comments/questions: 
-  3. clear approach of inner work for outer change
-### logo image url: 
-  https://drive.google.com/file/d/1E63tXYlI4oa5jY2pc2Sjhkch6MmCCuS_/view?usp=drive_link
-### homepage image url: 
-  https://drive.google.com/file/d/1TzJFninIRmSwKS_QFDmdqa5KSX_Awv3R/view?usp=drive_link
-### description: 
-  "Leading Through Storms supports people to discover their best adaptive responses to the climate, ecological and related crises, building a more consciously interconnected society in community with others."
+---
+created:
+contributors: Catherine
+title: Leading Through Storms
+url: https://www.leadingthroughstorms.org/ 
+locations: UK; Online
+start: 2021
+end: present
+size: 1-3
+image: https://drive.google.com/file/d/1TzJFninIRmSwKS_QFDmdqa5KSX_Awv3R/view?usp=drive_link
+logo: https://drive.google.com/file/d/1E63tXYlI4oa5jY2pc2Sjhkch6MmCCuS_/view?usp=drive_link
+sectors:
+  main sector: Governance & Community
+  sector 2: Environment, Food & Water
+  sector 3: undefined
+activities: 
+  main activity: Events & Retreats
+  activity 2: undefined
+  activity 3: undefined
+cohere: true
+metadata_version: 1
+---
+
+
+##Body
+
+"Leading Through Storms supports people to discover their best adaptive responses to the climate, ecological and related crises, building a more consciously interconnected society in community with others."
 
 "Leading through these troubled, troubling times can feel more like a burden than a privilege. Stepping in, caring to act, engaging wholeheartedly, we can find ourselves overwhelmed, in conflict, exhausted.
 
@@ -34,39 +41,17 @@ Organisations are enabled to navigate complex, dilemma-ridden territory towards 
 Our work takes place in person, in nature and online. 
 Combining regular online gatherings and community programmes with immersive in-person retreats, we also work with organisations to tailor programmes suited to their unique circumstances."
 https://www.leadingthroughstorms.org/   
-### key concepts: 
-  
-### methods: 
-  Deep Adaptation; Three Horizons
-### locations: 
-  UK; Online
-### start: 
-  2021
-### end: 
-  present
-### main sector: 
-  Governance & Community
-### sector 2: 
-  Environment, Food & Water
-### sector 3 : 
-  
-### main activity: 
-  Events & Retreats
-### activity 2 : 
-  Education & Training
-### activity 3 : 
-  
-### size: 
-  1-3
-### learning resources: 
-  Recommended books and articles: https://www.leadingthroughstorms.org/resources 
-### connections: 
-  
-### key people: 
-  
-### theory of change: 
-  
-### : 
-  
-### status: 
-  ✅
+
+
+##key People
+undefined
+
+##Theory of change
+undefined
+
+##key learning resources
+Recommended books and articles: https://www.leadingthroughstorms.org/resources 
+
+##Connections
+undefined
+

@@ -1,23 +1,30 @@
-### id: 
-  fraendi
-### title: 
-  Fraendi
-### url: 
-  https://fraendi.org/
-### Map territory: 
-  Ownership & Governance
-### Close to: 
-  
-### curator: 
-  Catherine
-### Notes/comments/questions: 
-  They integrate adult development approaches, living systems approaches, and process consultation approaches to their work. Influenced by people like Otto Scharmer, Kegan, Nora Bateson, Dave Snowden, Bert Hellinger... 4.
-### logo image url: 
-  https://drive.google.com/file/d/1WoPLdADoyTIRZCqQ-ekjKYGHAvDAmWTK/view?usp=drive_link
-### homepage image url: 
-  https://drive.google.com/file/d/1Xrei0vNLhw53jY7i49mNTJ0QJwwfw5qX/view?usp=drive_link
-### description: 
-  "Frændi is a group of consulting professionals, thinkers, educators, doers, and optimists who are committed to the practice of unlocking potential—in people, teams, systems, and organizations.
+---
+created:
+contributors: Catherine
+title: Fraendi
+url: https://fraendi.org/
+locations: Vaduz, Liechtenstein
+start: 2019
+end: present
+size: 11-20
+image: https://drive.google.com/file/d/1Xrei0vNLhw53jY7i49mNTJ0QJwwfw5qX/view?usp=drive_link
+logo: https://drive.google.com/file/d/1WoPLdADoyTIRZCqQ-ekjKYGHAvDAmWTK/view?usp=drive_link
+sectors:
+  main sector: Economics & Business
+  sector 2: Governance & Community
+  sector 3: undefined
+activities: 
+  main activity: Consulting & Advisory
+  activity 2: undefined
+  activity 3: undefined
+cohere: true
+metadata_version: 1
+---
+
+
+##Body
+
+"Frændi is a group of consulting professionals, thinkers, educators, doers, and optimists who are committed to the practice of unlocking potential—in people, teams, systems, and organizations.
 
 Our goal is to instill confidence in individuals, leaders, governments, and organizations and together help create a roadmap to a prosperous, planet-sustaining future.
 
@@ -30,39 +37,17 @@ In working with people, we observe thinking patterns and capacities to relate to
 Through a combination of cognitive and worldview profiles, consulting, coaching and leadership development, Fraendi unlocks the potential to drive paradigm-shifting change."
 
 https://fraendi.org/
-### key concepts: 
-  adult development; paradigm shift; living systems
-### methods: 
-  
-### locations: 
-  Vaduz, Liechtenstein
-### start: 
-  2019
-### end: 
-  present
-### main sector: 
-  Economics & Business
-### sector 2: 
-  Governance & Community
-### sector 3 : 
-  
-### main activity: 
-  Consulting & Advisory
-### activity 2 : 
-  Education & Training
-### activity 3 : 
-  
-### size: 
-  11-20
-### learning resources: 
-  
-### connections: 
-  
-### key people: 
-  
-### theory of change: 
-  
-### : 
-  
-### status: 
-  ✅
+
+
+##key People
+undefined
+
+##Theory of change
+undefined
+
+##key learning resources
+undefined
+
+##Connections
+undefined
+

@@ -1,23 +1,30 @@
-### id: 
-  liminal-learning
-### title: 
-  Liminal Learning
-### url: 
-  https://liminal-learning.com/
-### Map territory: 
-  Inner Development
-### Close to: 
-  
-### curator: 
-  Catherine
-### Notes/comments/questions: 
-  3. DDP
-### logo image url: 
-  https://drive.google.com/file/d/1ZeHwMVM0NGwwpU6UN7X8B5zG8nlG-JxP/view?usp=drive_link
-### homepage image url: 
-  https://drive.google.com/file/d/1ix2T4dE-7B99Eh0ezpueRppUHyqK9V_u/view?usp=drive_link
-### description: 
-  "A way to find your way
+---
+created:
+contributors: Catherine
+title: Liminal Learning
+url: https://liminal-learning.com/
+locations: UK; USA; Canada; Germany; 
+start: not found
+end: present
+size: 4-10
+image: https://drive.google.com/file/d/1ix2T4dE-7B99Eh0ezpueRppUHyqK9V_u/view?usp=drive_link
+logo: https://drive.google.com/file/d/1ZeHwMVM0NGwwpU6UN7X8B5zG8nlG-JxP/view?usp=drive_link
+sectors:
+  main sector: Education & Learning
+  sector 2: 
+  sector 3: undefined
+activities: 
+  main activity: Education & Training
+  activity 2: undefined
+  activity 3: undefined
+cohere: true
+metadata_version: 1
+---
+
+
+##Body
+
+"A way to find your way
 
 A communal launch into purposeful adulthood
 
@@ -35,39 +42,17 @@ As educators, our highest role is as liberators: seeing, revealing, and inspirin
 
 As a community, our commitment is to the pursuit and practice of meaning and wisdom. We hold these pursuits to be collective; fundamentally relational, social. In various ways, we’ve experienced living within systems that foster alienation, isolation, and the amputation of parts of life and self. We see a different way."
 https://liminal-learning.com/ 
-### key concepts: 
-  
-### methods: 
-  
-### locations: 
-  UK; USA; Canada; Germany; 
-### start: 
-  not found
-### end: 
-  present
-### main sector: 
-  Education & Learning
-### sector 2: 
-  
-### sector 3 : 
-  
-### main activity: 
-  Education & Training
-### activity 2 : 
-  
-### activity 3 : 
-  
-### size: 
-  4-10
-### learning resources: 
-  
-### connections: 
-  
-### key people: 
-  
-### theory of change: 
-  
-### : 
-  
-### status: 
-  ✅
+
+
+##key People
+undefined
+
+##Theory of change
+undefined
+
+##key learning resources
+undefined
+
+##Connections
+undefined
+

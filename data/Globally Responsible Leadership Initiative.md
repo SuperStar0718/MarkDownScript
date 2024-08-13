@@ -1,54 +1,46 @@
-### id: 
-  globally-responsible-leadership-initiative
-### title: 
-  Globally Responsible Leadership Initiative
-### url: 
-  https://grli.org/
-### Map territory: 
-  Alternative Education
-### Close to: 
-  
-### curator: 
-  Ola
-### Notes/comments/questions: 
-  it seem to be focused on global responsibility, learning and experimentations.
-### logo image url: 
-  https://drive.google.com/file/d/1gUEebEy9tpBpRQvTd5EorttvvkA7P5fU/view?usp=drive_link
-### homepage image url: 
-  https://drive.google.com/file/d/1F2j7Pw3lREqBJZI_TkW8r4etwCho39D_/view?usp=drive_link
-### description: 
-  The Globally Responsible Leadership Initiative is a deeply engaged international, multi-sector community focused on catalysing the development of globally responsible leadership and practice.
+---
+created:
+contributors: Ola
+title: Globally Responsible Leadership Initiative
+url: https://grli.org/
+locations: Brussels, Belgium
+start: 2002
+end: present
+size: 21-50
+image: https://drive.google.com/file/d/1F2j7Pw3lREqBJZI_TkW8r4etwCho39D_/view?usp=drive_link
+logo: https://drive.google.com/file/d/1gUEebEy9tpBpRQvTd5EorttvvkA7P5fU/view?usp=drive_link
+sectors:
+  main sector: Governance & Community
+  sector 2: 
+  sector 3: undefined
+activities: 
+  main activity: 
+  activity 2: undefined
+  activity 3: undefined
+cohere: true
+metadata_version: 1
+---
 
 
-### key concepts: 
-  
-### methods: 
-  individual development, organisational change and positive social impact
-### locations: 
-  Brussels, Belgium
-### start: 
-  2002
-### end: 
-  present
-### main sector: 
-  Governance & Community
-### sector 2: 
-  
-### sector 3 : 
-  
-### main activity: 
-  
-### activity 2 : 
-  
-### activity 3 : 
-  
-### size: 
-  21-50
-### learning resources: 
-  https://grli.org/impact/resources/
+##Body
+
+The Globally Responsible Leadership Initiative is a deeply engaged international, multi-sector community focused on catalysing the development of globally responsible leadership and practice.
+
+
+
+
+##key People
+Peter Møllgaard (Chair)
+
+##Theory of change
+visible advocacy, thought-and-action leadership, and hands-on prototyping and experimentation
+
+##key learning resources
+https://grli.org/impact/resources/
 https://blog.grli.org/
-### connections: 
-  
+
+##Connections
+
 AACSB International
 EFMD
 oikos international
@@ -67,11 +59,4 @@ LeaderShape Global
 LUISS Business School
 Sasin School of Management
 Turku School of Economics – University of Turku
-### key people: 
-  Peter Møllgaard (Chair)
-### theory of change: 
-  visible advocacy, thought-and-action leadership, and hands-on prototyping and experimentation
-### : 
-  
-### status: 
-  ✅
+

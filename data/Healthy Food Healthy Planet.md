@@ -1,23 +1,30 @@
-### id: 
-  healthy-food-healthy-planet
-### title: 
-  Healthy Food Healthy Planet
-### url: 
-  https://www.healthyfoodhealthyplanet.eu/
-### Map territory: 
-  
-### Close to: 
-  
-### curator: 
-  Catherine
-### Notes/comments/questions: 
-  8. more outer systems change
-### logo image url: 
-  https://drive.google.com/file/d/1WyCc6uduqYGyN0Ll5_8WGfhEKtlAte56/view?usp=drive_link
-### homepage image url: 
-  https://drive.google.com/file/d/1pMnklHBi3IjfbxJSFK9CNKagui_DvSnN/view?usp=drive_link
-### description: 
-  "A Pan-European movement uniting civil society and funders in the transition to healthy, just & sustainable food environments. [...]
+---
+created:
+contributors: Catherine
+title: Healthy Food Healthy Planet
+url: https://www.healthyfoodhealthyplanet.eu/
+locations: UK; France; Germany; Netherlands
+start: 2021
+end: present
+size: 1-3
+image: https://drive.google.com/file/d/1pMnklHBi3IjfbxJSFK9CNKagui_DvSnN/view?usp=drive_link
+logo: https://drive.google.com/file/d/1WyCc6uduqYGyN0Ll5_8WGfhEKtlAte56/view?usp=drive_link
+sectors:
+  main sector: Environment, Food & Water
+  sector 2: 
+  sector 3: undefined
+activities: 
+  main activity: Advocacy & Activism
+  activity 2: undefined
+  activity 3: undefined
+cohere: true
+metadata_version: 1
+---
+
+
+##Body
+
+"A Pan-European movement uniting civil society and funders in the transition to healthy, just & sustainable food environments. [...]
 
 We bring together stakeholders from different sectors (health, food, climate change, biodiversity, animal welfare, labour rights and just transitions) with a shared belief that the current food system is unsustainable, unhealthy, and unjust.
 
@@ -29,39 +36,17 @@ Overall our first and foremost priority  is to decrease the consumption of harmf
 
 HFHP aims to be a movement of movements by lifting up and building bridges between campaigns and networks within and between European countries, connecting and catalysing civil society to break down silos, and driving systemic change."
 https://www.healthyfoodhealthyplanet.eu/about/who-we-are 
-### key concepts: 
-  
-### methods: 
-  
-### locations: 
-  UK; France; Germany; Netherlands
-### start: 
-  2021
-### end: 
-  present
-### main sector: 
-  Environment, Food & Water
-### sector 2: 
-  
-### sector 3 : 
-  
-### main activity: 
-  Advocacy & Activism
-### activity 2 : 
-  Education & Training
-### activity 3 : 
-  Funding
-### size: 
-  1-3
-### learning resources: 
-  
-### connections: 
-  
-### key people: 
-  
-### theory of change: 
-  
-### : 
-  
-### status: 
-  ✅
+
+
+##key People
+undefined
+
+##Theory of change
+undefined
+
+##key learning resources
+undefined
+
+##Connections
+undefined
+

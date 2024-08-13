@@ -1,23 +1,30 @@
-### id: 
-  art-monastery-project
-### title: 
-  Art Monastery Project
-### url: 
-  https://www.artmonastery.org/
-### Map territory: 
-  Spiritual & Contemplative Traditions
-### Close to: 
-  Sacred & Ritual
-### curator: 
-  Catherine
-### Notes/comments/questions: 
-  integrating art, earth and spirituality is their thing. 
-### logo image url: 
-  https://drive.google.com/file/d/1vzqoW2ffd2GU-sScdvF_jDW6pbPl6TN2/view?usp=drive_link
-### homepage image url: 
-  https://drive.google.com/file/d/1AmFjDfdjtwMgJBlcOOqmRon0iiCLtjio/view?usp=drive_link
-### description: 
-  "The Art Monastery is dedicated to cultivating personal awakening and cultural transformation through artmaking, spiritual practice, and reciprocity with the earth.
+---
+created:
+contributors: Catherine
+title: Art Monastery Project
+url: https://www.artmonastery.org/
+locations: San Francisco, USA
+start: 2007
+end: present
+size: 4-10
+image: https://drive.google.com/file/d/1AmFjDfdjtwMgJBlcOOqmRon0iiCLtjio/view?usp=drive_link
+logo: https://drive.google.com/file/d/1vzqoW2ffd2GU-sScdvF_jDW6pbPl6TN2/view?usp=drive_link
+sectors:
+  main sector: Arts & Culture
+  sector 2: Spirituality & Religion
+  sector 3: undefined
+activities: 
+  main activity: Events & Retreats
+  activity 2: undefined
+  activity 3: undefined
+cohere: true
+metadata_version: 1
+---
+
+
+##Body
+
+"The Art Monastery is dedicated to cultivating personal awakening and cultural transformation through artmaking, spiritual practice, and reciprocity with the earth.
 
 WHO
 We are artists who meditate and meditators who make art. We aim to live close to the Earth in order to unlearn the oppressive systems of the overculture and cultivate a viable alternative for future generations. 
@@ -30,50 +37,19 @@ The Art Monastery is a radical experiment that bridges creative and contemplativ
 https://www.artmonastery.org/about 
 
 
-### key concepts: 
-  personal awakening; cultural transformation; spiritual practice; creative practice; contemplative practice
-### methods: 
-  Buddhism; concept of reciprocity with the Earth inspired by Robin Wall Kimmerer
-### locations: 
-  San Francisco, USA
-### start: 
-  2007
-### end: 
-  present
-### main sector: 
-  Arts & Culture
-### sector 2: 
-  Spirituality & Religion
-### sector 3 : 
-  
-### main activity: 
-  Events & Retreats
-### activity 2 : 
-  
-### activity 3 : 
-  
-### size: 
-  4-10
-### learning resources: 
-  - Innertopia: Self-empowerment Workbook (available in English, Croatian, Dutch, French, German, Hungarian, Italian, Portuguese, Spanish, Swedish and Ukrainian): https://www.artmonastery.org/innertopia-workbook 
+
+
+##key People
+undefined
+
+##Theory of change
+undefined
+
+##key learning resources
+- Innertopia: Self-empowerment Workbook (available in English, Croatian, Dutch, French, German, Hungarian, Italian, Portuguese, Spanish, Swedish and Ukrainian): https://www.artmonastery.org/innertopia-workbook 
 - Live Your Dream: A Workbook to Change your Life: https://www.artmonastery.org/live-your-dream-workbook 
 - Empowerment: A Guide for Facilitators: https://www.artmonastery.org/hosting-empowerment-the-book 
-### connections: 
-  
-### key people: 
-  
-### theory of change: 
-  
-### : 
-  "We are dedicated to the liberation of all beings.
 
-We see today’s art as the seeds of tomorrow’s culture, to build a world where 
+##Connections
+undefined
 
-- art guides our species back into balanced relationship our more-than-human family, 
-- there is truly equality and justice for all beings, 
-- we rebalance masculine and feminine energies, 
-- we heal the wounds of ancestral trauma to overcome greed, aggression and confusion, and 
-- we align with the natural cycles of the Earth."
-https://www.artmonastery.org/about 
-### status: 
-  ✅

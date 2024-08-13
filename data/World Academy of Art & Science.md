@@ -1,58 +1,49 @@
-### id: 
-  world-academy-of-art-&-science
-### title: 
-  World Academy of Art & Science
-### url: 
-  https://worldacademy.org/
-### Map territory: 
-  Integral
-### Close to: 
-  
-### curator: 
-  Ola; Catherine
-### Notes/comments/questions: 
-  Ola: Feels like an org with a lot of information to share. Eminent intellectuals pioneering its founding and seem to still be ongoing after many years.
-Catherine: on the surface seem quite mainstream, but have some interesting work under their "societal transformation" program where they talk about need for new paradigm and holistic worldviews. And they're also quite into consciousness and evolution as you dig further in and refer a lot to "integrated" approaches. 4.
-### logo image url: 
-  https://drive.google.com/file/d/139JCO7aIOncU_Ddr22-KY0V_aoO2trDT/view?usp=drive_link
-### homepage image url: 
-  https://drive.google.com/file/d/1gGSZqiWaZzLSl2bMYMokE9w2HpKw3OC5/view?usp=drive_link
-### description: 
-  "The World Academy of Art & Science (WAAS) was founded in 1960 by eminent intellectuals including Albert Einstein; Robert Oppenheimer, Father of Manhattan Project; Bertrand Russell, Joseph Needham, co-Founder of UNESCO; Lord Boyd Orr, first Director General of FAO; Brock Chisholm, first Director General of WHO and many others. The Academy serves as a forum for reflective scientists, artists, and scholars dedicated to addressing the pressing challenges confronting humanity today independent of political boundaries or limits, whether spiritual or physical — a forum where these problems can be discussed objectively, scientifically, globally, and free from vested interests or regional attachments to arrive at solutions that affirm universal human rights and serve the common good of all humanity. WAAS is founded on faith in the power of original and creative ideas — Real Ideas with effective power — to change the world.
+---
+created:
+contributors: Ola; Catherine
+title: World Academy of Art & Science
+url: https://worldacademy.org/
+locations: California, USA; Bucharest, Romania; Zagreb, Croatia; Podgorica, Montenegro; India; Italy; Belgrade, Serbia
+start: 1960
+end: present
+size: 4-10
+image: https://drive.google.com/file/d/1gGSZqiWaZzLSl2bMYMokE9w2HpKw3OC5/view?usp=drive_link
+logo: https://drive.google.com/file/d/139JCO7aIOncU_Ddr22-KY0V_aoO2trDT/view?usp=drive_link
+sectors:
+  main sector: Education & Learning
+  sector 2: Science & Technology
+  sector 3: undefined
+activities: 
+  main activity: Research
+  activity 2: undefined
+  activity 3: undefined
+cohere: true
+metadata_version: 1
+---
+
+
+##Body
+
+"The World Academy of Art & Science (WAAS) was founded in 1960 by eminent intellectuals including Albert Einstein; Robert Oppenheimer, Father of Manhattan Project; Bertrand Russell, Joseph Needham, co-Founder of UNESCO; Lord Boyd Orr, first Director General of FAO; Brock Chisholm, first Director General of WHO and many others. The Academy serves as a forum for reflective scientists, artists, and scholars dedicated to addressing the pressing challenges confronting humanity today independent of political boundaries or limits, whether spiritual or physical — a forum where these problems can be discussed objectively, scientifically, globally, and free from vested interests or regional attachments to arrive at solutions that affirm universal human rights and serve the common good of all humanity. WAAS is founded on faith in the power of original and creative ideas — Real Ideas with effective power — to change the world.
 
 ​Our motto​: ​​​Leadership in thought that leads to action
 
 WAAS Fellows come from diverse cultures, nationalities, intellectual disciplines and professions, chosen for eminence in the natural, technological and social sciences; the arts and humanities; different professions and fields of public service. The focus of WAAS from the beginning has been to address global social challenges. Its founding motive comes from the knowledge that academic knowledge cannot be separated or divorced from the social responsibility of how the knowledge is used."
 
 https://worldacademy.org/about-us/
-### key concepts: 
-  systems thinking; conscious social evolution; new paradigm
-### methods: 
-  
-### locations: 
-  California, USA; Bucharest, Romania; Zagreb, Croatia; Podgorica, Montenegro; India; Italy; Belgrade, Serbia
-### start: 
-  1960
-### end: 
-  present
-### main sector: 
-  Education & Learning
-### sector 2: 
-  Science & Technology
-### sector 3 : 
-  Relations & Peace
-### main activity: 
-  Research
-### activity 2 : 
-  Convening & Coordination
-### activity 3 : 
-  Events & Retreats
-### size: 
-  4-10
-### learning resources: 
-  - 11 Essays on Societal Transformation: The Most Important Challenge Facing Humanity by WAAS Working Group (2021): https://cadmusjournal.org/article/volume-4/issue-5/societal-transformation 
-### connections: 
-  1. ECOSOC
+
+
+##key People
+Albert Einstein; Robert Oppenheimer, Father of Manhattan Project; Bertrand Russell, Joseph Needham, co-Founder of UNESCO; Lord Boyd Orr, first Director General of FAO; Brock Chisholm, first Director General of WHO and many others
+
+##Theory of change
+See their 2021 Retrospective and Reflections: https://drive.google.com/file/d/19g3nudJh9FqTBIyIsghepqjSxfmAxoiz/view?usp=drive_link
+
+##key learning resources
+- 11 Essays on Societal Transformation: The Most Important Challenge Facing Humanity by WAAS Working Group (2021): https://cadmusjournal.org/article/volume-4/issue-5/societal-transformation 
+
+##Connections
+1. ECOSOC
 2. UNESCO
 3. World University Consortium
 4. CERN
@@ -68,11 +59,4 @@ https://worldacademy.org/about-us/
 14. The Millennium Project
 15. United Nations Academic Impact
 
-### key people: 
-  Albert Einstein; Robert Oppenheimer, Father of Manhattan Project; Bertrand Russell, Joseph Needham, co-Founder of UNESCO; Lord Boyd Orr, first Director General of FAO; Brock Chisholm, first Director General of WHO and many others
-### theory of change: 
-  See their 2021 Retrospective and Reflections: https://drive.google.com/file/d/19g3nudJh9FqTBIyIsghepqjSxfmAxoiz/view?usp=drive_link
-### : 
-  
-### status: 
-  ✅
+

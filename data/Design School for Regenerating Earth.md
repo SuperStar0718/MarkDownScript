@@ -1,23 +1,30 @@
-### id: 
-  design-school-for-regenerating-earth
-### title: 
-  Design School for Regenerating Earth
-### url: 
-  https://design-school-for-regenerating-earth.mn.co/
-### Map territory: 
-  Regenerative Alternatives
-### Close to: 
-  
-### curator: 
-  Danielle
-### Notes/comments/questions: 
-  there was no information on team size.  The networks has 383 paid joiners.  Also, no location was listed.  They are working on a project in Toronto
-### logo image url: 
-  https://drive.google.com/file/d/1kPHAQ_Pjp44TJjfR8RacmVX_wGOcURvT/view?usp=sharing
-### homepage image url: 
-  https://drive.google.com/file/d/1ktcnpP2WoAnFLUFaK8mmhjblf_49NWDr/view?usp=sharing
-### description: 
-  A Mighty Network community.
+---
+created:
+contributors: Danielle
+title: Design School for Regenerating Earth
+url: https://design-school-for-regenerating-earth.mn.co/
+locations: Online
+start: 2021
+end: present 
+size: 
+image: https://drive.google.com/file/d/1ktcnpP2WoAnFLUFaK8mmhjblf_49NWDr/view?usp=sharing
+logo: https://drive.google.com/file/d/1kPHAQ_Pjp44TJjfR8RacmVX_wGOcURvT/view?usp=sharing
+sectors:
+  main sector: Environment, Food & Water
+  sector 2: Education & Learning
+  sector 3: undefined
+activities: 
+  main activity: Education & Training
+  activity 2: undefined
+  activity 3: undefined
+cohere: true
+metadata_version: 1
+---
+
+
+##Body
+
+A Mighty Network community.
 
 "People all over the world are gathering to regenerate the Earth at the bioregional scale and organize into a planetary network of learning exchanges between landscapes. All of this is being done in service to the regeneration of the entire Planet.
 
@@ -29,39 +36,17 @@ The challenges humanity and the Earth are facing now are extremely complex and u
 
 https://design-school-for-regenerating-earth.mn.co/ 
 
-### key concepts: 
-  regeneration; bioregions; conscious/intentional evolution
-### methods: 
-  
-### locations: 
-  Online
-### start: 
-  2021
-### end: 
-  present 
-### main sector: 
-  Environment, Food & Water
-### sector 2: 
-  Education & Learning
-### sector 3 : 
-  
-### main activity: 
-  Education & Training
-### activity 2 : 
-  Convening & Coordination
-### activity 3 : 
-  
-### size: 
-  
-### learning resources: 
-  
-### connections: 
-  
-### key people: 
-  Joe Brewer
-### theory of change: 
-  
-### : 
-  
-### status: 
-  ✅
+
+
+##key People
+Joe Brewer
+
+##Theory of change
+undefined
+
+##key learning resources
+
+
+##Connections
+
+

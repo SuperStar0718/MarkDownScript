@@ -6,12 +6,47 @@ const { google } = require("googleapis");
 const results = [];
 
 const writeProfile = (data) => {
-  let content = "";
+  let content = `---
+created:
+contributors: ${data['curator']}
+title: ${data["title"]}
+url: ${data["url"]}
+locations: ${data["locations"]}
+start: ${data["start"]}
+end: ${data["end"]}
+size: ${data["size"]}
+image: ${data["homepage image url"]}
+logo: ${data["logo image url"]}
+sectors:
+  main sector: ${data["main sector"]}
+  sector 2: ${data["sector 2"]}
+  sector 3: ${data["sector 3"]}
+activities: 
+  main activity: ${data["main activity"]}
+  activity 2: ${data["activity 2"]}
+  activity 3: ${data["activity 3"]}
+cohere: true
+metadata_version: 1
+---
+\n
+##Body\n
+${data["description"]}\n
 
-  Object.keys(data).map((key, index) => {
-    content += `### ${key}: 
-  ${data[key]}\n`;
-  });
+##key People
+${data["key people"]}\n
+##Theory of change
+${data["theory of change"]}\n
+##key learning resources
+${data["learning resources"]}\n
+##Connections
+${data["connections"]}\n
+`;
+
+
+  // Object.keys(data).map((key, index) => {
+  //   content += `### ${key}: 
+  // ${data[key]}\n`;
+  // });
 
   // Object.keys(data).forEach(key => {
   //   console.log(key)

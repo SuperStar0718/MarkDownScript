@@ -1,23 +1,30 @@
-### id: 
-  mind-foundation
-### title: 
-  MIND Foundation
-### url: 
-  https://mind-foundation.org/
-### Map territory: 
-  Psychedelics
-### Close to: 
-  
-### curator: 
-  Catherine
-### Notes/comments/questions: 
-  focused on psychedelic research
-### logo image url: 
-  https://drive.google.com/file/d/1bkKHd7uS2BH1gItvMBFneRJs8j83sWCf/view?usp=drive_link
-### homepage image url: 
-  https://drive.google.com/file/d/1ormIVA9AwZO-QcAMd_mOwj1Sme9PPyXV/view?usp=drive_link
-### description: 
-  "The MIND Foundation envisions a healthier, more connected world through evidence-based, safe, and legal applications of the psychedelic experience.
+---
+created:
+contributors: Catherine
+title: MIND Foundation
+url: https://mind-foundation.org/
+locations: Berlin, Germany
+start: 2016
+end: present
+size: 4-10
+image: https://drive.google.com/file/d/1ormIVA9AwZO-QcAMd_mOwj1Sme9PPyXV/view?usp=drive_link
+logo: https://drive.google.com/file/d/1bkKHd7uS2BH1gItvMBFneRJs8j83sWCf/view?usp=drive_link
+sectors:
+  main sector: Health & Wellbeing
+  sector 2: Spirituality & Religion
+  sector 3: undefined
+activities: 
+  main activity: Research
+  activity 2: undefined
+  activity 3: undefined
+cohere: true
+metadata_version: 1
+---
+
+
+##Body
+
+"The MIND Foundation envisions a healthier, more connected world through evidence-based, safe, and legal applications of the psychedelic experience.
 
 - We support and conduct high-quality psychedelic research.
 - We translate science into everyday language to support people in living healthy and meaningful lives.
@@ -34,39 +41,17 @@ In order to place psychedelics in the center of society, we strongly believed th
 Now, our goal is to cultivate human flourishing by connecting psychological well-being with sociocultural progress."
 
 https://www.mind-foundation.org/about/who-we-are 
-### key concepts: 
-  
-### methods: 
-  
-### locations: 
-  Berlin, Germany
-### start: 
-  2016
-### end: 
-  present
-### main sector: 
-  Health & Wellbeing
-### sector 2: 
-  Spirituality & Religion
-### sector 3 : 
-  
-### main activity: 
-  Research
-### activity 2 : 
-  Education & Training
-### activity 3 : 
-  Government & Policymaking
-### size: 
-  4-10
-### learning resources: 
-  
-### connections: 
-  
-### key people: 
-  
-### theory of change: 
-  
-### : 
-  
-### status: 
-  ✅
+
+
+##key People
+undefined
+
+##Theory of change
+undefined
+
+##key learning resources
+undefined
+
+##Connections
+undefined
+

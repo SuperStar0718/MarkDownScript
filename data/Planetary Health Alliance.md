@@ -1,23 +1,30 @@
-### id: 
-  planetary-health-alliance
-### title: 
-  Planetary Health Alliance
-### url: 
-  https://www.planetaryhealthalliance.org/ 
-### Map territory: 
-  Metacrisis
-### Close to: 
-  
-### curator: 
-  Cesar; Catherine
-### Notes/comments/questions: 
-  At first seemed more Regenerative Alternatives, but Constellation Project has a clear metacrisis flavour - individual and community awakening; planetary consciousness; spiritual and emotional dimension etc. https://www.planetaryhealthalliance.org/the-constellation-project 
-### logo image url: 
-  https://drive.google.com/file/d/1DN-2SpmJyDwKZteYsSVsWj-muqJJo34M/view?usp=drive_link
-### homepage image url: 
-  https://drive.google.com/file/d/1QZLhunBiKr8MsnBWqK_oXX_-QsNXKFL9/view?usp=drive_link
-### description: 
-  "The Planetary Health Alliance is a growing consortium of over 420 universities, non-governmental organizations, research institutes, and government entities from 70+ countries around the world committed to understanding and addressing the impacts of global environmental change on human health and wellbeing. 
+---
+created:
+contributors: Cesar; Catherine
+title: Planetary Health Alliance
+url: https://www.planetaryhealthalliance.org/ 
+locations: Washington, USA; International
+start: 2015
+end: present
+size: 11-20
+image: https://drive.google.com/file/d/1QZLhunBiKr8MsnBWqK_oXX_-QsNXKFL9/view?usp=drive_link
+logo: https://drive.google.com/file/d/1DN-2SpmJyDwKZteYsSVsWj-muqJJo34M/view?usp=drive_link
+sectors:
+  main sector: Environment, Food & Water
+  sector 2: Health & Wellbeing
+  sector 3: undefined
+activities: 
+  main activity: Research
+  activity 2: undefined
+  activity 3: undefined
+cohere: true
+metadata_version: 1
+---
+
+
+##Body
+
+"The Planetary Health Alliance is a growing consortium of over 420 universities, non-governmental organizations, research institutes, and government entities from 70+ countries around the world committed to understanding and addressing the impacts of global environmental change on human health and wellbeing. 
 
 Our Vision: A world where all people thrive by protecting and regenerating Earth’s natural systems for generations to come.
 
@@ -31,39 +38,17 @@ To accomplish our mission, we:
 - Promote actionable steps that individuals and society can take to advocate for and achieve progress toward Planetary Health."
 https://www.planetaryhealthalliance.org/about-the-pha 
 
-### key concepts: 
-  
-### methods: 
-  Planetary Health
-### locations: 
-  Washington, USA; International
-### start: 
-  2015
-### end: 
-  present
-### main sector: 
-  Environment, Food & Water
-### sector 2: 
-  Health & Wellbeing
-### sector 3 : 
-  
-### main activity: 
-  Research
-### activity 2 : 
-  Education & Training
-### activity 3 : 
-  Advocacy & Activism
-### size: 
-  11-20
-### learning resources: 
-  Research Bibliography, categorised by key topics: https://planetaryhealthalliance.org/bibliography 
-### connections: 
-  
-### key people: 
-  
-### theory of change: 
-  See their introduction to the concept and field of Planetary Health: https://www.planetaryhealthalliance.org/planetary-health 
-### : 
-  
-### status: 
-  ✅
+
+
+##key People
+
+
+##Theory of change
+See their introduction to the concept and field of Planetary Health: https://www.planetaryhealthalliance.org/planetary-health 
+
+##key learning resources
+Research Bibliography, categorised by key topics: https://planetaryhealthalliance.org/bibliography 
+
+##Connections
+
+

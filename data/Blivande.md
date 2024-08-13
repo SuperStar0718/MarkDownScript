@@ -1,23 +1,30 @@
-### id: 
-  blivande
-### title: 
-  Blivande
-### url: 
-  https://www.blivande.com/
-### Map territory: 
-  
-### Close to: 
-  
-### curator: 
-  Danielle
-### Notes/comments/questions: 
-  co-working/creation collective-would this be considered and intentional community on map?
-### logo image url: 
-  https://drive.google.com/file/d/1FGHuPY8kMGWNDY3NaWuZO7BSFwCEKMgq/view?usp=drive_link
-### homepage image url: 
-  https://drive.google.com/file/d/1Xe19siuCrT19CIlnOkcooP5AfpYHBbba/view?usp=drive_link
-### description: 
-  “Blivande as a platform is co-designed and stewarded by its members. We develop into the direction those involved put energy in. Participatory culture, events, art and design, urban placemaking and civic action-based initiatives are paths that have crystallised so far. Our intention is to remain open to future unknowns and establish a place in Stockholm that supports nascent ideas by sharing risks and providing the budding crews with an ecosystem of kind and talented professionals to realise their dreams. We want to create a playground for ideas and dialogue countering polarisation and invite national and international actors to establish collaborative relationships devoid of a competition mindset.
+---
+created:
+contributors: Danielle
+title: Blivande
+url: https://www.blivande.com/
+locations: Stockholm, Sweden
+start: 2018
+end: present
+size: 4-10
+image: https://drive.google.com/file/d/1Xe19siuCrT19CIlnOkcooP5AfpYHBbba/view?usp=drive_link
+logo: https://drive.google.com/file/d/1FGHuPY8kMGWNDY3NaWuZO7BSFwCEKMgq/view?usp=drive_link
+sectors:
+  main sector: Governance & Community
+  sector 2: Arts & Culture
+  sector 3: undefined
+activities: 
+  main activity: Community Spaces
+  activity 2: undefined
+  activity 3: undefined
+cohere: true
+metadata_version: 1
+---
+
+
+##Body
+
+“Blivande as a platform is co-designed and stewarded by its members. We develop into the direction those involved put energy in. Participatory culture, events, art and design, urban placemaking and civic action-based initiatives are paths that have crystallised so far. Our intention is to remain open to future unknowns and establish a place in Stockholm that supports nascent ideas by sharing risks and providing the budding crews with an ecosystem of kind and talented professionals to realise their dreams. We want to create a playground for ideas and dialogue countering polarisation and invite national and international actors to establish collaborative relationships devoid of a competition mindset.
 
 Our space is an independent contributor to culture, policy innovation and urban development in Stockholm. We concentrate the effort towards our immediate surroundings, working from the inside-out while staying updated through national and international partners and networks and connected with contemporary social challenges. Through enabling rapid use of our physical spaces, we have so far supported two large civic actions focused on leveraging effects of the Covid-19 pandemic and providing a community centre for Ukrainian refugees.  Blivande wants to give more and proof that a creative cluster can be a responsible and self-sustaining civil society institution. Our community network has a multitude of different resources and types of capital that can be leveraged towards current societal needs. We are creating an environment that inspires to action.
 
@@ -31,39 +38,17 @@ It is our outermost priority to stay an institution with heart and minimal burea
 
 https://www.blivande.com/vision/vision
 
-### key concepts: 
-  
-### methods: 
-  
-### locations: 
-  Stockholm, Sweden
-### start: 
-  2018
-### end: 
-  present
-### main sector: 
-  Arts & Culture
-### sector 2: 
-  
-### sector 3 : 
-  
-### main activity: 
-  Community Spaces
-### activity 2 : 
-  
-### activity 3 : 
-  
-### size: 
-  4-10
-### learning resources: 
-  
-### connections: 
-  
-### key people: 
-  
-### theory of change: 
-  
-### : 
-  
-### status: 
-  ✅
+
+
+##key People
+undefined
+
+##Theory of change
+undefined
+
+##key learning resources
+undefined
+
+##Connections
+undefined
+

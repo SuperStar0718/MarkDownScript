@@ -1,23 +1,30 @@
-### id: 
-  collective-transitions
-### title: 
-  Collective Transitions
-### url: 
-  https://www.collectivetransitions.com/
-### Map territory: 
-  Integral
-### Close to: 
-  
-### curator: 
-  Catherine
-### Notes/comments/questions: 
-  systemic constellations for societal change. host trainings in person in Europe and US. Found via author of a JASC article
-### logo image url: 
-  https://drive.google.com/file/d/1k8t_VYvB1VDVcFUbHZ6GgBOqAClokvr7/view?usp=drive_link
-### homepage image url: 
-  https://drive.google.com/file/d/1YVz24h1tT9E3k7isT8lcSheo1whERG8b/view?usp=drive_link
-### description: 
-  "In order to create meaningful impact, businesses, organisations and groups of all sizes must be able to navigate historically unprecedented levels of complexity and uncertainty. Collective Transitions offers a grounded set of transformational approaches and practices for groups and facilitators to better navigate these shifts. We are an action-learning and research hub working with a wide range of clients, especially social change and multi-stakeholder initiatives."
+---
+created:
+contributors: Catherine
+title: Collective Transitions
+url: https://www.collectivetransitions.com/
+locations: Portland, Oregon, USA
+start: 2019
+end: present
+size: 1-3
+image: https://drive.google.com/file/d/1YVz24h1tT9E3k7isT8lcSheo1whERG8b/view?usp=drive_link
+logo: https://drive.google.com/file/d/1k8t_VYvB1VDVcFUbHZ6GgBOqAClokvr7/view?usp=drive_link
+sectors:
+  main sector: Education & Learning
+  sector 2: Relations & Peace
+  sector 3: undefined
+activities: 
+  main activity: Education & Training
+  activity 2: undefined
+  activity 3: undefined
+cohere: true
+metadata_version: 1
+---
+
+
+##Body
+
+"In order to create meaningful impact, businesses, organisations and groups of all sizes must be able to navigate historically unprecedented levels of complexity and uncertainty. Collective Transitions offers a grounded set of transformational approaches and practices for groups and facilitators to better navigate these shifts. We are an action-learning and research hub working with a wide range of clients, especially social change and multi-stakeholder initiatives."
 https://www.collectivetransitions.com/
 
 "Vision
@@ -28,39 +35,17 @@ By expanding our perception, senses, and presence, we can become more adept at n
 Mission
 Our mission is to activate the dormant capacities that are required for navigating complexity. We provide awareness-based tools that amplify collective knowledge,  and practice spaces where people can deepen and align their ways of working together."
 https://www.collectivetransitions.com/what-is-ct 
-### key concepts: 
-  
-### methods: 
-  Systemic Constellations; Art of Hosting; Systems Thinking; Collective Presencing; Biodynamic Craniosacral Work; Conflict Transformation; Integral Theory; Spiral Dynamics; Cynefin; Theory U; Authentic Relating; Dragon Dreaming
-### locations: 
-  Portland, Oregon, USA
-### start: 
-  2019
-### end: 
-  present
-### main sector: 
-  Education & Learning
-### sector 2: 
-  Relations & Peace
-### sector 3 : 
-  Governance & Community
-### main activity: 
-  Education & Training
-### activity 2 : 
-  Consulting & Advisory
-### activity 3 : 
-  
-### size: 
-  1-3
-### learning resources: 
-  Articles on Systems Sensing: https://www.collectivetransitions.com/publications
-### connections: 
-  
-### key people: 
-  
-### theory of change: 
-  
-### : 
-  
-### status: 
-  ✅
+
+
+##key People
+undefined
+
+##Theory of change
+undefined
+
+##key learning resources
+Articles on Systems Sensing: https://www.collectivetransitions.com/publications
+
+##Connections
+undefined
+

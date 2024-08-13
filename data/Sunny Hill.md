@@ -1,23 +1,30 @@
-### id: 
-  sunny-hill
-### title: 
-  Sunny Hill
-### url: 
-  https://soncnigrici-istra.eu/
-### Map territory: 
-  Regenerative Alternatives
-### Close to: 
-  
-### curator: 
-  Danielle
-### Notes/comments/questions: 
-  
-### logo image url: 
-  https://drive.google.com/file/d/1sxnTVntjZ9qZNA7Z9WELvFg0CPKAISXm/view?usp=drive_link
-### homepage image url: 
-  https://drive.google.com/file/d/1RXOCJf-YTSbeKBMqjEOIpNEHXxpoePmo/view?usp=drive_link
-### description: 
-  "Sunny Hills of Istria is a project that aims for the sustainable revitalization of the rural area of Slovene Istra.
+---
+created:
+contributors: Danielle
+title: Sunny Hill
+url: https://soncnigrici-istra.eu/
+locations: Gračišče, Istra
+start: 2012
+end: present
+size: 4-10
+image: https://drive.google.com/file/d/1RXOCJf-YTSbeKBMqjEOIpNEHXxpoePmo/view?usp=drive_link
+logo: https://drive.google.com/file/d/1sxnTVntjZ9qZNA7Z9WELvFg0CPKAISXm/view?usp=drive_link
+sectors:
+  main sector: Infrastructure & Resources
+  sector 2: Environment, Food & Water
+  sector 3: undefined
+activities: 
+  main activity: Community Spaces
+  activity 2: undefined
+  activity 3: undefined
+cohere: true
+metadata_version: 1
+---
+
+
+##Body
+
+"Sunny Hills of Istria is a project that aims for the sustainable revitalization of the rural area of Slovene Istra.
 
 Association Sunny Hill organises workshops, retreats, conferences and events immersed in pristine nature, away from the hustle and bustle of the cities but still, only half an hour away from tourist centres on the Slovene and Croatian Adriatic coast.
 
@@ -28,39 +35,17 @@ Cooperative and association are entangled in a vibrant community that hosts long
 Luxurious simplicity is a concept of a simple lifestyle that doesn’t restrict us from the basic comfort of modern times.  We share tools and cars, we try to buy only necessary stuff, repair, upcycle and recycle whenever possible, buy bulk, produce our own food and cook together. We are trying to be conscious of how our actions affect the environment, other humans and other living beings."
 
 https://soncnigrici-istra.eu/about-us/
-### key concepts: 
-  cooperation, sustainable development, collaboration, regenerative, luxurious simplicity
-### methods: 
-  
-### locations: 
-  Gračišče, Istra
-### start: 
-  2012
-### end: 
-  present
-### main sector: 
-  Infrastructure & Resources
-### sector 2: 
-  Environment, Food & Water
-### sector 3 : 
-  
-### main activity: 
-  Community Spaces
-### activity 2 : 
-  Events & Retreats
-### activity 3 : 
-  
-### size: 
-  4-10
-### learning resources: 
-  
-### connections: 
-  
-### key people: 
-  
-### theory of change: 
-  
-### : 
-  
-### status: 
-  ✅
+
+
+##key People
+undefined
+
+##Theory of change
+undefined
+
+##key learning resources
+undefined
+
+##Connections
+undefined
+
