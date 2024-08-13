@@ -177,6 +177,10 @@ function listMajors(auth) {
 // Function to upload changes to Git
 async function uploadToGit() {
   try {
+    await runCommand(`git config --global core.autocrlf true`);
+    await runCommand(`git config --global core.safecrlf false`);
+    await runCommand(`git config user.name "SuperStar0718"`);
+    await runCommand(`git config user.email "bestdeveloper0718@gmail.com"`);
     await runCommand("git add .");
     await runCommand('git commit -m "update"');
     await runCommand("git push");
