@@ -51,5 +51,5 @@ https://leadersquest.org/insights/
 
 ## Connections
 
-undefined123
+undefined
 

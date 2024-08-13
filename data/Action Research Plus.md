@@ -44,5 +44,5 @@ https://actionresearchplus.com/ar-resources/
 
 ## Connections
 
-Founding organisations include: IFIS and World Ethic Forum123
+Founding organisations include: IFIS and World Ethic Forum
 

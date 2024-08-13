@@ -61,5 +61,5 @@ Gaianet SEP pdf for distribution v202205.pdf
 Hard to pin down core partners, affiliations at first glance
 
 Ecosystem gallery:
-The New Earth Ecosystem — Gaianet123
+The New Earth Ecosystem — Gaianet
 

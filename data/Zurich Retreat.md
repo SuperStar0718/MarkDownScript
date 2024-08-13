@@ -53,5 +53,5 @@ Ecogood
 Amani Institute
 Global Impact Alliance
 JoinSeeds
-IASS Potsdam123
+IASS Potsdam
 

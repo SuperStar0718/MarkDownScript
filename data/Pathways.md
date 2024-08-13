@@ -43,5 +43,5 @@ https://pathways-courses.org/resources/
 
 ## Connections
 
-  Erasmus+ Movetia, Creating + Transformative Culture123
+  Erasmus+ Movetia, Creating + Transformative Culture
 

@@ -56,5 +56,5 @@ Resource hub: https://www.barrettacademy.com/article-pages/articles
 
 ## Connections
 
-undefined123
+undefined
 

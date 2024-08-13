@@ -40,5 +40,5 @@ See "COBALT: In Service to the Great Transformation" for an outline of the parad
 
 ## Connections
 
-123
+
 

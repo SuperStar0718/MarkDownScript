@@ -43,5 +43,5 @@ https://beyondbuckthorns.com/
 
 https://www.chaseandsnow.com/fi
 https://xn--metspuutarha-jcb.fi/
-https://www.beyondbuckthorns.com/123
+https://www.beyondbuckthorns.com/
 

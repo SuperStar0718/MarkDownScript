@@ -70,5 +70,5 @@ https://www.politicsfortomorrow.eu/what
 21. Plan B
 22. Deutsche Universität für Verwaltungswissenschaften Speyer
 23. FU Berlin
-24. TU Berlin123
+24. TU Berlin
 

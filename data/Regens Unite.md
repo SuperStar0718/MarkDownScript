@@ -43,5 +43,5 @@ Regens Unite Handbook: A Practical Guide for Regenerative Gatherings: https://op
 
 ## Connections
 
-123
+
 

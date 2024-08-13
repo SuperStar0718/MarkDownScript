@@ -40,5 +40,5 @@ links to interesting resources
 
 ## Connections
 
-e.g. partners, funders, etc.123
+e.g. partners, funders, etc.
 

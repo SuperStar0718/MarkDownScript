@@ -47,5 +47,5 @@ See here for their research publications on topics such as Educational Ecosystem
 
 ## Connections
 
-Amongst those listed as partners are: Earthwise, Ecocivilisation, The Weaving Lab, Ashoka, Campus Co-Evolve, School of International Futures, the Laszlo Institute. https://globaledufutures.org/about_us 123
+Amongst those listed as partners are: Earthwise, Ecocivilisation, The Weaving Lab, Ashoka, Campus Co-Evolve, School of International Futures, the Laszlo Institute. https://globaledufutures.org/about_us 
 

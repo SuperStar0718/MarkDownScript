@@ -41,5 +41,5 @@ https://visionaut.de/angebote/visionaut-basic/
 
 ## Connections
 
-Legacy 17, Erasmus +, Copernicus, Traccskills123
+Legacy 17, Erasmus +, Copernicus, Traccskills
 

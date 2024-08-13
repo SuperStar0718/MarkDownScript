@@ -44,5 +44,5 @@ https://earthlawyers.org/resources
 
 ## Connections
 
-undefined123
+undefined
 

@@ -55,5 +55,5 @@ undefined
 
 ## Connections
 
-Re-Alliance and ULEX are listed as collaborators: https://labolina.org/en/home/collaborators/123
+Re-Alliance and ULEX are listed as collaborators: https://labolina.org/en/home/collaborators/
 

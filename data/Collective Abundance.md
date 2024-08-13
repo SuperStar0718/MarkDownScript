@@ -46,5 +46,5 @@ undefined
 ## Connections
 
 A pilot project that grew out of Leap Collective.
-Initial funding from the Robert Bosch Foundation.123
+Initial funding from the Robert Bosch Foundation.
 

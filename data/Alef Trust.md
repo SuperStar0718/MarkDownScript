@@ -52,5 +52,5 @@ Nurturing the Fields of Change report: https://www.aleftrust.org/publications/nu
 
 ## Connections
 
-undefined123
+undefined
 

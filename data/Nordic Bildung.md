@@ -43,5 +43,5 @@ undefined
 
 ## Connections
 
-Learning Planet Institute123
+Learning Planet Institute
 

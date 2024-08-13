@@ -46,5 +46,5 @@ undefined
 
 ## Connections
 
-Symphonics is a partner123
+Symphonics is a partner
 

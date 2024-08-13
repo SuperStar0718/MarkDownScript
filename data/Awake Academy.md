@@ -49,5 +49,5 @@ Some of their free resources include:
 
 ## Connections
 
-undefined123
+undefined
 

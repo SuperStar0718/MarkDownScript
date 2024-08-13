@@ -54,5 +54,5 @@ https://drive.google.com/file/d/1vws8dabCPjQh-6uRCr0AmazR0crUXXq8/view?usp=drive
 
 ## Connections
 
-Global partner organisations include: Holomovement, Wholeworld-View,Charter for Compassion, Learning Planet Institute, Wellbeing Economy Alliance, Source of Synergy Foundation, YouthxYouth, Kosmos https://www.homeforhumanity.earth/partnerorganisations 123
+Global partner organisations include: Holomovement, Wholeworld-View,Charter for Compassion, Learning Planet Institute, Wellbeing Economy Alliance, Source of Synergy Foundation, YouthxYouth, Kosmos https://www.homeforhumanity.earth/partnerorganisations 
 

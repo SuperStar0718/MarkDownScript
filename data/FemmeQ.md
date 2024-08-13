@@ -65,5 +65,5 @@ We must restore a balance between intellect and intuition, facts and feelings, r
 
 ## Connections
 
-Co-founder Dr. Scilla Elworthy is also the Founder of Business Plan for Peace123
+Co-founder Dr. Scilla Elworthy is also the Founder of Business Plan for Peace
 

@@ -61,5 +61,5 @@ Kent State University – College of Business Administration
 LeaderShape Global
 LUISS Business School
 Sasin School of Management
-Turku School of Economics – University of Turku123
+Turku School of Economics – University of Turku
 

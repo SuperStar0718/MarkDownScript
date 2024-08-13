@@ -44,5 +44,5 @@ https://elgaworld.org/covid
 ## Connections
 
 University of Santa Catarina, Florianópolis, Brazil
-Australian Earth Laws Alliance123
+Australian Earth Laws Alliance
 

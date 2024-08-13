@@ -53,5 +53,5 @@ The Roddick Foundation;
 Schweisfurth-Stiftung;
 Erasmus+ Project of the European Union; 
 Lush;
-RSF Social Finance;123
+RSF Social Finance;
 

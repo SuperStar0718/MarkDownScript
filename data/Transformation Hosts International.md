@@ -75,5 +75,5 @@ https://hostingtransformation.eu/methods-toolbox/
 26. International Permaculture Education Network - IPEN
 27. Cultivate - sustainable Ireland
 28. Permaculture Association UK
-29. COPERNICUS Alliance123
+29. COPERNICUS Alliance
 

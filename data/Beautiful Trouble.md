@@ -49,5 +49,5 @@ Online Toolbox of Stories, Tactics, Principles, Theories and Methodologies for a
 
 ## Connections
 
-undefined123
+undefined
 

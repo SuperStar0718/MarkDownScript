@@ -43,5 +43,5 @@ https://www.tamera.org/peace-education/
 
 ## Connections
 
-undefined123
+undefined
 

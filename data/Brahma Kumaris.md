@@ -44,5 +44,5 @@ https://www.brahmakumaris.org/discovery/ebooks
 
 ## Connections
 
-undefined123
+undefined
 

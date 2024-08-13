@@ -45,5 +45,5 @@ https://innerdevelopmentgoals.org/
 
 ## Connections
 
-123
+
 

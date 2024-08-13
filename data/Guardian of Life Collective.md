@@ -51,5 +51,5 @@ undefined
 
 ## Connections
 
-Ekskaret Foundation is a partner and donor123
+Ekskaret Foundation is a partner and donor
 

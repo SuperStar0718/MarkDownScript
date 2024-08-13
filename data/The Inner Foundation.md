@@ -69,5 +69,5 @@ We created The Inner Foundation as a significant force for good – equal parts 
 25. MANUAL
 26. 29k
 27. Center for Happiness, Wellbeing & Welfare
-28. Spring Health123
+28. Spring Health
 

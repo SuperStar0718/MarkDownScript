@@ -40,5 +40,5 @@ https://holos.earth/blog-posts/
 
 ## Connections
 
-123
+
 

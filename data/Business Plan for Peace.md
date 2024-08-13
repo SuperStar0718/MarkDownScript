@@ -48,5 +48,5 @@ undefined
 
 ## Connections
 
-Founder Dr. Scilla Elworthy is also the Co-founder of FemmeQ123
+Founder Dr. Scilla Elworthy is also the Co-founder of FemmeQ
 

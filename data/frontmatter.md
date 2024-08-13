@@ -40,5 +40,5 @@ body - H2
 
 ## Connections
 
-body - H2123
+body - H2
 
