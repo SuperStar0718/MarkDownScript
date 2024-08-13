@@ -65,4 +65,3 @@ https://www.euforia.org/en/blog/category/tools+%26+resources
 - Constellation
 - Collaboratio Helvetica
 
-

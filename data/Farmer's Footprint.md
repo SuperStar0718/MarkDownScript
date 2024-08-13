@@ -48,4 +48,3 @@ https://farmersfootprint.us/resources/
 
 
 
-

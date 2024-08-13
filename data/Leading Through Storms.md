@@ -58,4 +58,3 @@ Recommended books and articles: https://www.leadingthroughstorms.org/resources
 
 undefined
 
-

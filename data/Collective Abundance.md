@@ -48,4 +48,3 @@ undefined
 A pilot project that grew out of Leap Collective.
 Initial funding from the Robert Bosch Foundation.
 
-

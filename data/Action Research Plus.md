@@ -46,4 +46,3 @@ https://actionresearchplus.com/ar-resources/
 
 Founding organisations include: IFIS and World Ethic Forum
 
-

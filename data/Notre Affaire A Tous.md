@@ -47,4 +47,3 @@ See their manifesto: https://notreaffaireatous.org/manifeste/
 
 
 
-

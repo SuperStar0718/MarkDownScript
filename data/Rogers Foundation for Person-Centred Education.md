@@ -47,4 +47,3 @@ Extensive bibiliography of articles related to person-centred education: https:/
 
 
 
-

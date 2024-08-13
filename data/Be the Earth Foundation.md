@@ -48,4 +48,3 @@ See their 2022 Strategy here: https://www.betheearth.foundation/strategy
 
 Advaya is in their portfolio of investments: https://www.betheearth.foundation/investments 
 
-

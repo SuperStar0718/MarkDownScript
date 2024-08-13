@@ -54,4 +54,3 @@ Radical XChange open-source community wiki (editable via GitHub in Markdown): ht
 
 Supported by: Berggruen Institute; Gitcoin; Omidyar Network; One Project; Optimism RetroPGF; The Rockefeller Foundation
 
-

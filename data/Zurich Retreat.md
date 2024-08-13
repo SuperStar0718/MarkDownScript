@@ -55,4 +55,3 @@ Global Impact Alliance
 JoinSeeds
 IASS Potsdam
 
-

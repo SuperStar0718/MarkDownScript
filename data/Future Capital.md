@@ -58,4 +58,3 @@ Quotations from their Founders' Report: https://futureofcapital.org/reports/
 
 World Academy of Art and Science is a partner organisation
 
-

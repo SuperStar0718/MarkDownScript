@@ -42,4 +42,3 @@ links to interesting resources
 
 e.g. partners, funders, etc.
 
-

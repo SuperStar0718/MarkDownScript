@@ -45,4 +45,3 @@ Resources include free guides on topics such as: community composting; growing f
 
 undefined
 
-

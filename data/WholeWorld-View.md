@@ -54,4 +54,3 @@ See their "unitive narrative": https://www.wholeworld-view.org/unitive-narrative
 
 See here: https://www.wholeworld-view.org/partners. 
 
-

@@ -39,7 +39,7 @@ ${data["theory of change"]}\n
 ## key learning resources\n
 ${data["learning resources"]}\n
 ## Connections\n
-${data["connections"]}\n\n
+${data["connections"]}\n
 `;
 
   // Object.keys(data).map((key, index) => {

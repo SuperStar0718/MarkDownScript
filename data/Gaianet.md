@@ -63,4 +63,3 @@ Hard to pin down core partners, affiliations at first glance
 Ecosystem gallery:
 The New Earth Ecosystem — Gaianet
 
-

@@ -53,4 +53,3 @@ Earthwise Constitution: https://www.earthwise.global/constitution/
 
 See here for those who are part of the Earthwise alliance: https://www.earthwise.global/alliance/. Includes: The Hague Center, Ekskaret...
 
-
