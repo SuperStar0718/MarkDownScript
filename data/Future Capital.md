@@ -56,5 +56,5 @@ Quotations from their Founders' Report: https://futureofcapital.org/reports/
 
 ## Connections
 
-World Academy of Art and Science is a partner organisation
+World Academy of Art and Science is a partner organisation123
 

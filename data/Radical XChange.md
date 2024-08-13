@@ -52,5 +52,5 @@ Radical XChange open-source community wiki (editable via GitHub in Markdown): ht
 
 ## Connections
 
-Supported by: Berggruen Institute; Gitcoin; Omidyar Network; One Project; Optimism RetroPGF; The Rockefeller Foundation
+Supported by: Berggruen Institute; Gitcoin; Omidyar Network; One Project; Optimism RetroPGF; The Rockefeller Foundation123
 

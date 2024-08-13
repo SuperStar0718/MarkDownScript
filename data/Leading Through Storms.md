@@ -56,5 +56,5 @@ Recommended books and articles: https://www.leadingthroughstorms.org/resources
 
 ## Connections
 
-undefined
+undefined123
 

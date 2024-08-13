@@ -45,5 +45,5 @@ HSD-informed resources: https://www.hsdinstitute.org/resources.html
 
 ## Connections
 
-Partners: https://www.hsdinstitute.org/about-hsd-institute/institutional-partners.html 
+Partners: https://www.hsdinstitute.org/about-hsd-institute/institutional-partners.html 123
 

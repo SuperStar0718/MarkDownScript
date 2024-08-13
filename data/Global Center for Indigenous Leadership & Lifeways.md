@@ -46,5 +46,5 @@ https://www.gcill.world/books
 
 ## Connections
 
-https://www.gcill.world/our-partners
+https://www.gcill.world/our-partners123
 

@@ -52,5 +52,5 @@ See their "unitive narrative": https://www.wholeworld-view.org/unitive-narrative
 
 ## Connections
 
-See here: https://www.wholeworld-view.org/partners. 
+See here: https://www.wholeworld-view.org/partners. 123
 
