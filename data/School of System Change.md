@@ -64,3 +64,4 @@ https://medium.com/school-of-system-change/systems-practices-what-might-these-be
 
 Partners: On Purpose, drosos, idh, WWF, Greenpeace; Funding Partners: Forum for the Future, Lankelly Chase, GF, Johnson+Johnson Foundation, Cisco Foundation; Partner Networks: Illuminate, BMW Foundation, Bosch Alumni Netowrk, Catalyst 2030, The Hum
 
+
