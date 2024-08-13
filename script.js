@@ -2,13 +2,14 @@ const fs = require("fs");
 const readline = require("readline");
 const csv = require("csv-parser");
 const { google } = require("googleapis");
+const { exec } = require('child_process');
 
 const results = [];
 
 const writeProfile = (data) => {
   let content = `---
 created:
-contributors: ${data['curator']}
+contributors: ${data["curator"]}
 title: ${data["title"]}
 url: ${data["url"]}
 locations: ${data["locations"]}
@@ -41,9 +42,8 @@ ${data["learning resources"]}\n
 ${data["connections"]}\n
 `;
 
-
   // Object.keys(data).map((key, index) => {
-  //   content += `### ${key}: 
+  //   content += `### ${key}:
   // ${data[key]}\n`;
   // });
 
@@ -63,6 +63,9 @@ ${data["connections"]}\n
       // console.log("Markdown file is generated");
     }
   });
+
+  // Call the function to upload changes
+  uploadToGit();
 };
 
 // // Read the CSV file
@@ -170,4 +173,31 @@ function listMajors(auth) {
       }
     }
   );
+}
+
+// Function to upload changes to Git
+async function uploadToGit() {
+  try {
+    await runCommand("git add .");
+    await runCommand('git commit -m "update"');
+    await runCommand("git push");
+    console.log("Changes uploaded to Git successfully.");
+  } catch (error) {
+    console.error(error);
+  }
+}
+
+// Function to execute shell commands
+function runCommand(command) {
+  return new Promise((resolve, reject) => {
+    exec(command, (error, stdout, stderr) => {
+      if (error) {
+        reject(`Error: ${error.message}`);
+      } else if (stderr) {
+        reject(`Stderr: ${stderr}`);
+      } else {
+        resolve(stdout);
+      }
+    });
+  });
 }
